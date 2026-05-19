@@ -1,8 +1,6 @@
 <div align="center">
 
-# ✨ FOOD DELIVERY PATTERN ANALYSIS ✨
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&pause=1000&color=FF4D9D&center=true&vCenter=true&width=1000&lines=Data+Mining+%26+Machine+Learning+Project;Association+Rules+%7C+PageRank+%7C+BERT;Smart+Food+Recommendation+System;Graph+Analysis+%26+Sentiment+Analysis" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&pause=1000&color=FF4D9D&center=true&vCenter=true&width=1200&height=100&lines=🍔+Food+Delivery+Pattern+Analysis+🍟;Association+Rules+%7C+PageRank+%7C+BERT;Smart+Food+Recommendation+System+🚀" />
 
 <br><br>
 
@@ -15,10 +13,6 @@
 <img src="https://img.shields.io/badge/PageRank-00C2FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Recommendation-System-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Graph-Analysis-success?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&text=Food%20Delivery%20Analytics&fontAlign=50&fontAlignY=50&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
 
 </div>
 
@@ -336,10 +330,6 @@ allowed the system to generate intelligent recommendations and valuable business
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+Our+Project+💖;Made+With+Love+By+Our+Team+🚀;Data+Mining+%7C+Machine+Learning+%7C+BERT" />
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF0080,100:7928CA&section=footer"/>
 
