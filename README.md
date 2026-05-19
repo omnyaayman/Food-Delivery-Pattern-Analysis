@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=github&theme=radical&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?omnyaayman=github&theme=radical&no-frame=true&margin-w=15"/>
 
 </div>
 
