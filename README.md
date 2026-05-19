@@ -14,11 +14,6 @@ Association Rule Mining • PageRank Analysis • Graph Mining • BERT Sentimen
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=1000&lines=Data+Mining+Project;Association+Rules+%7C+PageRank+%7C+BERT;Food+Recommendation+System;Machine+Learning+%26+Graph+Analysis" />
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,vscode,github,jupyter" />
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Data%20Mining-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BERT-NLP-7B1FA2?style=for-the-badge"/>
