@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&pause=1000&color=FF4D9D&center=true&vCenter=true&width=1200&height=100&lines=🍔+Food+Delivery+Pattern+Analysis+🍟;Association+Rules+%7C+PageRank+%7C+BERT;Smart+Food+Recommendation+System+🚀" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:11998e&height=260&section=header&text=Food%20Delivery%20Pattern%20Analysis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<br>
+
+<h1 align="center">Food Delivery Pattern Analysis & BERT-Based Recommendation System</h1>
+
+<p align="center">
+Association Rule Mining • PageRank Analysis • Graph Mining • BERT Sentiment Analysis
+</p>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=1000&lines=Data+Mining+Project;Association+Rules+%7C+PageRank+%7C+BERT;Food+Recommendation+System;Machine+Learning+%26+Graph+Analysis" />
 
 <br><br>
 
@@ -8,92 +20,91 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data%20Mining-FF0080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BERT-NLP-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PageRank-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Recommendation-System-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graph-Analysis-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Mining-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BERT-NLP-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PageRank-0288D1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graph-Analysis-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recommendation-System-D81B60?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌟 ABOUT THE PROJECT
+# 📌 PROJECT OVERVIEW
 
-This project focuses on analyzing customer food ordering behavior using advanced **Data Mining**, **Machine Learning**, and **Graph Analysis** techniques.
+This project analyzes customer food ordering behavior using advanced **Data Mining**, **Machine Learning**, and **Graph Analysis** techniques.
 
-The project combines:
+The project combines multiple intelligent systems including:
 
-✨ Association Rule Mining  
-✨ PageRank Graph Analysis  
-✨ BERT Sentiment Analysis  
-✨ Recommendation Systems  
+- Association Rule Mining
+- Graph-Based Link Analysis
+- PageRank Algorithm
+- BERT Sentiment Analysis
+- Recommendation Systems
 
-to discover hidden ordering patterns and generate intelligent food recommendations.
+The main objective is to extract meaningful insights from food delivery data and customer reviews in order to improve customer experience and generate smart food recommendations.
 
-The system simulates real-world food delivery platforms such as:
+The project simulates real-world food delivery platforms such as:
 
-🍔 Uber Eats  
-🍕 Talabat  
-🌯 Deliveroo  
+- Uber Eats
+- Talabat
+- Deliveroo
 
 ---
 
-# 🎯 PROJECT GOALS
+# 🎯 PROJECT OBJECTIVES
 
 <div align="center">
 
-| 🚀 Goal | 📌 Description |
+| Objective | Description |
 |---|---|
-| 🍟 Frequent Itemsets | Discover meals ordered together |
-| 📊 Association Rules | Analyze customer ordering behavior |
-| ⭐ PageRank Analysis | Rank popular meals |
-| 🤖 BERT Sentiment Analysis | Analyze customer reviews |
-| 🍔 Recommendation System | Generate smart meal suggestions |
-| 📈 Data Visualization | Visualize patterns and insights |
+| Frequent Itemsets | Discover meals ordered together |
+| Association Rules | Analyze ordering behavior |
+| PageRank Analysis | Rank the most popular meals |
+| BERT Sentiment Analysis | Analyze customer reviews |
+| Recommendation System | Generate smart meal recommendations |
+| Data Visualization | Create visual insights and graphs |
 
 </div>
 
 ---
 
-# 🧠 TECHNIQUES & ALGORITHMS
-
----
+# 🧠 ALGORITHMS & TECHNIQUES
 
 ## 🔹 Association Rule Mining
 
-Association Rule Mining was applied to identify relationships between meals frequently ordered together.
+Association Rule Mining was used to identify relationships between meals frequently ordered together.
 
-### ✅ Algorithms Used
+### Algorithms Used:
 - Apriori Algorithm
 - FP-Growth Algorithm
 
-### 📌 Example Rules
-✔ Burger ➜ Fries  
-✔ Pizza ➜ Cola  
-✔ Pasta ➜ Garlic Bread  
-✔ Shawarma ➜ Pepsi  
+### Example Rules:
+- Burger ➜ Fries
+- Pizza ➜ Cola
+- Pasta ➜ Garlic Bread
+- Shawarma ➜ Pepsi
 
-### 🎯 Purpose
-- Discover hidden customer patterns
-- Generate meal recommendations
-- Identify best-selling combinations
+### Purpose:
+- Discover hidden customer behavior patterns
+- Generate intelligent recommendations
+- Analyze customer preferences
 
 ---
 
 ## 🔹 Graph Analysis using PageRank
 
-A graph network was created where:
+A graph network was constructed where:
 
-- Nodes → Meals
-- Edges → Meal Relationships
+- Nodes represent meals
+- Edges represent meals ordered together
 
-The PageRank algorithm was used to rank the most influential meals.
+The PageRank algorithm was applied to identify the most influential meals in the network.
 
-### 🎯 Goals
-✔ Detect highly connected meals  
-✔ Analyze customer ordering behavior  
-✔ Identify popular meals  
+### Goals:
+- Detect highly connected meals
+- Analyze ordering relationships
+- Rank meal popularity
 
 ---
 
@@ -101,11 +112,11 @@ The PageRank algorithm was used to rank the most influential meals.
 
 BERT was used to classify customer reviews into:
 
-😊 Positive  
-😐 Neutral  
-😡 Negative  
+- Positive
+- Neutral
+- Negative
 
-### 🎯 Goals
+### Goals:
 - Understand customer satisfaction
 - Analyze customer feedback
 - Improve recommendation quality
@@ -116,16 +127,16 @@ BERT was used to classify customer reviews into:
 
 <div align="center">
 
-| 🛠 Technology | 💡 Purpose |
+| Technology | Purpose |
 |---|---|
 | Python | Core Programming |
-| Pandas | Data Processing |
-| NumPy | Numerical Analysis |
+| Pandas | Data Analysis |
+| NumPy | Numerical Computing |
 | NetworkX | Graph Analysis |
 | mlxtend | Association Rule Mining |
 | Transformers (BERT) | NLP & Sentiment Analysis |
 | Matplotlib | Visualization |
-| Seaborn | Statistical Charts |
+| Seaborn | Statistical Visualization |
 | Jupyter Notebook | Development Environment |
 
 </div>
@@ -153,17 +164,19 @@ Project Final DM/
 
 # 📊 DATASET DESCRIPTION
 
-The dataset contains:
+The dataset contains information related to customer orders and food delivery transactions.
 
-🍔 Meal Names  
-🍟 Meal Categories  
-⭐ Customer Ratings  
-📝 Customer Reviews  
-🛒 Order Transactions  
+### Dataset Includes:
+- Meal Names
+- Meal Categories
+- Customer Ratings
+- Customer Reviews
+- Transaction Data
+- Meal Combinations
 
 Each transaction represents meals ordered together by customers.
 
-The dataset was cleaned and processed before applying data mining algorithms.
+The dataset was cleaned and processed before applying machine learning and data mining techniques.
 
 ---
 
@@ -174,12 +187,12 @@ The dataset was cleaned and processed before applying data mining algorithms.
 ```mermaid
 flowchart LR
 
-A[📥 Data Collection] --> B[🧹 Data Cleaning]
-B --> C[📊 Association Rules]
-C --> D[🕸 Graph Analysis]
-D --> E[🧠 BERT Sentiment]
-E --> F[🤖 Recommendation System]
-F --> G[📈 Visualization]
+A[Data Collection] --> B[Data Cleaning]
+B --> C[Association Rule Mining]
+C --> D[Graph Analysis]
+D --> E[BERT Sentiment Analysis]
+E --> F[Recommendation System]
+F --> G[Visualization]
 ```
 
 </div>
@@ -188,23 +201,28 @@ F --> G[📈 Visualization]
 
 # 📈 DATA VISUALIZATION
 
-The project generates several visualizations including:
+The project generates multiple visualizations including:
 
-📊 Frequent Itemsets Charts  
-📈 Association Rules Graphs  
-🕸 Meal Network Graphs  
-😊 Sentiment Distribution Charts  
-⭐ Meal Ranking Visualizations  
+- Frequent Itemsets Charts
+- Association Rules Graphs
+- Meal Network Graphs
+- Sentiment Distribution Charts
+- Meal Ranking Visualizations
+
+Visualization libraries used:
+- Matplotlib
+- Seaborn
+- NetworkX
 
 ---
 
 # 📌 KEY INSIGHTS
 
-✅ Customers frequently order fast-food combinations together  
-✅ Positive reviews increase meal popularity  
-✅ Certain meals dominate the ordering network  
-✅ Recommendation systems improve customer experience  
-✅ Graph analysis identifies influential menu items  
+- Customers frequently order fast-food combinations together
+- Positive reviews significantly impact meal popularity
+- Some meals dominate the ordering network
+- Recommendation systems improve customer engagement
+- Graph analysis identifies influential menu items
 
 ---
 
@@ -212,12 +230,12 @@ The project generates several visualizations including:
 
 The recommendation system suggests meals based on:
 
-✔ Frequent itemsets  
-✔ Popular meal rankings  
-✔ Customer behavior  
-✔ Graph relationships  
+- Frequent itemsets
+- Popular meal rankings
+- Customer behavior patterns
+- Graph relationships
 
-The system helps improve customer engagement and recommendation accuracy.
+The system improves recommendation accuracy and customer experience.
 
 ---
 
@@ -255,15 +273,15 @@ Project__Finall_Data_Mining_ipynb.ipynb
 
 # 📄 FILES DESCRIPTION
 
-| 📂 File | 📌 Description |
+| File | Description |
 |---|---|
 | Project__Finall_Data_Mining_ipynb.ipynb | Main Notebook |
 | app.py | Main Application |
 | food_delivery_pattern_analysis_1000_rows.csv | Main Dataset |
-| frequent_itemsets.csv | Frequent Itemsets |
-| best_meal_combinations.csv | Best Meal Combinations |
+| frequent_itemsets.csv | Frequent Itemsets Results |
+| best_meal_combinations.csv | Best Meal Recommendations |
 | meal_graph_analysis.csv | Graph Analysis Results |
-| final_recommendations.csv | Final Recommendations |
+| final_recommendations.csv | Final Recommendation Output |
 
 ---
 
@@ -271,13 +289,13 @@ Project__Finall_Data_Mining_ipynb.ipynb
 
 <div align="center">
 
-| ✅ Achievement | 🚀 Status |
+| Achievement | Status |
 |---|---|
-| Frequent Pattern Mining | ✅ Completed |
-| PageRank Analysis | ✅ Completed |
-| BERT Sentiment Analysis | ✅ Completed |
-| Recommendation System | ✅ Completed |
-| Data Visualization | ✅ Completed |
+| Frequent Pattern Mining | Completed |
+| PageRank Analysis | Completed |
+| BERT Sentiment Analysis | Completed |
+| Recommendation System | Completed |
+| Data Visualization | Completed |
 
 </div>
 
@@ -285,11 +303,11 @@ Project__Finall_Data_Mining_ipynb.ipynb
 
 # 🔮 FUTURE IMPROVEMENTS
 
-✨ Real-time recommendation systems  
-✨ Web application deployment  
-✨ Live API integration  
-✨ Personalized recommendations  
-✨ Advanced deep learning models  
+- Real-time recommendation systems
+- Web application deployment
+- Live API integration
+- Personalized recommendations
+- Advanced deep learning models
 
 ---
 
@@ -297,7 +315,7 @@ Project__Finall_Data_Mining_ipynb.ipynb
 
 <div align="center">
 
-| 🌟 Name | 💼 Role |
+| Name | Role |
 |---|---|
 | Yasmin Ramadan | Team Leader |
 | Omnia Ayman | Team Member |
@@ -313,10 +331,10 @@ Project__Finall_Data_Mining_ipynb.ipynb
 
 This project demonstrates how:
 
-✨ Data Mining  
-✨ Graph Analysis  
-✨ Deep Learning  
-✨ Recommendation Systems  
+- Data Mining
+- Graph Analysis
+- Deep Learning
+- Recommendation Systems
 
 can work together to generate meaningful insights from food delivery platforms and improve customer experience.
 
@@ -325,12 +343,14 @@ The integration of:
 - PageRank
 - BERT Sentiment Analysis
 
-allowed the system to generate intelligent recommendations and valuable business insights.
+allowed the project to generate intelligent recommendations and valuable business insights.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF0080,100:7928CA&section=footer"/>
+<h3>Thanks For Visiting Our Project</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer"/>
 
 </div>
