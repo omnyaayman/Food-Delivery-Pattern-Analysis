@@ -6,10 +6,6 @@
 
 <h1 align="center">Food Delivery Pattern Analysis & BERT-Based Recommendation System</h1>
 
-<p align="center">
-Association Rule Mining • PageRank Analysis • Graph Mining • BERT Sentiment Analysis
-</p>
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00E676&center=true&vCenter=true&width=1000&lines=Data+Mining+Project;Association+Rules+%7C+PageRank+%7C+BERT;Food+Recommendation+System;Machine+Learning+%26+Graph+Analysis" />
@@ -278,21 +274,6 @@ Project__Finall_Data_Mining_ipynb.ipynb
 | meal_graph_analysis.csv | Graph Analysis Results |
 | final_recommendations.csv | Final Recommendation Output |
 
----
-
-# 🏆 PROJECT RESULTS
-
-<div align="center">
-
-| Achievement | Status |
-|---|---|
-| Frequent Pattern Mining | Completed |
-| PageRank Analysis | Completed |
-| BERT Sentiment Analysis | Completed |
-| Recommendation System | Completed |
-| Data Visualization | Completed |
-
-</div>
 
 ---
 
@@ -341,11 +322,3 @@ The integration of:
 allowed the project to generate intelligent recommendations and valuable business insights.
 
 ---
-
-<div align="center">
-
-<h3>Thanks For Visiting Our Project</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer"/>
-
-</div>
