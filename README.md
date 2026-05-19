@@ -320,7 +320,3 @@ can work together to generate meaningful insights from food delivery platforms a
 ---
 
 ### 💖 Don't Forget To Star The Repository 💖
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-</div>
