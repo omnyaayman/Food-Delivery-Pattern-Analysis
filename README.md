@@ -1,10 +1,12 @@
 <div align="center">
 
-# 🍔 FOOD DELIVERY PATTERN ANALYSIS 🍟
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=FF4B91&center=true&vCenter=true&width=1000&lines=Data+Mining+Project;Association+Rules+%7C+PageRank+%7C+BERT;Food+Recommendation+System;Machine+Learning+%26+Graph+Analysis" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Food%20Delivery%20Pattern%20Analysis&fontSize=45&color=0:FF0080,50:7928CA,100:2AFADF&stroke=ffffff&strokeWidth=2&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=FF61D2&center=true&vCenter=true&width=900&lines=Data+Mining+Project+🚀;Association+Rules+%7C+PageRank+%7C+BERT;Food+Recommendation+System+🍔;Machine+Learning+%26+Graph+Analysis"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -14,10 +16,6 @@
 <img src="https://img.shields.io/badge/PageRank-FF6D00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Recommendation-System-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=220&section=header&text=Food%20Delivery%20Analytics&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -339,14 +337,10 @@ allowed the project to generate intelligent recommendations and valuable busines
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+Our+Project+💖;Made+With+Love+By+Our+Team+🚀;Data+Mining+%7C+Machine+Learning+%7C+BERT" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+Our+Project+💖;Made+With+Love+By+Our+Team+🚀;Data+Mining+%7C+Machine+Learning+%7C+BERT" />
 
 <br><br>
 
-# ⭐ DON'T FORGET TO STAR THE REPOSITORY ⭐
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F5EFB,100:FC466B&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=130&section=footer"/>
 
 </div>
