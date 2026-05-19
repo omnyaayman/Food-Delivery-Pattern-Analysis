@@ -306,12 +306,4 @@ can work together to generate meaningful insights from food delivery platforms a
 
 ---
 
-<div align="center">
-
-# ⭐ Thank You For Visiting Our Project ⭐
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Made+with+❤️+by+Our+Team;Data+Mining+%7C+Machine+Learning;Food+Delivery+Analytics+Project" />
-
----
-
 ### 💖 Don't Forget To Star The Repository 💖
