@@ -1,0 +1,72 @@
+support,itemsets
+0.05555555555555555,frozenset({'Avocado Toast'})
+0.03333333333333333,frozenset({'BBQ Chicken Pizza'})
+0.044444444444444446,frozenset({'Beef Taco'})
+0.03333333333333333,frozenset({'Beef Wrap'})
+0.044444444444444446,frozenset({'Burger'})
+0.10740740740740741,frozenset({'Caesar Salad'})
+0.05185185185185185,frozenset({'Chicken Taco'})
+0.05925925925925926,frozenset({'Chicken Wrap'})
+0.12962962962962962,frozenset({'Coke'})
+0.06666666666666667,frozenset({'Coleslaw'})
+0.05185185185185185,frozenset({'Double Burger'})
+0.05185185185185185,frozenset({'Dragon Roll'})
+0.06296296296296296,frozenset({'Dumpling'})
+0.05925925925925926,frozenset({'Edamame'})
+0.04814814814814815,frozenset({'Falafel Wrap'})
+0.040740740740740744,frozenset({'Fish Taco'})
+0.15925925925925927,frozenset({'Fries'})
+0.11481481481481481,frozenset({'Garlic Bread'})
+0.05185185185185185,frozenset({'Greek Salad'})
+0.08518518518518518,frozenset({'Green Salad'})
+0.07037037037037037,frozenset({'Guacamole'})
+0.06666666666666667,frozenset({'Horchata'})
+0.07407407407407407,frozenset({'Jasmine Tea'})
+0.06666666666666667,frozenset({'Lemonade'})
+0.05925925925925926,frozenset({'Margherita Pizza'})
+0.06666666666666667,frozenset({'Miso Soup'})
+0.044444444444444446,frozenset({'Nachos'})
+0.05185185185185185,frozenset({'Onion Rings'})
+0.06296296296296296,frozenset({'Pad Thai'})
+0.05185185185185185,frozenset({'Penne Arrabiata'})
+0.044444444444444446,frozenset({'Pepperoni Pizza'})
+0.1,frozenset({'Pepsi'})
+0.044444444444444446,frozenset({'Quinoa Bowl'})
+0.04814814814814815,frozenset({'Ramen'})
+0.05925925925925926,frozenset({'Salmon Sushi'})
+0.04814814814814815,frozenset({'Shrimp Tempura'})
+0.06296296296296296,frozenset({'Smoothie'})
+0.03333333333333333,frozenset({'Spaghetti Carbonara'})
+0.07407407407407407,frozenset({'Spring Rolls'})
+0.03333333333333333,frozenset({'Tiramisu'})
+0.04814814814814815,frozenset({'Tuna Roll'})
+0.03333333333333333,"frozenset({'Avocado Toast', 'Caesar Salad'})"
+0.03333333333333333,"frozenset({'Fries', 'Beef Wrap'})"
+0.05185185185185185,"frozenset({'Guacamole', 'Chicken Taco'})"
+0.03333333333333333,"frozenset({'Chicken Taco', 'Horchata'})"
+0.040740740740740744,"frozenset({'Chicken Wrap', 'Coleslaw'})"
+0.05925925925925926,"frozenset({'Chicken Wrap', 'Lemonade'})"
+0.07037037037037037,"frozenset({'Coke', 'Fries'})"
+0.03333333333333333,"frozenset({'Coke', 'Garlic Bread'})"
+0.040740740740740744,"frozenset({'Coleslaw', 'Lemonade'})"
+0.05185185185185185,"frozenset({'Fries', 'Double Burger'})"
+0.037037037037037035,"frozenset({'Dragon Roll', 'Edamame'})"
+0.037037037037037035,"frozenset({'Dumpling', 'Pad Thai'})"
+0.037037037037037035,"frozenset({'Edamame', 'Miso Soup'})"
+0.04814814814814815,"frozenset({'Edamame', 'Tuna Roll'})"
+0.040740740740740744,"frozenset({'Margherita Pizza', 'Garlic Bread'})"
+0.05925925925925926,"frozenset({'Garlic Bread', 'Pepsi'})"
+0.05185185185185185,"frozenset({'Smoothie', 'Greek Salad'})"
+0.05555555555555555,"frozenset({'Green Salad', 'Salmon Sushi'})"
+0.040740740740740744,"frozenset({'Green Salad', 'Shrimp Tempura'})"
+0.05185185185185185,"frozenset({'Guacamole', 'Horchata'})"
+0.044444444444444446,"frozenset({'Ramen', 'Jasmine Tea'})"
+0.04814814814814815,"frozenset({'Spring Rolls', 'Jasmine Tea'})"
+0.05925925925925926,"frozenset({'Margherita Pizza', 'Pepsi'})"
+0.03333333333333333,"frozenset({'Penne Arrabiata', 'Tiramisu'})"
+0.044444444444444446,"frozenset({'Pepperoni Pizza', 'Pepsi'})"
+0.040740740740740744,"frozenset({'Shrimp Tempura', 'Salmon Sushi'})"
+0.03333333333333333,"frozenset({'Guacamole', 'Chicken Taco', 'Horchata'})"
+0.040740740740740744,"frozenset({'Chicken Wrap', 'Coleslaw', 'Lemonade'})"
+0.040740740740740744,"frozenset({'Margherita Pizza', 'Garlic Bread', 'Pepsi'})"
+0.040740740740740744,"frozenset({'Green Salad', 'Shrimp Tempura', 'Salmon Sushi'})"

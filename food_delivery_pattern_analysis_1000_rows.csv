@@ -1,0 +1,1001 @@
+transaction_item_id,order_id,customer_id,restaurant_name,meal_name,category,rating,review_text,sentiment_label,delivery_time,food_preparation_time,cost_of_the_order,order_date
+TI000001,ORD00001,C0063,Pizza Palace,Margherita Pizza,Main,5.0,Perfect meal for a cozy evening at home.,positive,28.0,33.0,11.18,2024-04-24
+TI000002,ORD00001,C0063,Pizza Palace,Pepsi,Drink,5.0,Perfect meal for a cozy evening at home.,positive,28.0,33.0,11.18,2024-04-24
+TI000003,ORD00002,C0008,Pizza Palace,Pepperoni Pizza,Main,,"Cold food and extremely late delivery, very unhappy.",negative,33.0,17.0,17.98,2024-02-17
+TI000004,ORD00002,C0008,Pizza Palace,Caesar Salad,Side,1.0,"Cold food and extremely late delivery, very unhappy.",negative,33.0,17.0,17.98,2024-02-17
+TI000005,ORD00002,C0008,Pizza Palace,Pepsi,Drink,1.0,,negative,33.0,17.0,17.98,2024-02-17
+TI000006,ORD00003,C0072,Noodle Nest,Pad Thai,Main,4.0,Quick delivery and the food tasted fantastic!,positive,68.0,35.0,16.3,2024-01-04
+TI000007,ORD00003,C0072,Noodle Nest,Dumpling,Side,4.0,Quick delivery and the food tasted fantastic!,positive,68.0,35.0,16.3,2024-01-04
+TI000008,ORD00004,C0087,Sushi Spot,Tuna Roll,Main,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,22.0,16.66,2024-02-22
+TI000009,ORD00004,C0087,Sushi Spot,Edamame,Side,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,22.0,16.66,2024-02-22
+TI000010,ORD00004,C0087,Sushi Spot,Miso Soup,Side,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,22.0,16.66,2024-02-22
+TI000011,ORD00005,C0138,Wrap World,Chicken Wrap,Main,5.0,"Excellent taste and fast delivery, very satisfied!",positive,44.0,12.0,13.07,2024-03-04
+TI000012,ORD00005,C0138,Wrap World,Fries,Side,5.0,"Excellent taste and fast delivery, very satisfied!",positive,44.0,12.0,13.07,2024-03-04
+TI000013,ORD00005,C0138,Wrap World,Lemonade,Drink,5.0,"Excellent taste and fast delivery, very satisfied!",,44.0,12.0,13.07,2024-03-04
+TI000014,ORD00006,C0012,Taco Town,Fish Taco,Main,2.0,"Cold food and extremely late delivery, very unhappy.",negative,34.0,34.0,15.04,2024-12-04
+TI000015,ORD00006,C0012,Taco Town,Guacamole,Side,2.0,"Cold food and extremely late delivery, very unhappy.",negative,34.0,34.0,15.04,2024-12-04
+TI000016,ORD00006,C0012,Taco Town,Horchata,Drink,2.0,"Cold food and extremely late delivery, very unhappy.",negative,34.0,34.0,15.04,2024-12-04
+TI000017,ORD00006,C0012,Taco Town,Beef Taco,Main,,"Cold food and extremely late delivery, very unhappy.",negative,34.0,34.0,15.04,2024-12-04
+TI000018,ORD00007,C0094,Pizza Palace,Margherita Pizza,Main,3.0,"Typical food, delivery was on schedule.",neutral,43.0,21.0,13.89,2024-03-24
+TI000019,ORD00007,C0094,Pizza Palace,Garlic Bread,Side,3.0,"Typical food, delivery was on schedule.",neutral,43.0,21.0,13.89,2024-03-24
+TI000020,ORD00007,C0094,Pizza Palace,Pepsi,Drink,3.0,"Typical food, delivery was on schedule.",neutral,43.0,21.0,13.89,2024-03-24
+TI000021,ORD00008,C0137,Pizza Palace,Pepperoni Pizza,Main,5.0,"Fresh ingredients and great presentation, loved it.",positive,30.0,24.0,17.73,2024-05-05
+TI000022,ORD00008,C0137,Pizza Palace,Caesar Salad,Side,5.0,"Fresh ingredients and great presentation, loved it.",positive,30.0,24.0,17.73,2024-05-05
+TI000023,ORD00008,C0137,Pizza Palace,Pepsi,Drink,5.0,"Fresh ingredients and great presentation, loved it.",positive,30.0,24.0,17.73,2024-05-05
+TI000024,ORD00009,C0015,Pasta Point,Fettuccine Alfredo,Main,4.0,"Best meal I've had in a long time, highly recommend!",positive,72.0,11.0,16.08,2024-04-27
+TI000025,ORD00009,C0015,Pasta Point,Garlic Bread,Side,4.0,"Best meal I've had in a long time, highly recommend!",positive,72.0,11.0,16.08,2024-04-27
+TI000026,ORD00009,C0015,Pasta Point,Coke,Drink,4.0,"Best meal I've had in a long time, highly recommend!",positive,,11.0,16.08,2024-04-27
+TI000027,ORD00010,C0081,Pasta Point,Penne Arrabiata,Main,5.0,"Outstanding food, the whole family enjoyed it.",positive,61.0,25.0,12.77,2024-04-18
+TI000028,ORD00010,C0081,Pasta Point,Garlic Bread,Side,5.0,"Outstanding food, the whole family enjoyed it.",positive,,25.0,12.77,2024-04-18
+TI000029,ORD00011,C0144,Sushi Spot,Dragon Roll,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,36.0,33.0,19.64,2024-10-02
+TI000030,ORD00011,C0144,Sushi Spot,Miso Soup,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,36.0,33.0,19.64,2024-10-02
+TI000031,ORD00011,C0144,Sushi Spot,Edamame,Side,5.0,"Loved every bite, the quality is consistently excellent.",,36.0,33.0,19.64,2024-10-02
+TI000032,ORD00012,C0036,Taco Town,Chicken Taco,Main,5.0,,positive,51.0,12.0,10.98,2024-09-17
+TI000033,ORD00012,C0036,Taco Town,Guacamole,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,51.0,12.0,10.98,2024-09-17
+TI000034,ORD00012,C0036,Taco Town,Horchata,Drink,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,51.0,12.0,10.98,2024-09-17
+TI000035,ORD00013,C0099,Sushi Spot,Shrimp Tempura,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,58.0,24.0,26.03,2024-07-14
+TI000036,ORD00013,C0099,Sushi Spot,Salmon Sushi,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,58.0,24.0,26.03,2024-07-14
+TI000037,ORD00013,C0099,Sushi Spot,Green Salad,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,58.0,24.0,26.03,2024-07-14
+TI000038,ORD00014,C0138,Burger Barn,Double Burger,Main,3.0,"It was fine, delivery was a little late though.",neutral,69.0,30.0,11.66,2024-05-16
+TI000039,ORD00014,C0138,Burger Barn,Fries,Side,3.0,"It was fine, delivery was a little late though.",neutral,69.0,30.0,11.66,2024-05-16
+TI000040,ORD00015,C0068,Salad Station,Greek Salad,Side,2.0,Terrible! Food smelled off and delivery was over an hour late.,negative,68.0,15.0,10.5,2024-09-13
+TI000041,ORD00015,C0068,Salad Station,Smoothie,Drink,2.0,Terrible! Food smelled off and delivery was over an hour late.,negative,68.0,15.0,10.5,2024-09-13
+TI000042,ORD00016,C0040,Wrap World,Falafel Wrap,Main,5.0,Perfect meal for a cozy evening at home.,positive,68.0,15.0,10.56,2024-07-10
+TI000043,ORD00016,C0040,Wrap World,Fries,Side,5.0,Perfect meal for a cozy evening at home.,positive,68.0,15.0,10.56,2024-07-10
+TI000044,ORD00017,C0005,Burger Barn,Burger,Main,2.0,"The worst delivery experience, food was inedible.",negative,43.0,35.0,10.1,2024-02-27
+TI000045,ORD00017,C0005,Burger Barn,Onion Rings,Side,2.0,"The worst delivery experience, food was inedible.",negative,43.0,35.0,10.1,2024-02-27
+TI000046,ORD00018,C0018,Pizza Palace,Margherita Pizza,Main,4.0,Perfect meal for a cozy evening at home.,positive,69.0,,11.24,2024-09-29
+TI000047,ORD00018,C0018,Pizza Palace,Pepsi,Drink,4.0,Perfect meal for a cozy evening at home.,positive,69.0,14.0,11.24,2024-09-29
+TI000048,ORD00019,C0109,Sushi Spot,Dragon Roll,Main,,"Decent food, portions could be a bit larger.",neutral,54.0,34.0,17.44,2024-04-18
+TI000049,ORD00019,C0109,Sushi Spot,Miso Soup,Side,3.0,"Decent food, portions could be a bit larger.",neutral,54.0,34.0,17.44,2024-04-18
+TI000050,ORD00020,C0133,Noodle Nest,Udon,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,17.0,17.42,2024-08-19
+TI000051,ORD00020,C0133,Noodle Nest,Spring Rolls,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,17.0,17.42,2024-08-19
+TI000052,ORD00020,C0133,Noodle Nest,Jasmine Tea,Drink,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,17.0,17.42,2024-08-19
+TI000053,ORD00021,C0019,Pasta Point,Penne Arrabiata,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,60.0,11.0,12.44,2024-12-28
+TI000054,ORD00021,C0019,Pasta Point,Garlic Bread,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,60.0,11.0,12.44,2024-12-28
+TI000055,ORD00022,C0072,Taco Town,Beef Taco,Main,5.0,"Wonderful experience, the food was restaurant-quality.",positive,51.0,16.0,13.05,2024-12-08
+TI000056,ORD00022,C0072,Taco Town,Nachos,Side,5.0,"Wonderful experience, the food was restaurant-quality.",positive,51.0,16.0,13.05,2024-12-08
+TI000057,ORD00022,C0072,Taco Town,Horchata,Drink,5.0,"Wonderful experience, the food was restaurant-quality.",positive,51.0,16.0,13.05,2024-12-08
+TI000058,ORD00023,C0105,Salad Station,Caesar Salad,Side,4.0,"Loved every bite, the quality is consistently excellent.",positive,26.0,13.0,13.3,2024-04-07
+TI000059,ORD00023,C0105,Salad Station,Avocado Toast,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,26.0,13.0,13.3,2024-04-07
+TI000060,ORD00024,C0026,Salad Station,Greek Salad,Side,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,45.0,33.0,10.16,2024-02-01
+TI000061,ORD00024,C0026,Salad Station,Smoothie,Drink,5.0,"Amazing flavors, perfectly seasoned. Five stars!",,45.0,33.0,10.16,2024-02-01
+TI000062,ORD00025,C0036,Pasta Point,Penne Arrabiata,Main,5.0,"Best meal I've had in a long time, highly recommend!",positive,31.0,18.0,14.91,2024-08-04
+TI000063,ORD00025,C0036,Pasta Point,Tiramisu,Dessert,5.0,"Best meal I've had in a long time, highly recommend!",positive,31.0,18.0,14.91,2024-08-04
+TI000064,ORD00026,C0139,Salad Station,Quinoa Bowl,Main,3.0,"Arrived on time, food was mediocre.",neutral,25.0,34.0,14.18,2024-01-08
+TI000065,ORD00026,C0139,Salad Station,Green Salad,Side,3.0,"Arrived on time, food was mediocre.",neutral,25.0,,14.18,2024-01-08
+TI000066,ORD00027,C0016,Salad Station,Caesar Salad,Side,3.0,"Arrived on time, food was mediocre.",neutral,44.0,10.0,13.95,2024-03-25
+TI000067,ORD00027,C0016,Salad Station,Avocado Toast,Main,3.0,"Arrived on time, food was mediocre.",neutral,44.0,10.0,13.95,2024-03-25
+TI000068,ORD00028,C0143,Wrap World,Chicken Wrap,Main,3.0,"Food was okay, nothing too special but decent.",neutral,65.0,25.0,12.28,2024-12-04
+TI000069,ORD00028,C0143,Wrap World,Coleslaw,Side,3.0,"Food was okay, nothing too special but decent.",neutral,65.0,25.0,12.28,2024-12-04
+TI000070,ORD00028,C0143,Wrap World,Lemonade,Drink,3.0,"Food was okay, nothing too special but decent.",neutral,65.0,25.0,12.28,2024-12-04
+TI000071,ORD00029,C0013,Burger Barn,Double Burger,Main,4.0,Absolutely delicious! Will definitely order again.,positive,50.0,26.0,12.82,2024-10-26
+TI000072,ORD00029,C0013,Burger Barn,Fries,Side,4.0,Absolutely delicious! Will definitely order again.,positive,50.0,26.0,12.82,2024-10-26
+TI000073,ORD00030,C0061,Pizza Palace,Pepperoni Pizza,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,28.0,23.95,2024-07-25
+TI000074,ORD00030,C0061,Pizza Palace,Pepsi,Drink,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,28.0,23.95,2024-07-25
+TI000075,ORD00030,C0061,Pizza Palace,Garlic Bread,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,28.0,23.95,2024-07-25
+TI000076,ORD00030,C0061,Pizza Palace,Margherita Pizza,Main,,"Excellent taste and fast delivery, very satisfied!",positive,,28.0,23.95,2024-07-25
+TI000077,ORD00031,C0145,Pizza Palace,Margherita Pizza,Main,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,40.0,18.0,13.88,2024-09-24
+TI000078,ORD00031,C0145,Pizza Palace,Garlic Bread,Side,,"Amazing flavors, perfectly seasoned. Five stars!",positive,40.0,18.0,13.88,2024-09-24
+TI000079,ORD00031,C0145,Pizza Palace,Pepsi,Drink,5.0,"Amazing flavors, perfectly seasoned. Five stars!",,40.0,18.0,13.88,2024-09-24
+TI000080,ORD00032,C0077,Wrap World,Chicken Wrap,Main,1.0,"The worst delivery experience, food was inedible.",negative,40.0,34.0,13.84,2024-08-22
+TI000081,ORD00032,C0077,Wrap World,Coleslaw,Side,1.0,"The worst delivery experience, food was inedible.",negative,40.0,34.0,13.84,2024-08-22
+TI000082,ORD00032,C0077,Wrap World,Lemonade,Drink,1.0,"The worst delivery experience, food was inedible.",negative,40.0,34.0,13.84,2024-08-22
+TI000083,ORD00033,C0130,Pizza Palace,Margherita Pizza,Main,5.0,Great portion size and incredibly tasty.,positive,28.0,21.0,12.74,2024-05-15
+TI000084,ORD00033,C0130,Pizza Palace,Pepsi,Drink,5.0,Great portion size and incredibly tasty.,positive,28.0,21.0,12.74,2024-05-15
+TI000085,ORD00034,C0140,Wrap World,Falafel Wrap,Main,5.0,Perfect meal for a cozy evening at home.,positive,39.0,,11.45,2024-12-26
+TI000086,ORD00034,C0140,Wrap World,Coleslaw,Side,5.0,Perfect meal for a cozy evening at home.,positive,39.0,29.0,11.45,2024-12-26
+TI000087,ORD00035,C0077,Burger Barn,Double Burger,Main,5.0,,positive,26.0,,11.51,2024-12-05
+TI000088,ORD00035,C0077,Burger Barn,Fries,Side,5.0,Superb quality! The meal was warm and delicious.,positive,26.0,,11.51,2024-12-05
+TI000089,ORD00036,C0054,Sushi Spot,Dragon Roll,Main,3.0,"Arrived on time, food was mediocre.",neutral,33.0,31.0,17.25,2024-06-24
+TI000090,ORD00036,C0054,Sushi Spot,Miso Soup,Side,3.0,,neutral,33.0,31.0,17.25,2024-06-24
+TI000091,ORD00037,C0071,Wrap World,Chicken Wrap,Main,4.0,Quick delivery and the food tasted fantastic!,positive,20.0,20.0,13.51,2024-01-23
+TI000092,ORD00037,C0071,Wrap World,Fries,Side,4.0,Quick delivery and the food tasted fantastic!,,20.0,20.0,13.51,2024-01-23
+TI000093,ORD00037,C0071,Wrap World,Lemonade,Drink,4.0,Quick delivery and the food tasted fantastic!,positive,20.0,20.0,13.51,2024-01-23
+TI000094,ORD00038,C0110,Sushi Spot,Shrimp Tempura,Side,,"Wonderful experience, the food was restaurant-quality.",positive,20.0,13.0,25.12,2024-10-14
+TI000095,ORD00038,C0110,Sushi Spot,Salmon Sushi,Main,5.0,"Wonderful experience, the food was restaurant-quality.",positive,20.0,13.0,25.12,2024-10-14
+TI000096,ORD00038,C0110,Sushi Spot,Green Salad,Side,5.0,"Wonderful experience, the food was restaurant-quality.",positive,20.0,13.0,25.12,2024-10-14
+TI000097,ORD00039,C0150,Sushi Spot,Tuna Roll,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,29.0,23.0,35.21,2024-10-09
+TI000098,ORD00039,C0150,Sushi Spot,Dragon Roll,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,29.0,23.0,35.21,2024-10-09
+TI000099,ORD00039,C0150,Sushi Spot,Edamame,Side,4.0,"Wonderful experience, the food was restaurant-quality.",positive,29.0,23.0,35.21,2024-10-09
+TI000100,ORD00039,C0150,Sushi Spot,Shrimp Tempura,Side,4.0,"Wonderful experience, the food was restaurant-quality.",positive,29.0,23.0,35.21,2024-10-09
+TI000101,ORD00040,C0064,Burger Barn,Veggie Burger,Main,5.0,"Loved every bite, the quality is consistently excellent.",,,21.0,13.03,2024-12-07
+TI000102,ORD00040,C0064,Burger Barn,Onion Rings,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,26.0,21.0,13.03,2024-12-07
+TI000103,ORD00040,C0064,Burger Barn,Coke,Drink,5.0,"Loved every bite, the quality is consistently excellent.",positive,26.0,21.0,13.03,2024-12-07
+TI000104,ORD00041,C0046,Sushi Spot,Tuna Roll,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,21.0,15.0,17.94,2024-07-30
+TI000105,ORD00041,C0046,Sushi Spot,Edamame,Side,4.0,,positive,21.0,15.0,17.94,2024-07-30
+TI000106,ORD00041,C0046,Sushi Spot,Miso Soup,Side,,"Wonderful experience, the food was restaurant-quality.",positive,21.0,15.0,17.94,2024-07-30
+TI000107,ORD00042,C0028,Noodle Nest,Pad Thai,Main,3.0,"Arrived on time, food was mediocre.",neutral,75.0,11.0,17.7,2024-07-14
+TI000108,ORD00042,C0028,Noodle Nest,Dumpling,Side,3.0,"Arrived on time, food was mediocre.",,75.0,11.0,17.7,2024-07-14
+TI000109,ORD00043,C0059,Taco Town,Fish Taco,Main,,Highly satisfied with the taste and delivery speed.,positive,21.0,31.0,10.37,2024-04-24
+TI000110,ORD00043,C0059,Taco Town,Nachos,Side,4.0,,positive,21.0,31.0,10.37,2024-04-24
+TI000111,ORD00044,C0131,Pizza Palace,BBQ Chicken Pizza,Main,1.0,"Disappointing quality, not worth the price at all.",negative,63.0,27.0,16.64,2024-07-23
+TI000112,ORD00044,C0131,Pizza Palace,Caesar Salad,Side,1.0,,negative,63.0,27.0,16.64,2024-07-23
+TI000113,ORD00045,C0068,Sushi Spot,Tuna Roll,Main,5.0,Great portion size and incredibly tasty.,positive,26.0,29.0,26.84,2024-01-20
+TI000114,ORD00045,C0068,Sushi Spot,Dragon Roll,Main,5.0,Great portion size and incredibly tasty.,positive,26.0,29.0,26.84,2024-01-20
+TI000115,ORD00045,C0068,Sushi Spot,Edamame,Side,5.0,Great portion size and incredibly tasty.,positive,26.0,29.0,26.84,2024-01-20
+TI000116,ORD00046,C0030,Noodle Nest,Pad Thai,Main,5.0,Absolutely delicious! Will definitely order again.,positive,56.0,,15.99,2024-07-16
+TI000117,ORD00046,C0030,Noodle Nest,Spring Rolls,Side,5.0,Absolutely delicious! Will definitely order again.,,56.0,16.0,15.99,2024-07-16
+TI000118,ORD00047,C0085,Pasta Point,Fettuccine Alfredo,Main,,Quick delivery and the food tasted fantastic!,positive,40.0,31.0,16.17,2024-11-15
+TI000119,ORD00047,C0085,Pasta Point,Garlic Bread,Side,5.0,,positive,40.0,31.0,16.17,2024-11-15
+TI000120,ORD00047,C0085,Pasta Point,Coke,Drink,5.0,,positive,40.0,31.0,16.17,2024-11-15
+TI000121,ORD00048,C0076,Wrap World,Chicken Wrap,Main,5.0,"Fresh ingredients and great presentation, loved it.",positive,28.0,16.0,12.81,2024-10-10
+TI000122,ORD00048,C0076,Wrap World,Coleslaw,Side,5.0,"Fresh ingredients and great presentation, loved it.",positive,28.0,16.0,12.81,2024-10-10
+TI000123,ORD00048,C0076,Wrap World,Lemonade,Drink,5.0,"Fresh ingredients and great presentation, loved it.",positive,28.0,16.0,12.81,2024-10-10
+TI000124,ORD00049,C0104,Sushi Spot,Tuna Roll,Main,3.0,"Not bad, not great, just an ordinary meal.",neutral,73.0,10.0,26.58,2024-10-07
+TI000125,ORD00049,C0104,Sushi Spot,Dragon Roll,Main,3.0,"Not bad, not great, just an ordinary meal.",neutral,73.0,10.0,26.58,2024-10-07
+TI000126,ORD00049,C0104,Sushi Spot,Edamame,Side,3.0,"Not bad, not great, just an ordinary meal.",neutral,73.0,10.0,26.58,2024-10-07
+TI000127,ORD00050,C0055,Taco Town,Beef Taco,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,50.0,35.0,12.77,2024-09-18
+TI000128,ORD00050,C0055,Taco Town,Chicken Taco,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,50.0,35.0,12.77,2024-09-18
+TI000129,ORD00050,C0055,Taco Town,Guacamole,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,50.0,35.0,12.77,2024-09-18
+TI000130,ORD00051,C0086,Pizza Palace,BBQ Chicken Pizza,Main,4.0,So good I ordered again the next day!,positive,72.0,34.0,16.45,2024-02-17
+TI000131,ORD00051,C0086,Pizza Palace,Caesar Salad,Side,4.0,So good I ordered again the next day!,positive,72.0,34.0,16.45,2024-02-17
+TI000132,ORD00052,C0122,Pasta Point,Penne Arrabiata,Main,4.0,"Fresh ingredients and great presentation, loved it.",positive,74.0,34.0,14.13,2024-11-08
+TI000133,ORD00052,C0122,Pasta Point,Tiramisu,Dessert,4.0,"Fresh ingredients and great presentation, loved it.",positive,74.0,34.0,14.13,2024-11-08
+TI000134,ORD00053,C0063,Pasta Point,Spaghetti Carbonara,Main,5.0,So good I ordered again the next day!,positive,61.0,32.0,14.99,2024-03-16
+TI000135,ORD00053,C0063,Pasta Point,Caesar Salad,Side,5.0,So good I ordered again the next day!,positive,61.0,32.0,14.99,2024-03-16
+TI000136,ORD00054,C0133,Pizza Palace,Margherita Pizza,Main,5.0,"Outstanding food, the whole family enjoyed it.",positive,23.0,27.0,13.97,2024-08-25
+TI000137,ORD00054,C0133,Pizza Palace,Garlic Bread,Side,5.0,"Outstanding food, the whole family enjoyed it.",positive,23.0,27.0,13.97,2024-08-25
+TI000138,ORD00054,C0133,Pizza Palace,Pepsi,Drink,5.0,"Outstanding food, the whole family enjoyed it.",positive,23.0,27.0,13.97,2024-08-25
+TI000139,ORD00055,C0144,Sushi Spot,Shrimp Tempura,Side,4.0,Superb quality! The meal was warm and delicious.,positive,,34.0,26.75,2024-10-31
+TI000140,ORD00055,C0144,Sushi Spot,Salmon Sushi,Main,4.0,Superb quality! The meal was warm and delicious.,,40.0,34.0,26.75,2024-10-31
+TI000141,ORD00055,C0144,Sushi Spot,Green Salad,Side,4.0,Superb quality! The meal was warm and delicious.,positive,40.0,34.0,26.75,2024-10-31
+TI000142,ORD00056,C0041,Noodle Nest,Pad Thai,Main,5.0,Quick delivery and the food tasted fantastic!,positive,48.0,,16.98,2024-08-31
+TI000143,ORD00056,C0041,Noodle Nest,Spring Rolls,Side,5.0,,,48.0,18.0,16.98,2024-08-31
+TI000144,ORD00057,C0020,Salad Station,Caesar Salad,Side,4.0,,positive,38.0,17.0,12.52,2024-12-31
+TI000145,ORD00057,C0020,Salad Station,Avocado Toast,Main,4.0,Perfect meal for a cozy evening at home.,positive,38.0,17.0,12.52,2024-12-31
+TI000146,ORD00058,C0040,Pizza Palace,Pepperoni Pizza,Main,4.0,"Outstanding food, the whole family enjoyed it.",positive,33.0,12.0,15.3,2024-12-27
+TI000147,ORD00058,C0040,Pizza Palace,Pepsi,Drink,4.0,"Outstanding food, the whole family enjoyed it.",positive,33.0,12.0,15.3,2024-12-27
+TI000148,ORD00058,C0040,Pizza Palace,Garlic Bread,Side,4.0,"Outstanding food, the whole family enjoyed it.",positive,33.0,12.0,15.3,2024-12-27
+TI000149,ORD00059,C0108,Noodle Nest,Ramen,Main,1.0,"The worst delivery experience, food was inedible.",negative,69.0,28.0,20.36,2024-07-18
+TI000150,ORD00059,C0108,Noodle Nest,Spring Rolls,Side,,"The worst delivery experience, food was inedible.",negative,69.0,28.0,20.36,2024-07-18
+TI000151,ORD00059,C0108,Noodle Nest,Jasmine Tea,Drink,1.0,"The worst delivery experience, food was inedible.",negative,69.0,28.0,20.36,2024-07-18
+TI000152,ORD00060,C0077,Noodle Nest,Ramen,Main,5.0,So good I ordered again the next day!,positive,74.0,23.0,29.54,2024-07-18
+TI000153,ORD00060,C0077,Noodle Nest,Dumpling,Side,5.0,So good I ordered again the next day!,positive,74.0,23.0,29.54,2024-07-18
+TI000154,ORD00060,C0077,Noodle Nest,Jasmine Tea,Drink,5.0,So good I ordered again the next day!,positive,74.0,23.0,29.54,2024-07-18
+TI000155,ORD00060,C0077,Noodle Nest,Udon,Main,5.0,So good I ordered again the next day!,,74.0,23.0,29.54,2024-07-18
+TI000156,ORD00061,C0112,Pasta Point,Spaghetti Carbonara,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,21.0,22.0,15.65,2024-09-05
+TI000157,ORD00061,C0112,Pasta Point,Caesar Salad,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,21.0,22.0,15.65,2024-09-05
+TI000158,ORD00062,C0137,Sushi Spot,Shrimp Tempura,Side,1.0,Terrible! Food smelled off and delivery was over an hour late.,negative,45.0,28.0,26.1,2024-01-14
+TI000159,ORD00062,C0137,Sushi Spot,Salmon Sushi,Main,1.0,Terrible! Food smelled off and delivery was over an hour late.,negative,45.0,28.0,26.1,2024-01-14
+TI000160,ORD00062,C0137,Sushi Spot,Green Salad,Side,1.0,Terrible! Food smelled off and delivery was over an hour late.,negative,45.0,28.0,26.1,2024-01-14
+TI000161,ORD00063,C0047,Noodle Nest,Pad Thai,Main,4.0,Great portion size and incredibly tasty.,positive,36.0,22.0,16.63,2024-01-26
+TI000162,ORD00063,C0047,Noodle Nest,Dumpling,Side,4.0,Great portion size and incredibly tasty.,positive,,22.0,16.63,2024-01-26
+TI000163,ORD00064,C0108,Noodle Nest,Udon,Main,5.0,Absolutely delicious! Will definitely order again.,positive,73.0,12.0,17.91,2024-05-09
+TI000164,ORD00064,C0108,Noodle Nest,Spring Rolls,Side,5.0,Absolutely delicious! Will definitely order again.,,73.0,12.0,17.91,2024-05-09
+TI000165,ORD00064,C0108,Noodle Nest,Jasmine Tea,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,73.0,12.0,17.91,2024-05-09
+TI000166,ORD00065,C0011,Taco Town,Chicken Taco,Main,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,35.0,16.0,11.15,2024-01-16
+TI000167,ORD00065,C0011,Taco Town,Guacamole,Side,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,35.0,16.0,11.15,2024-01-16
+TI000168,ORD00065,C0011,Taco Town,Horchata,Drink,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,35.0,16.0,11.15,2024-01-16
+TI000169,ORD00066,C0145,Sushi Spot,Shrimp Tempura,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,49.0,32.0,25.48,2024-04-21
+TI000170,ORD00066,C0145,Sushi Spot,Salmon Sushi,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,49.0,,25.48,2024-04-21
+TI000171,ORD00066,C0145,Sushi Spot,Green Salad,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,49.0,,25.48,2024-04-21
+TI000172,ORD00067,C0028,Pizza Palace,Pepperoni Pizza,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,,19.0,15.62,2024-10-23
+TI000173,ORD00067,C0028,Pizza Palace,Pepsi,Drink,5.0,"Loved every bite, the quality is consistently excellent.",,,19.0,15.62,2024-10-23
+TI000174,ORD00067,C0028,Pizza Palace,Garlic Bread,Side,5.0,,positive,21.0,19.0,15.62,2024-10-23
+TI000175,ORD00068,C0063,Noodle Nest,Pad Thai,Main,5.0,So good I ordered again the next day!,positive,64.0,34.0,18.57,2024-02-22
+TI000176,ORD00068,C0063,Noodle Nest,Dumpling,Side,5.0,So good I ordered again the next day!,positive,64.0,34.0,18.57,2024-02-22
+TI000177,ORD00068,C0063,Noodle Nest,Jasmine Tea,Drink,5.0,So good I ordered again the next day!,,64.0,34.0,18.57,2024-02-22
+TI000178,ORD00069,C0089,Pizza Palace,Pepperoni Pizza,Main,4.0,Great portion size and incredibly tasty.,positive,47.0,31.0,17.71,2024-09-29
+TI000179,ORD00069,C0089,Pizza Palace,Caesar Salad,Side,4.0,Great portion size and incredibly tasty.,positive,47.0,,17.71,2024-09-29
+TI000180,ORD00069,C0089,Pizza Palace,Pepsi,Drink,4.0,Great portion size and incredibly tasty.,positive,47.0,31.0,17.71,2024-09-29
+TI000181,ORD00070,C0028,Burger Barn,Chicken Strips,Side,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,43.0,30.0,11.25,2024-08-09
+TI000182,ORD00070,C0028,Burger Barn,Fries,Side,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,30.0,11.25,2024-08-09
+TI000183,ORD00070,C0028,Burger Barn,Coke,Drink,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,43.0,30.0,11.25,2024-08-09
+TI000184,ORD00071,C0070,Noodle Nest,Pad Thai,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,71.0,27.0,17.53,2024-11-11
+TI000185,ORD00071,C0070,Noodle Nest,Dumpling,Side,4.0,Highly satisfied with the taste and delivery speed.,positive,71.0,,17.53,2024-11-11
+TI000186,ORD00072,C0023,Wrap World,Beef Wrap,Main,4.0,"Fresh ingredients and great presentation, loved it.",positive,48.0,17.0,13.47,2024-05-22
+TI000187,ORD00072,C0023,Wrap World,Fries,Side,4.0,"Fresh ingredients and great presentation, loved it.",positive,48.0,17.0,13.47,2024-05-22
+TI000188,ORD00072,C0023,Wrap World,Coke,Drink,4.0,"Fresh ingredients and great presentation, loved it.",positive,48.0,17.0,13.47,2024-05-22
+TI000189,ORD00073,C0047,Noodle Nest,Udon,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,33.0,21.0,18.57,2024-09-06
+TI000190,ORD00073,C0047,Noodle Nest,Spring Rolls,Side,4.0,"Wonderful experience, the food was restaurant-quality.",positive,33.0,21.0,18.57,2024-09-06
+TI000191,ORD00073,C0047,Noodle Nest,Jasmine Tea,Drink,4.0,"Wonderful experience, the food was restaurant-quality.",positive,,21.0,18.57,2024-09-06
+TI000192,ORD00074,C0022,Wrap World,Falafel Wrap,Main,5.0,Superb quality! The meal was warm and delicious.,positive,66.0,23.0,10.46,2024-05-03
+TI000193,ORD00074,C0022,Wrap World,Fries,Side,5.0,Superb quality! The meal was warm and delicious.,positive,66.0,23.0,10.46,2024-05-03
+TI000194,ORD00075,C0005,Salad Station,Greek Salad,Side,3.0,"Typical food, delivery was on schedule.",neutral,38.0,17.0,16.78,2024-02-17
+TI000195,ORD00075,C0005,Salad Station,Avocado Toast,Main,3.0,"Typical food, delivery was on schedule.",neutral,38.0,17.0,16.78,2024-02-17
+TI000196,ORD00075,C0005,Salad Station,Smoothie,Drink,3.0,"Typical food, delivery was on schedule.",neutral,38.0,17.0,16.78,2024-02-17
+TI000197,ORD00076,C0089,Taco Town,Beef Taco,Main,5.0,Quick delivery and the food tasted fantastic!,positive,67.0,27.0,11.63,2024-08-05
+TI000198,ORD00076,C0089,Taco Town,Chicken Taco,Main,5.0,Quick delivery and the food tasted fantastic!,positive,67.0,27.0,11.63,2024-08-05
+TI000199,ORD00076,C0089,Taco Town,Guacamole,Side,5.0,Quick delivery and the food tasted fantastic!,positive,67.0,27.0,11.63,2024-08-05
+TI000200,ORD00077,C0050,Wrap World,Beef Wrap,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,33.0,13.04,2024-06-10
+TI000201,ORD00077,C0050,Wrap World,Fries,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,33.0,13.04,2024-06-10
+TI000202,ORD00077,C0050,Wrap World,Coke,Drink,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,33.0,13.04,2024-06-10
+TI000203,ORD00078,C0071,Pasta Point,Penne Arrabiata,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,68.0,26.0,15.17,2024-10-28
+TI000204,ORD00078,C0071,Pasta Point,Tiramisu,Dessert,5.0,Highly satisfied with the taste and delivery speed.,positive,68.0,26.0,15.17,2024-10-28
+TI000205,ORD00079,C0046,Pasta Point,Fettuccine Alfredo,Main,3.0,"Food was okay, nothing too special but decent.",neutral,20.0,32.0,15.54,2024-06-03
+TI000206,ORD00079,C0046,Pasta Point,Garlic Bread,Side,3.0,"Food was okay, nothing too special but decent.",neutral,20.0,32.0,15.54,2024-06-03
+TI000207,ORD00079,C0046,Pasta Point,Coke,Drink,3.0,"Food was okay, nothing too special but decent.",neutral,20.0,32.0,15.54,2024-06-03
+TI000208,ORD00080,C0126,Wrap World,Falafel Wrap,Main,4.0,"Outstanding food, the whole family enjoyed it.",positive,75.0,10.0,10.63,2024-02-22
+TI000209,ORD00080,C0126,Wrap World,Coleslaw,Side,4.0,"Outstanding food, the whole family enjoyed it.",positive,75.0,10.0,10.63,2024-02-22
+TI000210,ORD00081,C0065,Taco Town,Chicken Taco,Main,2.0,Terrible! Food smelled off and delivery was over an hour late.,negative,27.0,12.0,10.27,2024-09-01
+TI000211,ORD00081,C0065,Taco Town,Guacamole,Side,2.0,Terrible! Food smelled off and delivery was over an hour late.,,27.0,12.0,10.27,2024-09-01
+TI000212,ORD00081,C0065,Taco Town,Horchata,Drink,,Terrible! Food smelled off and delivery was over an hour late.,negative,27.0,,10.27,2024-09-01
+TI000213,ORD00082,C0022,Burger Barn,Double Burger,Main,4.0,So good I ordered again the next day!,positive,27.0,27.0,18.99,2024-05-07
+TI000214,ORD00082,C0022,Burger Barn,Fries,Side,4.0,So good I ordered again the next day!,positive,27.0,27.0,18.99,2024-05-07
+TI000215,ORD00082,C0022,Burger Barn,Milkshake,Drink,4.0,So good I ordered again the next day!,positive,,27.0,18.99,2024-05-07
+TI000216,ORD00082,C0022,Burger Barn,Onion Rings,Side,4.0,So good I ordered again the next day!,positive,27.0,27.0,18.99,2024-05-07
+TI000217,ORD00083,C0114,Pasta Point,Penne Arrabiata,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,75.0,28.0,13.96,2024-06-01
+TI000218,ORD00083,C0114,Pasta Point,Garlic Bread,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,75.0,28.0,13.96,2024-06-01
+TI000219,ORD00084,C0026,Burger Barn,Burger,Main,2.0,"Cold food and extremely late delivery, very unhappy.",negative,60.0,16.0,10.01,2024-04-16
+TI000220,ORD00084,C0026,Burger Barn,Onion Rings,Side,2.0,"Cold food and extremely late delivery, very unhappy.",negative,60.0,16.0,10.01,2024-04-16
+TI000221,ORD00085,C0105,Sushi Spot,Tuna Roll,Main,1.0,"Disappointing quality, not worth the price at all.",negative,64.0,29.0,38.9,2024-08-18
+TI000222,ORD00085,C0105,Sushi Spot,Dragon Roll,Main,1.0,"Disappointing quality, not worth the price at all.",negative,64.0,29.0,38.9,2024-08-18
+TI000223,ORD00085,C0105,Sushi Spot,Edamame,Side,1.0,"Disappointing quality, not worth the price at all.",negative,64.0,29.0,38.9,2024-08-18
+TI000224,ORD00085,C0105,Sushi Spot,Salmon Sushi,Main,1.0,"Disappointing quality, not worth the price at all.",negative,,29.0,38.9,2024-08-18
+TI000225,ORD00086,C0068,Wrap World,Chicken Wrap,Main,3.0,"Average meal, met my basic expectations.",neutral,57.0,31.0,20.07,2024-11-16
+TI000226,ORD00086,C0068,Wrap World,Coleslaw,Side,3.0,"Average meal, met my basic expectations.",neutral,57.0,31.0,20.07,2024-11-16
+TI000227,ORD00086,C0068,Wrap World,Lemonade,Drink,3.0,"Average meal, met my basic expectations.",neutral,,31.0,20.07,2024-11-16
+TI000228,ORD00086,C0068,Wrap World,Falafel Wrap,Main,3.0,"Average meal, met my basic expectations.",neutral,57.0,,20.07,2024-11-16
+TI000229,ORD00087,C0037,Pasta Point,Penne Arrabiata,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,23.0,15.0,15.57,2024-02-06
+TI000230,ORD00087,C0037,Pasta Point,Tiramisu,Dessert,4.0,Highly satisfied with the taste and delivery speed.,positive,23.0,15.0,15.57,2024-02-06
+TI000231,ORD00088,C0078,Wrap World,Chicken Wrap,Main,4.0,"Best meal I've had in a long time, highly recommend!",positive,45.0,18.0,12.97,2024-12-24
+TI000232,ORD00088,C0078,Wrap World,Coleslaw,Side,4.0,"Best meal I've had in a long time, highly recommend!",positive,45.0,18.0,12.97,2024-12-24
+TI000233,ORD00088,C0078,Wrap World,Lemonade,Drink,4.0,"Best meal I've had in a long time, highly recommend!",positive,45.0,18.0,12.97,2024-12-24
+TI000234,ORD00089,C0065,Burger Barn,Chicken Strips,Side,5.0,"Excellent taste and fast delivery, very satisfied!",,25.0,17.0,11.39,2024-01-14
+TI000235,ORD00089,C0065,Burger Barn,Fries,Side,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,17.0,11.39,2024-01-14
+TI000236,ORD00089,C0065,Burger Barn,Coke,Drink,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,17.0,11.39,2024-01-14
+TI000237,ORD00090,C0148,Burger Barn,Double Burger,Main,4.0,"Outstanding food, the whole family enjoyed it.",positive,68.0,34.0,11.33,2024-01-21
+TI000238,ORD00090,C0148,Burger Barn,Fries,Side,,"Outstanding food, the whole family enjoyed it.",positive,68.0,34.0,11.33,2024-01-21
+TI000239,ORD00091,C0112,Wrap World,Falafel Wrap,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,72.0,25.0,11.42,2024-11-21
+TI000240,ORD00091,C0112,Wrap World,Coleslaw,Side,4.0,"Loved every bite, the quality is consistently excellent.",positive,72.0,25.0,11.42,2024-11-21
+TI000241,ORD00092,C0042,Taco Town,Fish Taco,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,46.0,32.0,10.97,2024-06-17
+TI000242,ORD00092,C0042,Taco Town,Nachos,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,46.0,32.0,10.97,2024-06-17
+TI000243,ORD00093,C0083,Burger Barn,Chicken Strips,Side,5.0,,positive,69.0,22.0,14.19,2024-02-29
+TI000244,ORD00093,C0083,Burger Barn,Fries,Side,5.0,Absolutely delicious! Will definitely order again.,positive,69.0,22.0,14.19,2024-02-29
+TI000245,ORD00093,C0083,Burger Barn,Coke,Drink,5.0,Absolutely delicious! Will definitely order again.,,69.0,22.0,14.19,2024-02-29
+TI000246,ORD00093,C0083,Burger Barn,Onion Rings,Side,5.0,Absolutely delicious! Will definitely order again.,positive,69.0,22.0,14.19,2024-02-29
+TI000247,ORD00094,C0093,Salad Station,Greek Salad,Side,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,68.0,25.0,17.22,2024-11-14
+TI000248,ORD00094,C0093,Salad Station,Avocado Toast,Main,5.0,"Amazing flavors, perfectly seasoned. Five stars!",,68.0,25.0,17.22,2024-11-14
+TI000249,ORD00094,C0093,Salad Station,Smoothie,Drink,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,68.0,,17.22,2024-11-14
+TI000250,ORD00095,C0113,Wrap World,Falafel Wrap,Main,4.0,So good I ordered again the next day!,positive,51.0,,17.03,2024-12-23
+TI000251,ORD00095,C0113,Wrap World,Fries,Side,4.0,So good I ordered again the next day!,positive,51.0,13.0,17.03,2024-12-23
+TI000252,ORD00095,C0113,Wrap World,Beef Wrap,Main,4.0,So good I ordered again the next day!,positive,51.0,13.0,17.03,2024-12-23
+TI000253,ORD00096,C0004,Pasta Point,Penne Arrabiata,Main,5.0,"Best meal I've had in a long time, highly recommend!",positive,46.0,12.0,14.43,2024-10-09
+TI000254,ORD00096,C0004,Pasta Point,Tiramisu,Dessert,5.0,"Best meal I've had in a long time, highly recommend!",positive,46.0,12.0,14.43,2024-10-09
+TI000255,ORD00097,C0040,Salad Station,Greek Salad,Side,3.0,"Arrived on time, food was mediocre.",neutral,65.0,19.0,10.5,2024-09-12
+TI000256,ORD00097,C0040,Salad Station,Smoothie,Drink,3.0,,neutral,65.0,19.0,10.5,2024-09-12
+TI000257,ORD00098,C0038,Salad Station,Caesar Salad,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,32.0,29.0,13.0,2024-07-15
+TI000258,ORD00098,C0038,Salad Station,Avocado Toast,Main,5.0,,positive,32.0,29.0,13.0,2024-07-15
+TI000259,ORD00099,C0107,Pizza Palace,BBQ Chicken Pizza,Main,1.0,"Not happy at all, low quality and rude service.",negative,70.0,26.0,16.51,2024-06-23
+TI000260,ORD00099,C0107,Pizza Palace,Caesar Salad,Side,1.0,"Not happy at all, low quality and rude service.",negative,70.0,26.0,16.51,2024-06-23
+TI000261,ORD00100,C0126,Wrap World,Falafel Wrap,Main,4.0,So good I ordered again the next day!,positive,48.0,27.0,10.45,2024-03-17
+TI000262,ORD00100,C0126,Wrap World,Fries,Side,4.0,So good I ordered again the next day!,positive,48.0,27.0,10.45,2024-03-17
+TI000263,ORD00101,C0049,Noodle Nest,Ramen,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,35.0,28.0,19.74,2024-12-23
+TI000264,ORD00101,C0049,Noodle Nest,Dumpling,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,35.0,28.0,19.74,2024-12-23
+TI000265,ORD00101,C0049,Noodle Nest,Jasmine Tea,Drink,5.0,"Loved every bite, the quality is consistently excellent.",positive,35.0,28.0,19.74,2024-12-23
+TI000266,ORD00102,C0098,Burger Barn,Veggie Burger,Main,5.0,"Outstanding food, the whole family enjoyed it.",positive,62.0,35.0,13.11,2024-07-16
+TI000267,ORD00102,C0098,Burger Barn,Onion Rings,Side,5.0,"Outstanding food, the whole family enjoyed it.",positive,62.0,35.0,13.11,2024-07-16
+TI000268,ORD00102,C0098,Burger Barn,Coke,Drink,5.0,"Outstanding food, the whole family enjoyed it.",positive,62.0,35.0,13.11,2024-07-16
+TI000269,ORD00103,C0085,Burger Barn,Double Burger,Main,5.0,Absolutely delicious! Will definitely order again.,positive,75.0,24.0,14.67,2024-02-21
+TI000270,ORD00103,C0085,Burger Barn,Fries,Side,5.0,Absolutely delicious! Will definitely order again.,positive,75.0,24.0,14.67,2024-02-21
+TI000271,ORD00103,C0085,Burger Barn,Milkshake,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,75.0,24.0,14.67,2024-02-21
+TI000272,ORD00104,C0040,Sushi Spot,Shrimp Tempura,Side,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,35.0,26.91,2024-02-08
+TI000273,ORD00104,C0040,Sushi Spot,Salmon Sushi,Main,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,35.0,26.91,2024-02-08
+TI000274,ORD00104,C0040,Sushi Spot,Green Salad,Side,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,,26.91,2024-02-08
+TI000275,ORD00105,C0137,Noodle Nest,Ramen,Main,5.0,,positive,,30.0,19.91,2024-07-13
+TI000276,ORD00105,C0137,Noodle Nest,Spring Rolls,Side,5.0,Highly satisfied with the taste and delivery speed.,,40.0,30.0,19.91,2024-07-13
+TI000277,ORD00105,C0137,Noodle Nest,Jasmine Tea,Drink,5.0,Highly satisfied with the taste and delivery speed.,positive,40.0,30.0,19.91,2024-07-13
+TI000278,ORD00106,C0059,Burger Barn,Burger,Main,5.0,"Best meal I've had in a long time, highly recommend!",positive,47.0,13.0,11.0,2024-02-16
+TI000279,ORD00106,C0059,Burger Barn,Onion Rings,Side,5.0,"Best meal I've had in a long time, highly recommend!",positive,47.0,13.0,11.0,2024-02-16
+TI000280,ORD00107,C0008,Salad Station,Caesar Salad,Side,4.0,"Loved every bite, the quality is consistently excellent.",positive,40.0,35.0,12.09,2024-01-24
+TI000281,ORD00107,C0008,Salad Station,Avocado Toast,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,40.0,35.0,12.09,2024-01-24
+TI000282,ORD00108,C0145,Sushi Spot,Tuna Roll,Main,2.0,,negative,70.0,15.0,16.81,2024-12-15
+TI000283,ORD00108,C0145,Sushi Spot,Edamame,Side,2.0,Order arrived late and the food was undercooked.,negative,,15.0,16.81,2024-12-15
+TI000284,ORD00108,C0145,Sushi Spot,Miso Soup,Side,2.0,Order arrived late and the food was undercooked.,negative,70.0,15.0,16.81,2024-12-15
+TI000285,ORD00109,C0037,Pasta Point,Spaghetti Carbonara,Main,3.0,"Food was okay, nothing too special but decent.",,49.0,30.0,15.49,2024-04-28
+TI000286,ORD00109,C0037,Pasta Point,Caesar Salad,Side,3.0,"Food was okay, nothing too special but decent.",neutral,49.0,30.0,15.49,2024-04-28
+TI000287,ORD00110,C0041,Salad Station,Quinoa Bowl,Main,3.0,"Food was acceptable, could use more seasoning.",neutral,48.0,21.0,15.46,2024-02-07
+TI000288,ORD00110,C0041,Salad Station,Smoothie,Drink,3.0,"Food was acceptable, could use more seasoning.",neutral,,21.0,15.46,2024-02-07
+TI000289,ORD00111,C0051,Wrap World,Chicken Wrap,Main,4.0,Great portion size and incredibly tasty.,positive,74.0,25.0,12.18,2024-07-15
+TI000290,ORD00111,C0051,Wrap World,Coleslaw,Side,4.0,Great portion size and incredibly tasty.,positive,74.0,25.0,12.18,2024-07-15
+TI000291,ORD00111,C0051,Wrap World,Lemonade,Drink,4.0,Great portion size and incredibly tasty.,positive,74.0,25.0,12.18,2024-07-15
+TI000292,ORD00112,C0102,Wrap World,Beef Wrap,Main,5.0,Absolutely delicious! Will definitely order again.,positive,20.0,28.0,15.69,2024-05-20
+TI000293,ORD00112,C0102,Wrap World,Fries,Side,5.0,Absolutely delicious! Will definitely order again.,positive,20.0,28.0,15.69,2024-05-20
+TI000294,ORD00112,C0102,Wrap World,Coke,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,20.0,28.0,15.69,2024-05-20
+TI000295,ORD00112,C0102,Wrap World,Lemonade,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,20.0,28.0,15.69,2024-05-20
+TI000296,ORD00113,C0059,Salad Station,Quinoa Bowl,Main,3.0,"Decent food, portions could be a bit larger.",neutral,71.0,21.0,13.92,2024-11-06
+TI000297,ORD00113,C0059,Salad Station,Smoothie,Drink,3.0,"Decent food, portions could be a bit larger.",neutral,71.0,,13.92,2024-11-06
+TI000298,ORD00114,C0011,Sushi Spot,Salmon Sushi,Main,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,70.0,24.0,19.04,2024-06-07
+TI000299,ORD00114,C0011,Sushi Spot,Miso Soup,Side,,"The food arrived hot and fresh, exceeded my expectations.",positive,70.0,24.0,19.04,2024-06-07
+TI000300,ORD00114,C0011,Sushi Spot,Green Salad,Side,,"The food arrived hot and fresh, exceeded my expectations.",positive,70.0,24.0,19.04,2024-06-07
+TI000301,ORD00115,C0107,Pizza Palace,BBQ Chicken Pizza,Main,5.0,Great portion size and incredibly tasty.,positive,32.0,14.0,17.55,2024-03-30
+TI000302,ORD00115,C0107,Pizza Palace,Caesar Salad,Side,5.0,Great portion size and incredibly tasty.,positive,32.0,14.0,17.55,2024-03-30
+TI000303,ORD00116,C0124,Wrap World,Falafel Wrap,Main,4.0,,positive,67.0,20.0,11.09,2024-05-31
+TI000304,ORD00116,C0124,Wrap World,Coleslaw,Side,4.0,"Best meal I've had in a long time, highly recommend!",positive,67.0,20.0,11.09,2024-05-31
+TI000305,ORD00117,C0102,Sushi Spot,Tuna Roll,Main,,Overpriced for such average food quality.,negative,43.0,12.0,18.05,2024-10-12
+TI000306,ORD00117,C0102,Sushi Spot,Edamame,Side,1.0,Overpriced for such average food quality.,negative,43.0,12.0,18.05,2024-10-12
+TI000307,ORD00117,C0102,Sushi Spot,Miso Soup,Side,1.0,Overpriced for such average food quality.,negative,,12.0,18.05,2024-10-12
+TI000308,ORD00118,C0068,Pizza Palace,Margherita Pizza,Main,,"Cold food and extremely late delivery, very unhappy.",negative,44.0,30.0,15.35,2024-10-26
+TI000309,ORD00118,C0068,Pizza Palace,Garlic Bread,Side,2.0,"Cold food and extremely late delivery, very unhappy.",negative,44.0,30.0,15.35,2024-10-26
+TI000310,ORD00118,C0068,Pizza Palace,Pepsi,Drink,2.0,"Cold food and extremely late delivery, very unhappy.",negative,44.0,30.0,15.35,2024-10-26
+TI000311,ORD00119,C0144,Salad Station,Greek Salad,Side,4.0,"Outstanding food, the whole family enjoyed it.",positive,59.0,17.0,10.78,2024-06-16
+TI000312,ORD00119,C0144,Salad Station,Smoothie,Drink,,"Outstanding food, the whole family enjoyed it.",positive,59.0,17.0,10.78,2024-06-16
+TI000313,ORD00120,C0010,Wrap World,Chicken Wrap,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,51.0,13.0,12.16,2024-06-04
+TI000314,ORD00120,C0010,Wrap World,Coleslaw,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,51.0,13.0,12.16,2024-06-04
+TI000315,ORD00120,C0010,Wrap World,Lemonade,Drink,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,51.0,13.0,12.16,2024-06-04
+TI000316,ORD00121,C0139,Noodle Nest,Ramen,Main,5.0,"Fresh ingredients and great presentation, loved it.",positive,,33.0,20.42,2024-08-02
+TI000317,ORD00121,C0139,Noodle Nest,Dumpling,Side,5.0,"Fresh ingredients and great presentation, loved it.",positive,57.0,33.0,20.42,2024-08-02
+TI000318,ORD00121,C0139,Noodle Nest,Jasmine Tea,Drink,5.0,"Fresh ingredients and great presentation, loved it.",positive,57.0,33.0,20.42,2024-08-02
+TI000319,ORD00122,C0072,Pizza Palace,Margherita Pizza,Main,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,64.0,21.0,13.9,2024-01-17
+TI000320,ORD00122,C0072,Pizza Palace,Garlic Bread,Side,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,64.0,21.0,13.9,2024-01-17
+TI000321,ORD00122,C0072,Pizza Palace,Pepsi,Drink,,"Amazing flavors, perfectly seasoned. Five stars!",positive,64.0,21.0,13.9,2024-01-17
+TI000322,ORD00123,C0095,Taco Town,Beef Taco,Main,3.0,"Average meal, met my basic expectations.",neutral,61.0,21.0,12.09,2024-10-05
+TI000323,ORD00123,C0095,Taco Town,Nachos,Side,3.0,"Average meal, met my basic expectations.",neutral,,21.0,12.09,2024-10-05
+TI000324,ORD00123,C0095,Taco Town,Horchata,Drink,3.0,"Average meal, met my basic expectations.",neutral,61.0,21.0,12.09,2024-10-05
+TI000325,ORD00124,C0006,Salad Station,Greek Salad,Side,2.0,"The worst delivery experience, food was inedible.",negative,70.0,20.0,9.97,2024-01-26
+TI000326,ORD00124,C0006,Salad Station,Smoothie,Drink,2.0,"The worst delivery experience, food was inedible.",negative,70.0,20.0,9.97,2024-01-26
+TI000327,ORD00125,C0142,Pasta Point,Spaghetti Carbonara,Main,,"It was fine, delivery was a little late though.",,57.0,16.0,15.6,2024-04-16
+TI000328,ORD00125,C0142,Pasta Point,Garlic Bread,Side,3.0,"It was fine, delivery was a little late though.",neutral,57.0,16.0,15.6,2024-04-16
+TI000329,ORD00125,C0142,Pasta Point,Coke,Drink,3.0,"It was fine, delivery was a little late though.",neutral,57.0,,15.6,2024-04-16
+TI000330,ORD00126,C0038,Burger Barn,Veggie Burger,Main,2.0,,negative,54.0,18.0,13.07,2024-03-07
+TI000331,ORD00126,C0038,Burger Barn,Onion Rings,Side,2.0,"Very disappointed, the food was cold and tasteless.",,54.0,18.0,13.07,2024-03-07
+TI000332,ORD00126,C0038,Burger Barn,Coke,Drink,2.0,"Very disappointed, the food was cold and tasteless.",negative,54.0,18.0,13.07,2024-03-07
+TI000333,ORD00127,C0061,Sushi Spot,Salmon Sushi,Main,2.0,"Not happy at all, low quality and rude service.",negative,,10.0,19.32,2024-10-28
+TI000334,ORD00127,C0061,Sushi Spot,Miso Soup,Side,2.0,"Not happy at all, low quality and rude service.",negative,,10.0,19.32,2024-10-28
+TI000335,ORD00127,C0061,Sushi Spot,Green Salad,Side,2.0,"Not happy at all, low quality and rude service.",negative,40.0,10.0,19.32,2024-10-28
+TI000336,ORD00128,C0122,Noodle Nest,Pad Thai,Main,2.0,Overpriced for such average food quality.,negative,69.0,,16.51,2024-08-17
+TI000337,ORD00128,C0122,Noodle Nest,Spring Rolls,Side,2.0,Overpriced for such average food quality.,negative,69.0,21.0,16.51,2024-08-17
+TI000338,ORD00129,C0134,Pasta Point,Penne Arrabiata,Main,2.0,"Very poor experience, missing items from my order.",negative,,30.0,18.4,2024-06-03
+TI000339,ORD00129,C0134,Pasta Point,Garlic Bread,Side,2.0,"Very poor experience, missing items from my order.",negative,49.0,30.0,18.4,2024-06-03
+TI000340,ORD00129,C0134,Pasta Point,Tiramisu,Dessert,2.0,"Very poor experience, missing items from my order.",negative,,30.0,18.4,2024-06-03
+TI000341,ORD00130,C0126,Noodle Nest,Ramen,Main,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,48.0,12.0,20.77,2024-12-30
+TI000342,ORD00130,C0126,Noodle Nest,Dumpling,Side,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,48.0,12.0,20.77,2024-12-30
+TI000343,ORD00130,C0126,Noodle Nest,Jasmine Tea,Drink,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,12.0,20.77,2024-12-30
+TI000344,ORD00131,C0150,Pizza Palace,Pepperoni Pizza,Main,4.0,Quick delivery and the food tasted fantastic!,positive,65.0,20.0,15.23,2024-10-07
+TI000345,ORD00131,C0150,Pizza Palace,Pepsi,Drink,4.0,Quick delivery and the food tasted fantastic!,positive,65.0,20.0,15.23,2024-10-07
+TI000346,ORD00131,C0150,Pizza Palace,Garlic Bread,Side,4.0,Quick delivery and the food tasted fantastic!,positive,65.0,,15.23,2024-10-07
+TI000347,ORD00132,C0026,Salad Station,Quinoa Bowl,Main,5.0,Superb quality! The meal was warm and delicious.,positive,27.0,30.0,13.78,2024-12-25
+TI000348,ORD00132,C0026,Salad Station,Green Salad,Side,5.0,Superb quality! The meal was warm and delicious.,positive,27.0,30.0,13.78,2024-12-25
+TI000349,ORD00133,C0059,Pasta Point,Spaghetti Carbonara,Main,5.0,Great portion size and incredibly tasty.,positive,41.0,,15.78,2024-07-30
+TI000350,ORD00133,C0059,Pasta Point,Caesar Salad,Side,5.0,Great portion size and incredibly tasty.,positive,41.0,24.0,15.78,2024-07-30
+TI000351,ORD00134,C0096,Noodle Nest,Udon,Main,5.0,"Best meal I've had in a long time, highly recommend!",positive,63.0,25.0,17.1,2024-03-19
+TI000352,ORD00134,C0096,Noodle Nest,Spring Rolls,Side,,"Best meal I've had in a long time, highly recommend!",positive,,25.0,17.1,2024-03-19
+TI000353,ORD00134,C0096,Noodle Nest,Jasmine Tea,Drink,5.0,"Best meal I've had in a long time, highly recommend!",positive,63.0,25.0,17.1,2024-03-19
+TI000354,ORD00135,C0096,Noodle Nest,Ramen,Main,4.0,Great portion size and incredibly tasty.,positive,55.0,11.0,19.64,2024-03-07
+TI000355,ORD00135,C0096,Noodle Nest,Spring Rolls,Side,4.0,Great portion size and incredibly tasty.,positive,55.0,11.0,19.64,2024-03-07
+TI000356,ORD00135,C0096,Noodle Nest,Jasmine Tea,Drink,4.0,Great portion size and incredibly tasty.,positive,55.0,11.0,19.64,2024-03-07
+TI000357,ORD00136,C0109,Pizza Palace,Margherita Pizza,Main,,Overpriced for such average food quality.,,38.0,29.0,14.09,2024-01-27
+TI000358,ORD00136,C0109,Pizza Palace,Garlic Bread,Side,2.0,Overpriced for such average food quality.,negative,38.0,29.0,14.09,2024-01-27
+TI000359,ORD00136,C0109,Pizza Palace,Pepsi,Drink,2.0,Overpriced for such average food quality.,negative,38.0,29.0,14.09,2024-01-27
+TI000360,ORD00137,C0058,Pasta Point,Penne Arrabiata,Main,5.0,"Excellent taste and fast delivery, very satisfied!",positive,42.0,27.0,14.72,2024-02-25
+TI000361,ORD00137,C0058,Pasta Point,Tiramisu,Dessert,5.0,"Excellent taste and fast delivery, very satisfied!",positive,42.0,27.0,14.72,2024-02-25
+TI000362,ORD00138,C0143,Pasta Point,Spaghetti Carbonara,Main,3.0,"It was fine, delivery was a little late though.",neutral,58.0,31.0,16.64,2024-01-14
+TI000363,ORD00138,C0143,Pasta Point,Caesar Salad,Side,3.0,"It was fine, delivery was a little late though.",neutral,58.0,31.0,16.64,2024-01-14
+TI000364,ORD00139,C0090,Wrap World,Beef Wrap,Main,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,31.0,14.0,13.1,2024-01-04
+TI000365,ORD00139,C0090,Wrap World,Fries,Side,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,31.0,14.0,13.1,2024-01-04
+TI000366,ORD00139,C0090,Wrap World,Coke,Drink,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,31.0,14.0,13.1,2024-01-04
+TI000367,ORD00140,C0056,Burger Barn,Burger,Main,4.0,Superb quality! The meal was warm and delicious.,positive,46.0,24.0,11.15,2024-07-11
+TI000368,ORD00140,C0056,Burger Barn,Fries,Side,,Superb quality! The meal was warm and delicious.,positive,46.0,24.0,11.15,2024-07-11
+TI000369,ORD00140,C0056,Burger Barn,Coke,Drink,4.0,Superb quality! The meal was warm and delicious.,,46.0,,11.15,2024-07-11
+TI000370,ORD00141,C0014,Taco Town,Fish Taco,Main,,Quick delivery and the food tasted fantastic!,positive,30.0,34.0,11.71,2024-03-20
+TI000371,ORD00141,C0014,Taco Town,Guacamole,Side,5.0,Quick delivery and the food tasted fantastic!,positive,30.0,34.0,11.71,2024-03-20
+TI000372,ORD00141,C0014,Taco Town,Horchata,Drink,5.0,Quick delivery and the food tasted fantastic!,positive,30.0,34.0,11.71,2024-03-20
+TI000373,ORD00142,C0114,Salad Station,Greek Salad,Side,2.0,Order arrived late and the food was undercooked.,negative,37.0,16.0,17.48,2024-07-31
+TI000374,ORD00142,C0114,Salad Station,Avocado Toast,Main,,Order arrived late and the food was undercooked.,negative,37.0,16.0,17.48,2024-07-31
+TI000375,ORD00142,C0114,Salad Station,Smoothie,Drink,2.0,Order arrived late and the food was undercooked.,,37.0,16.0,17.48,2024-07-31
+TI000376,ORD00143,C0125,Pizza Palace,BBQ Chicken Pizza,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,62.0,19.0,16.07,2024-09-26
+TI000377,ORD00143,C0125,Pizza Palace,Caesar Salad,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,62.0,19.0,16.07,2024-09-26
+TI000378,ORD00144,C0055,Burger Barn,Burger,Main,2.0,"Very poor experience, missing items from my order.",negative,68.0,18.0,11.05,2024-03-11
+TI000379,ORD00144,C0055,Burger Barn,Fries,Side,2.0,"Very poor experience, missing items from my order.",negative,68.0,18.0,11.05,2024-03-11
+TI000380,ORD00144,C0055,Burger Barn,Coke,Drink,2.0,"Very poor experience, missing items from my order.",negative,68.0,18.0,11.05,2024-03-11
+TI000381,ORD00145,C0059,Noodle Nest,Pad Thai,Main,2.0,"Not happy at all, low quality and rude service.",negative,55.0,31.0,17.59,2024-09-13
+TI000382,ORD00145,C0059,Noodle Nest,Dumpling,Side,2.0,"Not happy at all, low quality and rude service.",negative,55.0,31.0,17.59,2024-09-13
+TI000383,ORD00146,C0081,Burger Barn,Chicken Strips,Side,4.0,,positive,47.0,28.0,18.27,2024-10-21
+TI000384,ORD00146,C0081,Burger Barn,Fries,Side,4.0,Quick delivery and the food tasted fantastic!,positive,,28.0,18.27,2024-10-21
+TI000385,ORD00146,C0081,Burger Barn,Coke,Drink,4.0,Quick delivery and the food tasted fantastic!,positive,,28.0,18.27,2024-10-21
+TI000386,ORD00146,C0081,Burger Barn,Double Burger,Main,4.0,Quick delivery and the food tasted fantastic!,positive,47.0,28.0,18.27,2024-10-21
+TI000387,ORD00147,C0044,Pizza Palace,Margherita Pizza,Main,2.0,"Terrible experience, order was wrong and took too long.",negative,49.0,32.0,25.8,2024-11-12
+TI000388,ORD00147,C0044,Pizza Palace,Garlic Bread,Side,2.0,"Terrible experience, order was wrong and took too long.",negative,49.0,32.0,25.8,2024-11-12
+TI000389,ORD00147,C0044,Pizza Palace,Pepsi,Drink,2.0,"Terrible experience, order was wrong and took too long.",negative,49.0,32.0,25.8,2024-11-12
+TI000390,ORD00147,C0044,Pizza Palace,BBQ Chicken Pizza,Main,2.0,,negative,49.0,32.0,25.8,2024-11-12
+TI000391,ORD00148,C0135,Pasta Point,Spaghetti Carbonara,Main,3.0,"It was fine, delivery was a little late though.",neutral,45.0,19.0,16.47,2024-02-10
+TI000392,ORD00148,C0135,Pasta Point,Caesar Salad,Side,3.0,"It was fine, delivery was a little late though.",neutral,45.0,19.0,16.47,2024-02-10
+TI000393,ORD00149,C0136,Pizza Palace,Pepperoni Pizza,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,,34.0,17.67,2024-09-18
+TI000394,ORD00149,C0136,Pizza Palace,Caesar Salad,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,32.0,34.0,17.67,2024-09-18
+TI000395,ORD00149,C0136,Pizza Palace,Pepsi,Drink,5.0,Highly satisfied with the taste and delivery speed.,positive,32.0,34.0,17.67,2024-09-18
+TI000396,ORD00150,C0051,Sushi Spot,Tuna Roll,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,58.0,14.0,26.98,2024-03-29
+TI000397,ORD00150,C0051,Sushi Spot,Edamame,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,58.0,14.0,26.98,2024-03-29
+TI000398,ORD00150,C0051,Sushi Spot,Miso Soup,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,58.0,14.0,26.98,2024-03-29
+TI000399,ORD00150,C0051,Sushi Spot,Shrimp Tempura,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",,58.0,14.0,26.98,2024-03-29
+TI000400,ORD00151,C0149,Salad Station,Greek Salad,Side,5.0,Great portion size and incredibly tasty.,positive,63.0,28.0,17.26,2024-08-17
+TI000401,ORD00151,C0149,Salad Station,Avocado Toast,Main,5.0,Great portion size and incredibly tasty.,positive,63.0,28.0,17.26,2024-08-17
+TI000402,ORD00151,C0149,Salad Station,Smoothie,Drink,5.0,Great portion size and incredibly tasty.,positive,63.0,28.0,17.26,2024-08-17
+TI000403,ORD00152,C0121,Taco Town,Chicken Taco,Main,4.0,Great portion size and incredibly tasty.,positive,60.0,19.0,11.06,2024-08-14
+TI000404,ORD00152,C0121,Taco Town,Guacamole,Side,4.0,Great portion size and incredibly tasty.,positive,60.0,19.0,11.06,2024-08-14
+TI000405,ORD00152,C0121,Taco Town,Horchata,Drink,4.0,Great portion size and incredibly tasty.,positive,60.0,19.0,11.06,2024-08-14
+TI000406,ORD00153,C0010,Pizza Palace,BBQ Chicken Pizza,Main,,Highly satisfied with the taste and delivery speed.,,43.0,19.0,16.13,2024-01-30
+TI000407,ORD00153,C0010,Pizza Palace,Caesar Salad,Side,5.0,Highly satisfied with the taste and delivery speed.,,43.0,19.0,16.13,2024-01-30
+TI000408,ORD00154,C0099,Pizza Palace,Pepperoni Pizza,Main,5.0,,positive,57.0,27.0,18.88,2024-08-24
+TI000409,ORD00154,C0099,Pizza Palace,Caesar Salad,Side,5.0,Absolutely delicious! Will definitely order again.,positive,57.0,27.0,18.88,2024-08-24
+TI000410,ORD00154,C0099,Pizza Palace,Pepsi,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,57.0,27.0,18.88,2024-08-24
+TI000411,ORD00155,C0083,Salad Station,Quinoa Bowl,Main,2.0,"Terrible experience, order was wrong and took too long.",negative,50.0,26.0,12.78,2024-11-05
+TI000412,ORD00155,C0083,Salad Station,Green Salad,Side,2.0,"Terrible experience, order was wrong and took too long.",negative,50.0,26.0,12.78,2024-11-05
+TI000413,ORD00156,C0045,Taco Town,Beef Taco,Main,4.0,Perfect meal for a cozy evening at home.,positive,35.0,,12.85,2024-01-21
+TI000414,ORD00156,C0045,Taco Town,Nachos,Side,4.0,Perfect meal for a cozy evening at home.,positive,35.0,32.0,12.85,2024-01-21
+TI000415,ORD00156,C0045,Taco Town,Horchata,Drink,4.0,,positive,35.0,32.0,12.85,2024-01-21
+TI000416,ORD00157,C0073,Sushi Spot,Dragon Roll,Main,4.0,So good I ordered again the next day!,positive,46.0,34.0,16.66,2024-07-17
+TI000417,ORD00157,C0073,Sushi Spot,Miso Soup,Side,4.0,So good I ordered again the next day!,positive,46.0,34.0,16.66,2024-07-17
+TI000418,ORD00158,C0143,Taco Town,Beef Taco,Main,5.0,"Wonderful experience, the food was restaurant-quality.",positive,44.0,19.0,12.47,2024-12-13
+TI000419,ORD00158,C0143,Taco Town,Nachos,Side,5.0,"Wonderful experience, the food was restaurant-quality.",positive,,19.0,12.47,2024-12-13
+TI000420,ORD00158,C0143,Taco Town,Horchata,Drink,5.0,"Wonderful experience, the food was restaurant-quality.",positive,44.0,19.0,12.47,2024-12-13
+TI000421,ORD00159,C0037,Sushi Spot,Dragon Roll,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,39.0,30.0,19.87,2024-06-28
+TI000422,ORD00159,C0037,Sushi Spot,Miso Soup,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,39.0,30.0,19.87,2024-06-28
+TI000423,ORD00159,C0037,Sushi Spot,Edamame,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,39.0,30.0,19.87,2024-06-28
+TI000424,ORD00160,C0085,Pizza Palace,BBQ Chicken Pizza,Main,5.0,"Fresh ingredients and great presentation, loved it.",positive,,32.0,17.64,2024-03-06
+TI000425,ORD00160,C0085,Pizza Palace,Caesar Salad,Side,5.0,"Fresh ingredients and great presentation, loved it.",positive,62.0,32.0,17.64,2024-03-06
+TI000426,ORD00161,C0005,Pizza Palace,Margherita Pizza,Main,,So good I ordered again the next day!,positive,,15.0,15.37,2024-07-04
+TI000427,ORD00161,C0005,Pizza Palace,Garlic Bread,Side,4.0,So good I ordered again the next day!,positive,39.0,15.0,15.37,2024-07-04
+TI000428,ORD00161,C0005,Pizza Palace,Pepsi,Drink,4.0,So good I ordered again the next day!,positive,39.0,15.0,15.37,2024-07-04
+TI000429,ORD00162,C0036,Salad Station,Caesar Salad,Side,2.0,Overpriced for such average food quality.,negative,24.0,,13.67,2024-03-20
+TI000430,ORD00162,C0036,Salad Station,Avocado Toast,Main,2.0,Overpriced for such average food quality.,negative,24.0,19.0,13.67,2024-03-20
+TI000431,ORD00163,C0034,Burger Barn,Double Burger,Main,5.0,So good I ordered again the next day!,positive,44.0,14.0,11.3,2024-11-01
+TI000432,ORD00163,C0034,Burger Barn,Fries,Side,5.0,So good I ordered again the next day!,positive,44.0,14.0,11.3,2024-11-01
+TI000433,ORD00164,C0061,Sushi Spot,Shrimp Tempura,Side,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,59.0,19.0,26.47,2024-08-15
+TI000434,ORD00164,C0061,Sushi Spot,Salmon Sushi,Main,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,,19.0,26.47,2024-08-15
+TI000435,ORD00164,C0061,Sushi Spot,Green Salad,Side,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,59.0,19.0,26.47,2024-08-15
+TI000436,ORD00165,C0121,Pasta Point,Fettuccine Alfredo,Main,5.0,"Outstanding food, the whole family enjoyed it.",positive,43.0,31.0,16.36,2024-04-09
+TI000437,ORD00165,C0121,Pasta Point,Garlic Bread,Side,5.0,"Outstanding food, the whole family enjoyed it.",positive,43.0,31.0,16.36,2024-04-09
+TI000438,ORD00165,C0121,Pasta Point,Coke,Drink,5.0,"Outstanding food, the whole family enjoyed it.",positive,43.0,31.0,16.36,2024-04-09
+TI000439,ORD00166,C0108,Wrap World,Chicken Wrap,Main,3.0,"Decent food, portions could be a bit larger.",neutral,72.0,16.0,13.57,2024-03-23
+TI000440,ORD00166,C0108,Wrap World,Coleslaw,Side,3.0,,neutral,,16.0,13.57,2024-03-23
+TI000441,ORD00166,C0108,Wrap World,Lemonade,Drink,3.0,"Decent food, portions could be a bit larger.",neutral,72.0,16.0,13.57,2024-03-23
+TI000442,ORD00167,C0096,Burger Barn,Double Burger,Main,5.0,Quick delivery and the food tasted fantastic!,positive,,32.0,12.67,2024-10-10
+TI000443,ORD00167,C0096,Burger Barn,Fries,Side,5.0,,positive,26.0,32.0,12.67,2024-10-10
+TI000444,ORD00168,C0132,Pizza Palace,Pepperoni Pizza,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,73.0,23.0,14.65,2024-03-16
+TI000445,ORD00168,C0132,Pizza Palace,Pepsi,Drink,5.0,Highly satisfied with the taste and delivery speed.,positive,73.0,23.0,14.65,2024-03-16
+TI000446,ORD00168,C0132,Pizza Palace,Garlic Bread,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,73.0,23.0,14.65,2024-03-16
+TI000447,ORD00169,C0107,Salad Station,Quinoa Bowl,Main,4.0,"Best meal I've had in a long time, highly recommend!",positive,45.0,26.0,14.23,2024-01-28
+TI000448,ORD00169,C0107,Salad Station,Smoothie,Drink,4.0,"Best meal I've had in a long time, highly recommend!",positive,45.0,26.0,14.23,2024-01-28
+TI000449,ORD00170,C0086,Taco Town,Chicken Taco,Main,5.0,Superb quality! The meal was warm and delicious.,positive,,11.0,14.03,2024-03-15
+TI000450,ORD00170,C0086,Taco Town,Guacamole,Side,,Superb quality! The meal was warm and delicious.,positive,28.0,11.0,14.03,2024-03-15
+TI000451,ORD00170,C0086,Taco Town,Horchata,Drink,5.0,Superb quality! The meal was warm and delicious.,positive,28.0,11.0,14.03,2024-03-15
+TI000452,ORD00170,C0086,Taco Town,Beef Taco,Main,5.0,Superb quality! The meal was warm and delicious.,positive,28.0,,14.03,2024-03-15
+TI000453,ORD00171,C0002,Sushi Spot,Shrimp Tempura,Side,3.0,"The meal was passable, would try a different option next time.",neutral,21.0,18.0,25.4,2024-02-10
+TI000454,ORD00171,C0002,Sushi Spot,Salmon Sushi,Main,3.0,"The meal was passable, would try a different option next time.",neutral,21.0,18.0,25.4,2024-02-10
+TI000455,ORD00171,C0002,Sushi Spot,Green Salad,Side,3.0,"The meal was passable, would try a different option next time.",neutral,21.0,18.0,25.4,2024-02-10
+TI000456,ORD00172,C0061,Noodle Nest,Ramen,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,11.0,18.95,2024-06-03
+TI000457,ORD00172,C0061,Noodle Nest,Spring Rolls,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,11.0,18.95,2024-06-03
+TI000458,ORD00172,C0061,Noodle Nest,Jasmine Tea,Drink,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,11.0,18.95,2024-06-03
+TI000459,ORD00173,C0138,Salad Station,Greek Salad,Side,5.0,Quick delivery and the food tasted fantastic!,positive,60.0,26.0,10.63,2024-01-09
+TI000460,ORD00173,C0138,Salad Station,Smoothie,Drink,5.0,Quick delivery and the food tasted fantastic!,positive,60.0,26.0,10.63,2024-01-09
+TI000461,ORD00174,C0062,Noodle Nest,Ramen,Main,2.0,"The meal was soggy and bland, I want my money back.",,46.0,,19.8,2024-10-19
+TI000462,ORD00174,C0062,Noodle Nest,Spring Rolls,Side,2.0,"The meal was soggy and bland, I want my money back.",negative,,15.0,19.8,2024-10-19
+TI000463,ORD00174,C0062,Noodle Nest,Jasmine Tea,Drink,2.0,"The meal was soggy and bland, I want my money back.",negative,46.0,15.0,19.8,2024-10-19
+TI000464,ORD00175,C0130,Pizza Palace,Pepperoni Pizza,Main,1.0,Order arrived late and the food was undercooked.,negative,21.0,22.0,18.72,2024-10-10
+TI000465,ORD00175,C0130,Pizza Palace,Caesar Salad,Side,1.0,Order arrived late and the food was undercooked.,negative,21.0,22.0,18.72,2024-10-10
+TI000466,ORD00175,C0130,Pizza Palace,Pepsi,Drink,1.0,Order arrived late and the food was undercooked.,negative,,22.0,18.72,2024-10-10
+TI000467,ORD00176,C0092,Taco Town,Fish Taco,Main,4.0,So good I ordered again the next day!,positive,42.0,17.0,11.45,2024-02-04
+TI000468,ORD00176,C0092,Taco Town,Nachos,Side,4.0,So good I ordered again the next day!,positive,42.0,17.0,11.45,2024-02-04
+TI000469,ORD00177,C0087,Taco Town,Chicken Taco,Main,5.0,"Outstanding food, the whole family enjoyed it.",positive,31.0,,10.84,2024-11-25
+TI000470,ORD00177,C0087,Taco Town,Guacamole,Side,5.0,"Outstanding food, the whole family enjoyed it.",,31.0,34.0,10.84,2024-11-25
+TI000471,ORD00177,C0087,Taco Town,Horchata,Drink,5.0,"Outstanding food, the whole family enjoyed it.",positive,31.0,34.0,10.84,2024-11-25
+TI000472,ORD00178,C0118,Sushi Spot,Tuna Roll,Main,3.0,"Food was okay, nothing too special but decent.",neutral,38.0,16.0,29.05,2024-01-19
+TI000473,ORD00178,C0118,Sushi Spot,Edamame,Side,3.0,"Food was okay, nothing too special but decent.",neutral,38.0,16.0,29.05,2024-01-19
+TI000474,ORD00178,C0118,Sushi Spot,Miso Soup,Side,3.0,,neutral,38.0,16.0,29.05,2024-01-19
+TI000475,ORD00178,C0118,Sushi Spot,Dragon Roll,Main,3.0,"Food was okay, nothing too special but decent.",neutral,38.0,,29.05,2024-01-19
+TI000476,ORD00179,C0140,Taco Town,Fish Taco,Main,3.0,"Okay experience overall, nothing extraordinary.",neutral,36.0,11.0,11.49,2024-08-30
+TI000477,ORD00179,C0140,Taco Town,Nachos,Side,3.0,"Okay experience overall, nothing extraordinary.",neutral,36.0,11.0,11.49,2024-08-30
+TI000478,ORD00180,C0032,Burger Barn,Double Burger,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,47.0,22.0,12.47,2024-07-07
+TI000479,ORD00180,C0032,Burger Barn,Fries,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,47.0,22.0,12.47,2024-07-07
+TI000480,ORD00181,C0128,Taco Town,Chicken Taco,Main,2.0,Order arrived late and the food was undercooked.,negative,71.0,26.0,10.0,2024-07-07
+TI000481,ORD00181,C0128,Taco Town,Guacamole,Side,2.0,Order arrived late and the food was undercooked.,negative,71.0,26.0,10.0,2024-07-07
+TI000482,ORD00181,C0128,Taco Town,Horchata,Drink,2.0,Order arrived late and the food was undercooked.,negative,71.0,26.0,10.0,2024-07-07
+TI000483,ORD00182,C0047,Pizza Palace,Margherita Pizza,Main,4.0,Quick delivery and the food tasted fantastic!,positive,38.0,20.0,13.68,2024-10-06
+TI000484,ORD00182,C0047,Pizza Palace,Garlic Bread,Side,4.0,Quick delivery and the food tasted fantastic!,positive,38.0,20.0,13.68,2024-10-06
+TI000485,ORD00182,C0047,Pizza Palace,Pepsi,Drink,4.0,Quick delivery and the food tasted fantastic!,positive,38.0,20.0,13.68,2024-10-06
+TI000486,ORD00183,C0110,Wrap World,Chicken Wrap,Main,1.0,"The meal was soggy and bland, I want my money back.",negative,64.0,24.0,12.67,2024-03-26
+TI000487,ORD00183,C0110,Wrap World,Coleslaw,Side,1.0,"The meal was soggy and bland, I want my money back.",negative,64.0,24.0,12.67,2024-03-26
+TI000488,ORD00183,C0110,Wrap World,Lemonade,Drink,,"The meal was soggy and bland, I want my money back.",negative,64.0,24.0,12.67,2024-03-26
+TI000489,ORD00184,C0015,Noodle Nest,Udon,Main,4.0,Superb quality! The meal was warm and delicious.,positive,62.0,30.0,17.78,2024-02-08
+TI000490,ORD00184,C0015,Noodle Nest,Spring Rolls,Side,4.0,Superb quality! The meal was warm and delicious.,positive,62.0,30.0,17.78,2024-02-08
+TI000491,ORD00184,C0015,Noodle Nest,Jasmine Tea,Drink,4.0,Superb quality! The meal was warm and delicious.,,62.0,30.0,17.78,2024-02-08
+TI000492,ORD00185,C0113,Sushi Spot,Salmon Sushi,Main,4.0,Great portion size and incredibly tasty.,positive,28.0,12.0,19.44,2024-01-18
+TI000493,ORD00185,C0113,Sushi Spot,Miso Soup,Side,4.0,Great portion size and incredibly tasty.,positive,28.0,12.0,19.44,2024-01-18
+TI000494,ORD00185,C0113,Sushi Spot,Green Salad,Side,4.0,Great portion size and incredibly tasty.,positive,28.0,12.0,19.44,2024-01-18
+TI000495,ORD00186,C0116,Noodle Nest,Pad Thai,Main,4.0,Perfect meal for a cozy evening at home.,,43.0,24.0,28.0,2024-07-08
+TI000496,ORD00186,C0116,Noodle Nest,Spring Rolls,Side,4.0,Perfect meal for a cozy evening at home.,positive,43.0,24.0,28.0,2024-07-08
+TI000497,ORD00186,C0116,Noodle Nest,Ramen,Main,4.0,,positive,43.0,24.0,28.0,2024-07-08
+TI000498,ORD00187,C0072,Taco Town,Beef Taco,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,27.0,10.0,12.44,2024-05-07
+TI000499,ORD00187,C0072,Taco Town,Chicken Taco,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,27.0,10.0,12.44,2024-05-07
+TI000500,ORD00187,C0072,Taco Town,Guacamole,Side,4.0,"Loved every bite, the quality is consistently excellent.",positive,27.0,10.0,12.44,2024-05-07
+TI000501,ORD00188,C0115,Pizza Palace,BBQ Chicken Pizza,Main,5.0,,positive,59.0,19.0,17.37,2024-04-19
+TI000502,ORD00188,C0115,Pizza Palace,Caesar Salad,Side,5.0,,,59.0,19.0,17.37,2024-04-19
+TI000503,ORD00189,C0116,Pizza Palace,Pepperoni Pizza,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,65.0,24.0,16.46,2024-03-29
+TI000504,ORD00189,C0116,Pizza Palace,Pepsi,Drink,5.0,Highly satisfied with the taste and delivery speed.,positive,65.0,24.0,16.46,2024-03-29
+TI000505,ORD00189,C0116,Pizza Palace,Garlic Bread,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,65.0,24.0,16.46,2024-03-29
+TI000506,ORD00190,C0141,Taco Town,Fish Taco,Main,5.0,"Wonderful experience, the food was restaurant-quality.",positive,38.0,19.0,11.68,2024-10-04
+TI000507,ORD00190,C0141,Taco Town,Nachos,Side,5.0,"Wonderful experience, the food was restaurant-quality.",,38.0,19.0,11.68,2024-10-04
+TI000508,ORD00191,C0032,Sushi Spot,Dragon Roll,Main,4.0,Great portion size and incredibly tasty.,positive,70.0,14.0,16.45,2024-04-12
+TI000509,ORD00191,C0032,Sushi Spot,Miso Soup,Side,4.0,Great portion size and incredibly tasty.,positive,70.0,14.0,16.45,2024-04-12
+TI000510,ORD00192,C0142,Taco Town,Beef Taco,Main,4.0,Superb quality! The meal was warm and delicious.,positive,59.0,12.0,11.1,2024-03-07
+TI000511,ORD00192,C0142,Taco Town,Chicken Taco,Main,4.0,Superb quality! The meal was warm and delicious.,positive,59.0,12.0,11.1,2024-03-07
+TI000512,ORD00192,C0142,Taco Town,Guacamole,Side,4.0,Superb quality! The meal was warm and delicious.,positive,59.0,12.0,11.1,2024-03-07
+TI000513,ORD00193,C0105,Salad Station,Quinoa Bowl,Main,4.0,"Outstanding food, the whole family enjoyed it.",positive,24.0,14.0,14.42,2024-10-21
+TI000514,ORD00193,C0105,Salad Station,Green Salad,Side,4.0,"Outstanding food, the whole family enjoyed it.",positive,24.0,14.0,14.42,2024-10-21
+TI000515,ORD00194,C0142,Salad Station,Quinoa Bowl,Main,2.0,Overpriced for such average food quality.,negative,57.0,15.0,14.02,2024-11-23
+TI000516,ORD00194,C0142,Salad Station,Green Salad,Side,2.0,Overpriced for such average food quality.,negative,57.0,15.0,14.02,2024-11-23
+TI000517,ORD00195,C0078,Burger Barn,Burger,Main,3.0,"It was alright, I might try something different next time.",neutral,30.0,20.0,12.34,2024-03-25
+TI000518,ORD00195,C0078,Burger Barn,Fries,Side,3.0,"It was alright, I might try something different next time.",neutral,30.0,20.0,12.34,2024-03-25
+TI000519,ORD00195,C0078,Burger Barn,Coke,Drink,3.0,"It was alright, I might try something different next time.",neutral,30.0,20.0,12.34,2024-03-25
+TI000520,ORD00196,C0142,Wrap World,Chicken Wrap,Main,4.0,Perfect meal for a cozy evening at home.,positive,28.0,30.0,12.58,2024-05-20
+TI000521,ORD00196,C0142,Wrap World,Fries,Side,4.0,Perfect meal for a cozy evening at home.,positive,28.0,30.0,12.58,2024-05-20
+TI000522,ORD00196,C0142,Wrap World,Lemonade,Drink,4.0,Perfect meal for a cozy evening at home.,positive,28.0,30.0,12.58,2024-05-20
+TI000523,ORD00197,C0040,Sushi Spot,Tuna Roll,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,62.0,29.0,27.41,2024-03-28
+TI000524,ORD00197,C0040,Sushi Spot,Dragon Roll,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,,29.0,27.41,2024-03-28
+TI000525,ORD00197,C0040,Sushi Spot,Edamame,Side,4.0,Highly satisfied with the taste and delivery speed.,positive,,29.0,27.41,2024-03-28
+TI000526,ORD00198,C0054,Burger Barn,Burger,Main,4.0,"Fresh ingredients and great presentation, loved it.",positive,46.0,29.0,14.74,2024-10-19
+TI000527,ORD00198,C0054,Burger Barn,Fries,Side,4.0,"Fresh ingredients and great presentation, loved it.",positive,46.0,29.0,14.74,2024-10-19
+TI000528,ORD00198,C0054,Burger Barn,Coke,Drink,4.0,"Fresh ingredients and great presentation, loved it.",positive,46.0,29.0,14.74,2024-10-19
+TI000529,ORD00198,C0054,Burger Barn,Onion Rings,Side,4.0,"Fresh ingredients and great presentation, loved it.",positive,46.0,29.0,14.74,2024-10-19
+TI000530,ORD00199,C0104,Wrap World,Beef Wrap,Main,3.0,"Food was acceptable, could use more seasoning.",neutral,49.0,12.0,13.35,2024-06-01
+TI000531,ORD00199,C0104,Wrap World,Fries,Side,3.0,"Food was acceptable, could use more seasoning.",neutral,49.0,12.0,13.35,2024-06-01
+TI000532,ORD00199,C0104,Wrap World,Coke,Drink,3.0,"Food was acceptable, could use more seasoning.",neutral,49.0,,13.35,2024-06-01
+TI000533,ORD00200,C0037,Salad Station,Greek Salad,Side,5.0,Great portion size and incredibly tasty.,positive,75.0,32.0,16.61,2024-06-09
+TI000534,ORD00200,C0037,Salad Station,Avocado Toast,Main,5.0,,positive,75.0,32.0,16.61,2024-06-09
+TI000535,ORD00200,C0037,Salad Station,Smoothie,Drink,5.0,Great portion size and incredibly tasty.,positive,75.0,32.0,16.61,2024-06-09
+TI000536,ORD00201,C0132,Noodle Nest,Pad Thai,Main,2.0,"Very poor experience, missing items from my order.",negative,26.0,20.0,16.46,2024-10-14
+TI000537,ORD00201,C0132,Noodle Nest,Dumpling,Side,2.0,"Very poor experience, missing items from my order.",negative,26.0,20.0,16.46,2024-10-14
+TI000538,ORD00202,C0099,Pasta Point,Penne Arrabiata,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,46.0,17.0,25.9,2024-11-11
+TI000539,ORD00202,C0099,Pasta Point,Tiramisu,Dessert,5.0,Highly satisfied with the taste and delivery speed.,positive,46.0,17.0,25.9,2024-11-11
+TI000540,ORD00202,C0099,Pasta Point,Fettuccine Alfredo,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,46.0,17.0,25.9,2024-11-11
+TI000541,ORD00203,C0049,Taco Town,Fish Taco,Main,5.0,"Outstanding food, the whole family enjoyed it.",,51.0,26.0,11.4,2024-03-22
+TI000542,ORD00203,C0049,Taco Town,Guacamole,Side,5.0,"Outstanding food, the whole family enjoyed it.",positive,51.0,26.0,11.4,2024-03-22
+TI000543,ORD00203,C0049,Taco Town,Horchata,Drink,5.0,"Outstanding food, the whole family enjoyed it.",positive,51.0,26.0,11.4,2024-03-22
+TI000544,ORD00204,C0130,Burger Barn,Burger,Main,1.0,"Disappointing quality, not worth the price at all.",negative,35.0,16.0,11.64,2024-08-22
+TI000545,ORD00204,C0130,Burger Barn,Fries,Side,1.0,"Disappointing quality, not worth the price at all.",negative,35.0,16.0,11.64,2024-08-22
+TI000546,ORD00204,C0130,Burger Barn,Coke,Drink,1.0,"Disappointing quality, not worth the price at all.",,35.0,16.0,11.64,2024-08-22
+TI000547,ORD00205,C0121,Salad Station,Quinoa Bowl,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,54.0,10.0,14.17,2024-05-26
+TI000548,ORD00205,C0121,Salad Station,Green Salad,Side,4.0,"Wonderful experience, the food was restaurant-quality.",positive,54.0,,14.17,2024-05-26
+TI000549,ORD00206,C0094,Wrap World,Beef Wrap,Main,3.0,"It was alright, I might try something different next time.",neutral,45.0,11.0,13.11,2024-01-24
+TI000550,ORD00206,C0094,Wrap World,Fries,Side,3.0,,neutral,45.0,11.0,13.11,2024-01-24
+TI000551,ORD00206,C0094,Wrap World,Coke,Drink,3.0,"It was alright, I might try something different next time.",,45.0,11.0,13.11,2024-01-24
+TI000552,ORD00207,C0116,Wrap World,Chicken Wrap,Main,2.0,"Terrible experience, order was wrong and took too long.",negative,37.0,29.0,13.33,2024-10-08
+TI000553,ORD00207,C0116,Wrap World,Fries,Side,2.0,"Terrible experience, order was wrong and took too long.",negative,37.0,29.0,13.33,2024-10-08
+TI000554,ORD00207,C0116,Wrap World,Lemonade,Drink,2.0,"Terrible experience, order was wrong and took too long.",negative,37.0,29.0,13.33,2024-10-08
+TI000555,ORD00208,C0087,Noodle Nest,Udon,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,43.0,34.0,17.26,2024-10-12
+TI000556,ORD00208,C0087,Noodle Nest,Spring Rolls,Side,,"Loved every bite, the quality is consistently excellent.",positive,43.0,34.0,17.26,2024-10-12
+TI000557,ORD00208,C0087,Noodle Nest,Jasmine Tea,Drink,,"Loved every bite, the quality is consistently excellent.",,43.0,34.0,17.26,2024-10-12
+TI000558,ORD00209,C0122,Burger Barn,Burger,Main,4.0,Great portion size and incredibly tasty.,positive,49.0,14.0,11.68,2024-09-22
+TI000559,ORD00209,C0122,Burger Barn,Fries,Side,4.0,Great portion size and incredibly tasty.,positive,49.0,14.0,11.68,2024-09-22
+TI000560,ORD00209,C0122,Burger Barn,Coke,Drink,4.0,Great portion size and incredibly tasty.,positive,49.0,14.0,11.68,2024-09-22
+TI000561,ORD00210,C0077,Taco Town,Chicken Taco,Main,4.0,Superb quality! The meal was warm and delicious.,positive,41.0,26.0,11.13,2024-10-30
+TI000562,ORD00210,C0077,Taco Town,Guacamole,Side,4.0,Superb quality! The meal was warm and delicious.,positive,41.0,26.0,11.13,2024-10-30
+TI000563,ORD00210,C0077,Taco Town,Horchata,Drink,4.0,Superb quality! The meal was warm and delicious.,positive,41.0,,11.13,2024-10-30
+TI000564,ORD00211,C0095,Wrap World,Chicken Wrap,Main,4.0,So good I ordered again the next day!,positive,63.0,13.0,13.93,2024-06-18
+TI000565,ORD00211,C0095,Wrap World,Coleslaw,Side,4.0,So good I ordered again the next day!,positive,63.0,13.0,13.93,2024-06-18
+TI000566,ORD00211,C0095,Wrap World,Lemonade,Drink,4.0,So good I ordered again the next day!,positive,63.0,13.0,13.93,2024-06-18
+TI000567,ORD00212,C0149,Burger Barn,Burger,Main,4.0,Perfect meal for a cozy evening at home.,positive,,33.0,9.58,2024-10-22
+TI000568,ORD00212,C0149,Burger Barn,Onion Rings,Side,,Perfect meal for a cozy evening at home.,positive,34.0,33.0,9.58,2024-10-22
+TI000569,ORD00213,C0063,Noodle Nest,Pad Thai,Main,1.0,,negative,56.0,32.0,16.2,2024-01-17
+TI000570,ORD00213,C0063,Noodle Nest,Dumpling,Side,1.0,"The meal was soggy and bland, I want my money back.",negative,56.0,32.0,16.2,2024-01-17
+TI000571,ORD00214,C0053,Noodle Nest,Pad Thai,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,52.0,,17.2,2024-07-29
+TI000572,ORD00214,C0053,Noodle Nest,Dumpling,Side,4.0,Highly satisfied with the taste and delivery speed.,positive,52.0,34.0,17.2,2024-07-29
+TI000573,ORD00215,C0144,Burger Barn,Double Burger,Main,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,62.0,25.0,12.03,2024-06-15
+TI000574,ORD00215,C0144,Burger Barn,Fries,Side,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,25.0,12.03,2024-06-15
+TI000575,ORD00216,C0091,Salad Station,Quinoa Bowl,Main,5.0,Quick delivery and the food tasted fantastic!,positive,69.0,33.0,13.84,2024-12-12
+TI000576,ORD00216,C0091,Salad Station,Green Salad,Side,5.0,Quick delivery and the food tasted fantastic!,positive,69.0,,13.84,2024-12-12
+TI000577,ORD00217,C0072,Salad Station,Caesar Salad,Side,5.0,So good I ordered again the next day!,positive,39.0,17.0,13.86,2024-10-12
+TI000578,ORD00217,C0072,Salad Station,Avocado Toast,Main,5.0,,positive,39.0,17.0,13.86,2024-10-12
+TI000579,ORD00218,C0126,Wrap World,Falafel Wrap,Main,5.0,Superb quality! The meal was warm and delicious.,positive,50.0,21.0,10.6,2024-06-11
+TI000580,ORD00218,C0126,Wrap World,Coleslaw,Side,5.0,Superb quality! The meal was warm and delicious.,positive,,21.0,10.6,2024-06-11
+TI000581,ORD00219,C0140,Wrap World,Beef Wrap,Main,5.0,Quick delivery and the food tasted fantastic!,positive,45.0,21.0,15.87,2024-07-13
+TI000582,ORD00219,C0140,Wrap World,Fries,Side,5.0,Quick delivery and the food tasted fantastic!,positive,45.0,21.0,15.87,2024-07-13
+TI000583,ORD00219,C0140,Wrap World,Coke,Drink,5.0,Quick delivery and the food tasted fantastic!,positive,45.0,21.0,15.87,2024-07-13
+TI000584,ORD00219,C0140,Wrap World,Lemonade,Drink,5.0,Quick delivery and the food tasted fantastic!,,45.0,21.0,15.87,2024-07-13
+TI000585,ORD00220,C0021,Burger Barn,Veggie Burger,Main,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,48.0,30.0,11.98,2024-06-26
+TI000586,ORD00220,C0021,Burger Barn,Onion Rings,Side,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,48.0,30.0,11.98,2024-06-26
+TI000587,ORD00220,C0021,Burger Barn,Coke,Drink,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,48.0,30.0,11.98,2024-06-26
+TI000588,ORD00221,C0036,Wrap World,Falafel Wrap,Main,3.0,"Typical food, delivery was on schedule.",neutral,59.0,33.0,10.65,2024-02-25
+TI000589,ORD00221,C0036,Wrap World,Fries,Side,3.0,"Typical food, delivery was on schedule.",neutral,59.0,33.0,10.65,2024-02-25
+TI000590,ORD00222,C0085,Pasta Point,Penne Arrabiata,Main,1.0,,negative,26.0,31.0,17.01,2024-08-29
+TI000591,ORD00222,C0085,Pasta Point,Tiramisu,Dessert,1.0,Overpriced for such average food quality.,negative,26.0,31.0,17.01,2024-08-29
+TI000592,ORD00222,C0085,Pasta Point,Coke,Drink,,,,26.0,31.0,17.01,2024-08-29
+TI000593,ORD00223,C0122,Sushi Spot,Shrimp Tempura,Side,3.0,"Decent food, portions could be a bit larger.",neutral,61.0,16.0,26.48,2024-09-01
+TI000594,ORD00223,C0122,Sushi Spot,Salmon Sushi,Main,3.0,"Decent food, portions could be a bit larger.",neutral,61.0,16.0,26.48,2024-09-01
+TI000595,ORD00223,C0122,Sushi Spot,Green Salad,Side,3.0,"Decent food, portions could be a bit larger.",neutral,61.0,,26.48,2024-09-01
+TI000596,ORD00224,C0060,Burger Barn,Burger,Main,1.0,The food was not fresh and the portions were tiny.,negative,67.0,33.0,12.17,2024-09-30
+TI000597,ORD00224,C0060,Burger Barn,Fries,Side,1.0,The food was not fresh and the portions were tiny.,negative,,33.0,12.17,2024-09-30
+TI000598,ORD00224,C0060,Burger Barn,Coke,Drink,1.0,The food was not fresh and the portions were tiny.,negative,67.0,33.0,12.17,2024-09-30
+TI000599,ORD00225,C0010,Noodle Nest,Pad Thai,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,70.0,25.0,16.35,2024-07-22
+TI000600,ORD00225,C0010,Noodle Nest,Dumpling,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,70.0,25.0,16.35,2024-07-22
+TI000601,ORD00226,C0028,Wrap World,Chicken Wrap,Main,4.0,"Outstanding food, the whole family enjoyed it.",positive,38.0,24.0,16.44,2024-06-20
+TI000602,ORD00226,C0028,Wrap World,Fries,Side,,"Outstanding food, the whole family enjoyed it.",positive,38.0,24.0,16.44,2024-06-20
+TI000603,ORD00226,C0028,Wrap World,Lemonade,Drink,4.0,"Outstanding food, the whole family enjoyed it.",,38.0,24.0,16.44,2024-06-20
+TI000604,ORD00226,C0028,Wrap World,Coleslaw,Side,4.0,"Outstanding food, the whole family enjoyed it.",positive,38.0,24.0,16.44,2024-06-20
+TI000605,ORD00227,C0050,Sushi Spot,Tuna Roll,Main,4.0,Superb quality! The meal was warm and delicious.,positive,41.0,15.0,27.43,2024-02-27
+TI000606,ORD00227,C0050,Sushi Spot,Dragon Roll,Main,4.0,Superb quality! The meal was warm and delicious.,positive,41.0,15.0,27.43,2024-02-27
+TI000607,ORD00227,C0050,Sushi Spot,Edamame,Side,4.0,Superb quality! The meal was warm and delicious.,positive,41.0,,27.43,2024-02-27
+TI000608,ORD00228,C0076,Sushi Spot,Salmon Sushi,Main,4.0,"Fresh ingredients and great presentation, loved it.",positive,63.0,34.0,19.36,2024-10-17
+TI000609,ORD00228,C0076,Sushi Spot,Miso Soup,Side,,"Fresh ingredients and great presentation, loved it.",positive,63.0,,19.36,2024-10-17
+TI000610,ORD00228,C0076,Sushi Spot,Green Salad,Side,4.0,"Fresh ingredients and great presentation, loved it.",positive,63.0,34.0,19.36,2024-10-17
+TI000611,ORD00229,C0023,Noodle Nest,Ramen,Main,3.0,"Okay experience overall, nothing extraordinary.",neutral,62.0,13.0,19.34,2024-07-24
+TI000612,ORD00229,C0023,Noodle Nest,Dumpling,Side,3.0,"Okay experience overall, nothing extraordinary.",neutral,,,19.34,2024-07-24
+TI000613,ORD00229,C0023,Noodle Nest,Jasmine Tea,Drink,3.0,"Okay experience overall, nothing extraordinary.",neutral,,13.0,19.34,2024-07-24
+TI000614,ORD00230,C0061,Pasta Point,Spaghetti Carbonara,Main,4.0,Superb quality! The meal was warm and delicious.,positive,68.0,18.0,15.88,2024-08-16
+TI000615,ORD00230,C0061,Pasta Point,Garlic Bread,Side,4.0,Superb quality! The meal was warm and delicious.,positive,68.0,18.0,15.88,2024-08-16
+TI000616,ORD00230,C0061,Pasta Point,Coke,Drink,4.0,Superb quality! The meal was warm and delicious.,positive,68.0,18.0,15.88,2024-08-16
+TI000617,ORD00231,C0061,Burger Barn,Veggie Burger,Main,3.0,"Typical food, delivery was on schedule.",neutral,62.0,13.0,12.4,2024-02-01
+TI000618,ORD00231,C0061,Burger Barn,Onion Rings,Side,3.0,"Typical food, delivery was on schedule.",neutral,62.0,13.0,12.4,2024-02-01
+TI000619,ORD00231,C0061,Burger Barn,Coke,Drink,3.0,"Typical food, delivery was on schedule.",neutral,62.0,13.0,12.4,2024-02-01
+TI000620,ORD00232,C0076,Wrap World,Chicken Wrap,Main,3.0,"It was fine, delivery was a little late though.",neutral,59.0,17.0,12.41,2024-07-07
+TI000621,ORD00232,C0076,Wrap World,Fries,Side,3.0,"It was fine, delivery was a little late though.",neutral,59.0,17.0,12.41,2024-07-07
+TI000622,ORD00232,C0076,Wrap World,Lemonade,Drink,3.0,"It was fine, delivery was a little late though.",neutral,59.0,17.0,12.41,2024-07-07
+TI000623,ORD00233,C0141,Salad Station,Quinoa Bowl,Main,5.0,So good I ordered again the next day!,positive,68.0,27.0,14.08,2024-08-29
+TI000624,ORD00233,C0141,Salad Station,Green Salad,Side,5.0,So good I ordered again the next day!,positive,68.0,27.0,14.08,2024-08-29
+TI000625,ORD00234,C0021,Pasta Point,Penne Arrabiata,Main,2.0,"The worst delivery experience, food was inedible.",negative,,26.0,13.39,2024-09-26
+TI000626,ORD00234,C0021,Pasta Point,Garlic Bread,Side,2.0,"The worst delivery experience, food was inedible.",negative,,26.0,13.39,2024-09-26
+TI000627,ORD00235,C0130,Pizza Palace,Margherita Pizza,Main,4.0,Perfect meal for a cozy evening at home.,positive,56.0,27.0,11.28,2024-04-13
+TI000628,ORD00235,C0130,Pizza Palace,Pepsi,Drink,4.0,Perfect meal for a cozy evening at home.,positive,56.0,27.0,11.28,2024-04-13
+TI000629,ORD00236,C0150,Salad Station,Greek Salad,Side,2.0,,negative,25.0,,10.37,2024-09-07
+TI000630,ORD00236,C0150,Salad Station,Smoothie,Drink,2.0,The food was not fresh and the portions were tiny.,negative,25.0,,10.37,2024-09-07
+TI000631,ORD00237,C0144,Noodle Nest,Ramen,Main,1.0,"Disappointing quality, not worth the price at all.",negative,63.0,35.0,19.59,2024-08-24
+TI000632,ORD00237,C0144,Noodle Nest,Dumpling,Side,1.0,"Disappointing quality, not worth the price at all.",negative,63.0,35.0,19.59,2024-08-24
+TI000633,ORD00237,C0144,Noodle Nest,Jasmine Tea,Drink,1.0,"Disappointing quality, not worth the price at all.",negative,63.0,35.0,19.59,2024-08-24
+TI000634,ORD00238,C0019,Burger Barn,Double Burger,Main,4.0,Absolutely delicious! Will definitely order again.,positive,47.0,21.0,12.38,2024-01-24
+TI000635,ORD00238,C0019,Burger Barn,Fries,Side,,Absolutely delicious! Will definitely order again.,positive,47.0,21.0,12.38,2024-01-24
+TI000636,ORD00239,C0047,Pizza Palace,Margherita Pizza,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,,30.0,15.43,2024-03-10
+TI000637,ORD00239,C0047,Pizza Palace,Garlic Bread,Side,4.0,"Loved every bite, the quality is consistently excellent.",positive,69.0,30.0,15.43,2024-03-10
+TI000638,ORD00239,C0047,Pizza Palace,Pepsi,Drink,4.0,"Loved every bite, the quality is consistently excellent.",positive,69.0,30.0,15.43,2024-03-10
+TI000639,ORD00240,C0097,Taco Town,Beef Taco,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,25.0,31.0,12.9,2024-07-11
+TI000640,ORD00240,C0097,Taco Town,Chicken Taco,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,25.0,31.0,12.9,2024-07-11
+TI000641,ORD00240,C0097,Taco Town,Guacamole,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,31.0,12.9,2024-07-11
+TI000642,ORD00241,C0101,Taco Town,Beef Taco,Main,5.0,So good I ordered again the next day!,positive,,33.0,16.92,2024-09-27
+TI000643,ORD00241,C0101,Taco Town,Nachos,Side,5.0,So good I ordered again the next day!,positive,,33.0,16.92,2024-09-27
+TI000644,ORD00241,C0101,Taco Town,Horchata,Drink,5.0,So good I ordered again the next day!,positive,28.0,33.0,16.92,2024-09-27
+TI000645,ORD00241,C0101,Taco Town,Guacamole,Side,5.0,So good I ordered again the next day!,positive,28.0,33.0,16.92,2024-09-27
+TI000646,ORD00242,C0140,Burger Barn,Veggie Burger,Main,3.0,"Okay experience overall, nothing extraordinary.",neutral,54.0,22.0,13.12,2024-08-05
+TI000647,ORD00242,C0140,Burger Barn,Onion Rings,Side,3.0,"Okay experience overall, nothing extraordinary.",neutral,54.0,22.0,13.12,2024-08-05
+TI000648,ORD00242,C0140,Burger Barn,Coke,Drink,3.0,"Okay experience overall, nothing extraordinary.",neutral,54.0,22.0,13.12,2024-08-05
+TI000649,ORD00243,C0029,Sushi Spot,Dragon Roll,Main,5.0,"Wonderful experience, the food was restaurant-quality.",positive,71.0,31.0,19.31,2024-01-17
+TI000650,ORD00243,C0029,Sushi Spot,Miso Soup,Side,5.0,"Wonderful experience, the food was restaurant-quality.",positive,71.0,31.0,19.31,2024-01-17
+TI000651,ORD00243,C0029,Sushi Spot,Edamame,Side,5.0,"Wonderful experience, the food was restaurant-quality.",positive,71.0,,19.31,2024-01-17
+TI000652,ORD00244,C0026,Burger Barn,Double Burger,Main,5.0,Absolutely delicious! Will definitely order again.,positive,22.0,24.0,15.67,2024-10-31
+TI000653,ORD00244,C0026,Burger Barn,Fries,Side,5.0,Absolutely delicious! Will definitely order again.,positive,22.0,24.0,15.67,2024-10-31
+TI000654,ORD00244,C0026,Burger Barn,Milkshake,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,22.0,24.0,15.67,2024-10-31
+TI000655,ORD00245,C0060,Pasta Point,Spaghetti Carbonara,Main,2.0,Overpriced for such average food quality.,negative,33.0,34.0,15.7,2024-10-03
+TI000656,ORD00245,C0060,Pasta Point,Garlic Bread,Side,2.0,Overpriced for such average food quality.,negative,33.0,34.0,15.7,2024-10-03
+TI000657,ORD00245,C0060,Pasta Point,Coke,Drink,2.0,Overpriced for such average food quality.,negative,33.0,34.0,15.7,2024-10-03
+TI000658,ORD00246,C0148,Wrap World,Falafel Wrap,Main,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,56.0,29.0,11.03,2024-06-12
+TI000659,ORD00246,C0148,Wrap World,Coleslaw,Side,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,56.0,29.0,11.03,2024-06-12
+TI000660,ORD00247,C0134,Wrap World,Falafel Wrap,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,46.0,19.0,10.03,2024-04-23
+TI000661,ORD00247,C0134,Wrap World,Coleslaw,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,,19.0,10.03,2024-04-23
+TI000662,ORD00248,C0013,Sushi Spot,Shrimp Tempura,Side,4.0,Superb quality! The meal was warm and delicious.,positive,61.0,31.0,25.73,2024-06-25
+TI000663,ORD00248,C0013,Sushi Spot,Salmon Sushi,Main,4.0,Superb quality! The meal was warm and delicious.,positive,61.0,31.0,25.73,2024-06-25
+TI000664,ORD00248,C0013,Sushi Spot,Green Salad,Side,4.0,Superb quality! The meal was warm and delicious.,positive,61.0,31.0,25.73,2024-06-25
+TI000665,ORD00249,C0048,Noodle Nest,Ramen,Main,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,17.0,25.66,2024-10-02
+TI000666,ORD00249,C0048,Noodle Nest,Dumpling,Side,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,17.0,25.66,2024-10-02
+TI000667,ORD00249,C0048,Noodle Nest,Jasmine Tea,Drink,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,,25.66,2024-10-02
+TI000668,ORD00249,C0048,Noodle Nest,Spring Rolls,Side,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,17.0,25.66,2024-10-02
+TI000669,ORD00250,C0144,Sushi Spot,Shrimp Tempura,Side,4.0,Quick delivery and the food tasted fantastic!,positive,,27.0,26.03,2024-07-30
+TI000670,ORD00250,C0144,Sushi Spot,Salmon Sushi,Main,4.0,Quick delivery and the food tasted fantastic!,positive,46.0,27.0,26.03,2024-07-30
+TI000671,ORD00250,C0144,Sushi Spot,Green Salad,Side,4.0,Quick delivery and the food tasted fantastic!,positive,46.0,27.0,26.03,2024-07-30
+TI000672,ORD00251,C0116,Pasta Point,Fettuccine Alfredo,Main,3.0,,neutral,25.0,27.0,15.92,2024-07-08
+TI000673,ORD00251,C0116,Pasta Point,Garlic Bread,Side,3.0,"Decent food, portions could be a bit larger.",neutral,25.0,27.0,15.92,2024-07-08
+TI000674,ORD00251,C0116,Pasta Point,Coke,Drink,3.0,"Decent food, portions could be a bit larger.",,25.0,27.0,15.92,2024-07-08
+TI000675,ORD00252,C0019,Noodle Nest,Pad Thai,Main,5.0,,positive,71.0,34.0,16.66,2024-04-06
+TI000676,ORD00252,C0019,Noodle Nest,Spring Rolls,Side,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,71.0,34.0,16.66,2024-04-06
+TI000677,ORD00253,C0086,Salad Station,Caesar Salad,Side,5.0,"Best meal I've had in a long time, highly recommend!",positive,,16.0,13.85,2024-06-04
+TI000678,ORD00253,C0086,Salad Station,Avocado Toast,Main,5.0,"Best meal I've had in a long time, highly recommend!",positive,20.0,16.0,13.85,2024-06-04
+TI000679,ORD00254,C0053,Salad Station,Caesar Salad,Side,3.0,"Arrived on time, food was mediocre.",neutral,35.0,27.0,12.62,2024-07-22
+TI000680,ORD00254,C0053,Salad Station,Avocado Toast,Main,3.0,"Arrived on time, food was mediocre.",neutral,35.0,27.0,12.62,2024-07-22
+TI000681,ORD00255,C0132,Taco Town,Fish Taco,Main,5.0,So good I ordered again the next day!,positive,49.0,13.0,11.59,2024-09-11
+TI000682,ORD00255,C0132,Taco Town,Nachos,Side,5.0,So good I ordered again the next day!,positive,49.0,13.0,11.59,2024-09-11
+TI000683,ORD00256,C0106,Taco Town,Chicken Taco,Main,1.0,Overpriced for such average food quality.,negative,56.0,17.0,10.95,2024-01-24
+TI000684,ORD00256,C0106,Taco Town,Guacamole,Side,1.0,Overpriced for such average food quality.,negative,56.0,17.0,10.95,2024-01-24
+TI000685,ORD00256,C0106,Taco Town,Horchata,Drink,1.0,Overpriced for such average food quality.,negative,56.0,17.0,10.95,2024-01-24
+TI000686,ORD00257,C0059,Noodle Nest,Udon,Main,5.0,"Fresh ingredients and great presentation, loved it.",positive,56.0,17.0,17.97,2024-07-13
+TI000687,ORD00257,C0059,Noodle Nest,Spring Rolls,Side,5.0,"Fresh ingredients and great presentation, loved it.",positive,,17.0,17.97,2024-07-13
+TI000688,ORD00257,C0059,Noodle Nest,Jasmine Tea,Drink,5.0,"Fresh ingredients and great presentation, loved it.",positive,56.0,17.0,17.97,2024-07-13
+TI000689,ORD00258,C0126,Taco Town,Fish Taco,Main,5.0,Great portion size and incredibly tasty.,positive,67.0,25.0,10.9,2024-11-24
+TI000690,ORD00258,C0126,Taco Town,Nachos,Side,5.0,Great portion size and incredibly tasty.,positive,67.0,25.0,10.9,2024-11-24
+TI000691,ORD00259,C0126,Sushi Spot,Tuna Roll,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,54.0,30.0,18.38,2024-04-04
+TI000692,ORD00259,C0126,Sushi Spot,Edamame,Side,4.0,Highly satisfied with the taste and delivery speed.,positive,54.0,30.0,18.38,2024-04-04
+TI000693,ORD00259,C0126,Sushi Spot,Miso Soup,Side,4.0,Highly satisfied with the taste and delivery speed.,positive,,30.0,18.38,2024-04-04
+TI000694,ORD00260,C0106,Pizza Palace,Margherita Pizza,Main,5.0,,positive,73.0,30.0,11.44,2024-03-11
+TI000695,ORD00260,C0106,Pizza Palace,Pepsi,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,73.0,30.0,11.44,2024-03-11
+TI000696,ORD00261,C0016,Pasta Point,Penne Arrabiata,Main,,"Fresh ingredients and great presentation, loved it.",positive,60.0,31.0,13.85,2024-11-12
+TI000697,ORD00261,C0016,Pasta Point,Garlic Bread,Side,5.0,"Fresh ingredients and great presentation, loved it.",positive,60.0,,13.85,2024-11-12
+TI000698,ORD00262,C0106,Salad Station,Greek Salad,Side,4.0,Quick delivery and the food tasted fantastic!,positive,21.0,26.0,17.41,2024-01-07
+TI000699,ORD00262,C0106,Salad Station,Smoothie,Drink,4.0,Quick delivery and the food tasted fantastic!,positive,21.0,26.0,17.41,2024-01-07
+TI000700,ORD00262,C0106,Salad Station,Avocado Toast,Main,4.0,Quick delivery and the food tasted fantastic!,positive,21.0,26.0,17.41,2024-01-07
+TI000701,ORD00263,C0111,Burger Barn,Burger,Main,3.0,"Not bad, not great, just an ordinary meal.",neutral,26.0,13.0,10.53,2024-04-01
+TI000702,ORD00263,C0111,Burger Barn,Onion Rings,Side,3.0,"Not bad, not great, just an ordinary meal.",neutral,,13.0,10.53,2024-04-01
+TI000703,ORD00264,C0102,Wrap World,Beef Wrap,Main,3.0,"The meal was passable, would try a different option next time.",neutral,43.0,22.0,12.89,2024-02-10
+TI000704,ORD00264,C0102,Wrap World,Fries,Side,3.0,"The meal was passable, would try a different option next time.",neutral,43.0,22.0,12.89,2024-02-10
+TI000705,ORD00264,C0102,Wrap World,Coke,Drink,3.0,"The meal was passable, would try a different option next time.",neutral,43.0,22.0,12.89,2024-02-10
+TI000706,ORD00265,C0021,Pasta Point,Fettuccine Alfredo,Main,2.0,Order arrived late and the food was undercooked.,negative,74.0,30.0,15.99,2024-11-30
+TI000707,ORD00265,C0021,Pasta Point,Garlic Bread,Side,2.0,Order arrived late and the food was undercooked.,negative,74.0,30.0,15.99,2024-11-30
+TI000708,ORD00265,C0021,Pasta Point,Coke,Drink,2.0,Order arrived late and the food was undercooked.,negative,74.0,,15.99,2024-11-30
+TI000709,ORD00266,C0003,Noodle Nest,Pad Thai,Main,4.0,So good I ordered again the next day!,positive,,12.0,16.48,2024-12-25
+TI000710,ORD00266,C0003,Noodle Nest,Spring Rolls,Side,4.0,So good I ordered again the next day!,positive,30.0,12.0,16.48,2024-12-25
+TI000711,ORD00267,C0025,Taco Town,Fish Taco,Main,5.0,,positive,22.0,17.0,10.89,2024-09-27
+TI000712,ORD00267,C0025,Taco Town,Guacamole,Side,5.0,,positive,,17.0,10.89,2024-09-27
+TI000713,ORD00267,C0025,Taco Town,Horchata,Drink,5.0,"Wonderful experience, the food was restaurant-quality.",positive,22.0,17.0,10.89,2024-09-27
+TI000714,ORD00268,C0072,Salad Station,Quinoa Bowl,Main,5.0,Great portion size and incredibly tasty.,positive,56.0,31.0,18.04,2024-10-05
+TI000715,ORD00268,C0072,Salad Station,Smoothie,Drink,5.0,Great portion size and incredibly tasty.,positive,56.0,31.0,18.04,2024-10-05
+TI000716,ORD00268,C0072,Salad Station,Greek Salad,Side,5.0,Great portion size and incredibly tasty.,positive,56.0,31.0,18.04,2024-10-05
+TI000717,ORD00269,C0102,Burger Barn,Double Burger,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,39.0,15.0,15.6,2024-02-09
+TI000718,ORD00269,C0102,Burger Barn,Fries,Side,4.0,Highly satisfied with the taste and delivery speed.,positive,39.0,15.0,15.6,2024-02-09
+TI000719,ORD00269,C0102,Burger Barn,Milkshake,Drink,4.0,,positive,39.0,15.0,15.6,2024-02-09
+TI000720,ORD00270,C0036,Noodle Nest,Pad Thai,Main,5.0,Absolutely delicious! Will definitely order again.,positive,66.0,12.0,16.48,2024-12-18
+TI000721,ORD00270,C0036,Noodle Nest,Spring Rolls,Side,,Absolutely delicious! Will definitely order again.,,66.0,12.0,16.48,2024-12-18
+TI000001,ORD00001,C0063,Pizza Palace,Margherita Pizza,Main,5.0,Perfect meal for a cozy evening at home.,positive,28.0,33.0,11.18,2024-04-24
+TI000002,ORD00001,C0063,Pizza Palace,Pepsi,Drink,5.0,Perfect meal for a cozy evening at home.,positive,28.0,33.0,11.18,2024-04-24
+TI000003,ORD00002,C0008,Pizza Palace,Pepperoni Pizza,Main,,"Cold food and extremely late delivery, very unhappy.",negative,33.0,17.0,17.98,2024-02-17
+TI000004,ORD00002,C0008,Pizza Palace,Caesar Salad,Side,1.0,"Cold food and extremely late delivery, very unhappy.",negative,33.0,17.0,17.98,2024-02-17
+TI000005,ORD00002,C0008,Pizza Palace,Pepsi,Drink,1.0,,negative,33.0,17.0,17.98,2024-02-17
+TI000006,ORD00003,C0072,Noodle Nest,Pad Thai,Main,4.0,Quick delivery and the food tasted fantastic!,positive,68.0,35.0,16.3,2024-01-04
+TI000007,ORD00003,C0072,Noodle Nest,Dumpling,Side,4.0,Quick delivery and the food tasted fantastic!,positive,68.0,35.0,16.3,2024-01-04
+TI000008,ORD00004,C0087,Sushi Spot,Tuna Roll,Main,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,22.0,16.66,2024-02-22
+TI000009,ORD00004,C0087,Sushi Spot,Edamame,Side,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,22.0,16.66,2024-02-22
+TI000010,ORD00004,C0087,Sushi Spot,Miso Soup,Side,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,22.0,16.66,2024-02-22
+TI000011,ORD00005,C0138,Wrap World,Chicken Wrap,Main,5.0,"Excellent taste and fast delivery, very satisfied!",positive,44.0,12.0,13.07,2024-03-04
+TI000012,ORD00005,C0138,Wrap World,Fries,Side,5.0,"Excellent taste and fast delivery, very satisfied!",positive,44.0,12.0,13.07,2024-03-04
+TI000013,ORD00005,C0138,Wrap World,Lemonade,Drink,5.0,"Excellent taste and fast delivery, very satisfied!",,44.0,12.0,13.07,2024-03-04
+TI000014,ORD00006,C0012,Taco Town,Fish Taco,Main,2.0,"Cold food and extremely late delivery, very unhappy.",negative,34.0,34.0,15.04,2024-12-04
+TI000015,ORD00006,C0012,Taco Town,Guacamole,Side,2.0,"Cold food and extremely late delivery, very unhappy.",negative,34.0,34.0,15.04,2024-12-04
+TI000016,ORD00006,C0012,Taco Town,Horchata,Drink,2.0,"Cold food and extremely late delivery, very unhappy.",negative,34.0,34.0,15.04,2024-12-04
+TI000017,ORD00006,C0012,Taco Town,Beef Taco,Main,,"Cold food and extremely late delivery, very unhappy.",negative,34.0,34.0,15.04,2024-12-04
+TI000018,ORD00007,C0094,Pizza Palace,Margherita Pizza,Main,3.0,"Typical food, delivery was on schedule.",neutral,43.0,21.0,13.89,2024-03-24
+TI000019,ORD00007,C0094,Pizza Palace,Garlic Bread,Side,3.0,"Typical food, delivery was on schedule.",neutral,43.0,21.0,13.89,2024-03-24
+TI000020,ORD00007,C0094,Pizza Palace,Pepsi,Drink,3.0,"Typical food, delivery was on schedule.",neutral,43.0,21.0,13.89,2024-03-24
+TI000021,ORD00008,C0137,Pizza Palace,Pepperoni Pizza,Main,5.0,"Fresh ingredients and great presentation, loved it.",positive,30.0,24.0,17.73,2024-05-05
+TI000022,ORD00008,C0137,Pizza Palace,Caesar Salad,Side,5.0,"Fresh ingredients and great presentation, loved it.",positive,30.0,24.0,17.73,2024-05-05
+TI000023,ORD00008,C0137,Pizza Palace,Pepsi,Drink,5.0,"Fresh ingredients and great presentation, loved it.",positive,30.0,24.0,17.73,2024-05-05
+TI000024,ORD00009,C0015,Pasta Point,Fettuccine Alfredo,Main,4.0,"Best meal I've had in a long time, highly recommend!",positive,72.0,11.0,16.08,2024-04-27
+TI000025,ORD00009,C0015,Pasta Point,Garlic Bread,Side,4.0,"Best meal I've had in a long time, highly recommend!",positive,72.0,11.0,16.08,2024-04-27
+TI000026,ORD00009,C0015,Pasta Point,Coke,Drink,4.0,"Best meal I've had in a long time, highly recommend!",positive,,11.0,16.08,2024-04-27
+TI000027,ORD00010,C0081,Pasta Point,Penne Arrabiata,Main,5.0,"Outstanding food, the whole family enjoyed it.",positive,61.0,25.0,12.77,2024-04-18
+TI000028,ORD00010,C0081,Pasta Point,Garlic Bread,Side,5.0,"Outstanding food, the whole family enjoyed it.",positive,,25.0,12.77,2024-04-18
+TI000029,ORD00011,C0144,Sushi Spot,Dragon Roll,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,36.0,33.0,19.64,2024-10-02
+TI000030,ORD00011,C0144,Sushi Spot,Miso Soup,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,36.0,33.0,19.64,2024-10-02
+TI000031,ORD00011,C0144,Sushi Spot,Edamame,Side,5.0,"Loved every bite, the quality is consistently excellent.",,36.0,33.0,19.64,2024-10-02
+TI000032,ORD00012,C0036,Taco Town,Chicken Taco,Main,5.0,,positive,51.0,12.0,10.98,2024-09-17
+TI000033,ORD00012,C0036,Taco Town,Guacamole,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,51.0,12.0,10.98,2024-09-17
+TI000034,ORD00012,C0036,Taco Town,Horchata,Drink,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,51.0,12.0,10.98,2024-09-17
+TI000035,ORD00013,C0099,Sushi Spot,Shrimp Tempura,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,58.0,24.0,26.03,2024-07-14
+TI000036,ORD00013,C0099,Sushi Spot,Salmon Sushi,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,58.0,24.0,26.03,2024-07-14
+TI000037,ORD00013,C0099,Sushi Spot,Green Salad,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,58.0,24.0,26.03,2024-07-14
+TI000038,ORD00014,C0138,Burger Barn,Double Burger,Main,3.0,"It was fine, delivery was a little late though.",neutral,69.0,30.0,11.66,2024-05-16
+TI000039,ORD00014,C0138,Burger Barn,Fries,Side,3.0,"It was fine, delivery was a little late though.",neutral,69.0,30.0,11.66,2024-05-16
+TI000040,ORD00015,C0068,Salad Station,Greek Salad,Side,2.0,Terrible! Food smelled off and delivery was over an hour late.,negative,68.0,15.0,10.5,2024-09-13
+TI000041,ORD00015,C0068,Salad Station,Smoothie,Drink,2.0,Terrible! Food smelled off and delivery was over an hour late.,negative,68.0,15.0,10.5,2024-09-13
+TI000042,ORD00016,C0040,Wrap World,Falafel Wrap,Main,5.0,Perfect meal for a cozy evening at home.,positive,68.0,15.0,10.56,2024-07-10
+TI000043,ORD00016,C0040,Wrap World,Fries,Side,5.0,Perfect meal for a cozy evening at home.,positive,68.0,15.0,10.56,2024-07-10
+TI000044,ORD00017,C0005,Burger Barn,Burger,Main,2.0,"The worst delivery experience, food was inedible.",negative,43.0,35.0,10.1,2024-02-27
+TI000045,ORD00017,C0005,Burger Barn,Onion Rings,Side,2.0,"The worst delivery experience, food was inedible.",negative,43.0,35.0,10.1,2024-02-27
+TI000046,ORD00018,C0018,Pizza Palace,Margherita Pizza,Main,4.0,Perfect meal for a cozy evening at home.,positive,69.0,,11.24,2024-09-29
+TI000047,ORD00018,C0018,Pizza Palace,Pepsi,Drink,4.0,Perfect meal for a cozy evening at home.,positive,69.0,14.0,11.24,2024-09-29
+TI000048,ORD00019,C0109,Sushi Spot,Dragon Roll,Main,,"Decent food, portions could be a bit larger.",neutral,54.0,34.0,17.44,2024-04-18
+TI000049,ORD00019,C0109,Sushi Spot,Miso Soup,Side,3.0,"Decent food, portions could be a bit larger.",neutral,54.0,34.0,17.44,2024-04-18
+TI000050,ORD00020,C0133,Noodle Nest,Udon,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,17.0,17.42,2024-08-19
+TI000051,ORD00020,C0133,Noodle Nest,Spring Rolls,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,17.0,17.42,2024-08-19
+TI000052,ORD00020,C0133,Noodle Nest,Jasmine Tea,Drink,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,17.0,17.42,2024-08-19
+TI000053,ORD00021,C0019,Pasta Point,Penne Arrabiata,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,60.0,11.0,12.44,2024-12-28
+TI000054,ORD00021,C0019,Pasta Point,Garlic Bread,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,60.0,11.0,12.44,2024-12-28
+TI000055,ORD00022,C0072,Taco Town,Beef Taco,Main,5.0,"Wonderful experience, the food was restaurant-quality.",positive,51.0,16.0,13.05,2024-12-08
+TI000056,ORD00022,C0072,Taco Town,Nachos,Side,5.0,"Wonderful experience, the food was restaurant-quality.",positive,51.0,16.0,13.05,2024-12-08
+TI000057,ORD00022,C0072,Taco Town,Horchata,Drink,5.0,"Wonderful experience, the food was restaurant-quality.",positive,51.0,16.0,13.05,2024-12-08
+TI000058,ORD00023,C0105,Salad Station,Caesar Salad,Side,4.0,"Loved every bite, the quality is consistently excellent.",positive,26.0,13.0,13.3,2024-04-07
+TI000059,ORD00023,C0105,Salad Station,Avocado Toast,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,26.0,13.0,13.3,2024-04-07
+TI000060,ORD00024,C0026,Salad Station,Greek Salad,Side,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,45.0,33.0,10.16,2024-02-01
+TI000061,ORD00024,C0026,Salad Station,Smoothie,Drink,5.0,"Amazing flavors, perfectly seasoned. Five stars!",,45.0,33.0,10.16,2024-02-01
+TI000062,ORD00025,C0036,Pasta Point,Penne Arrabiata,Main,5.0,"Best meal I've had in a long time, highly recommend!",positive,31.0,18.0,14.91,2024-08-04
+TI000063,ORD00025,C0036,Pasta Point,Tiramisu,Dessert,5.0,"Best meal I've had in a long time, highly recommend!",positive,31.0,18.0,14.91,2024-08-04
+TI000064,ORD00026,C0139,Salad Station,Quinoa Bowl,Main,3.0,"Arrived on time, food was mediocre.",neutral,25.0,34.0,14.18,2024-01-08
+TI000065,ORD00026,C0139,Salad Station,Green Salad,Side,3.0,"Arrived on time, food was mediocre.",neutral,25.0,,14.18,2024-01-08
+TI000066,ORD00027,C0016,Salad Station,Caesar Salad,Side,3.0,"Arrived on time, food was mediocre.",neutral,44.0,10.0,13.95,2024-03-25
+TI000067,ORD00027,C0016,Salad Station,Avocado Toast,Main,3.0,"Arrived on time, food was mediocre.",neutral,44.0,10.0,13.95,2024-03-25
+TI000068,ORD00028,C0143,Wrap World,Chicken Wrap,Main,3.0,"Food was okay, nothing too special but decent.",neutral,65.0,25.0,12.28,2024-12-04
+TI000069,ORD00028,C0143,Wrap World,Coleslaw,Side,3.0,"Food was okay, nothing too special but decent.",neutral,65.0,25.0,12.28,2024-12-04
+TI000070,ORD00028,C0143,Wrap World,Lemonade,Drink,3.0,"Food was okay, nothing too special but decent.",neutral,65.0,25.0,12.28,2024-12-04
+TI000071,ORD00029,C0013,Burger Barn,Double Burger,Main,4.0,Absolutely delicious! Will definitely order again.,positive,50.0,26.0,12.82,2024-10-26
+TI000072,ORD00029,C0013,Burger Barn,Fries,Side,4.0,Absolutely delicious! Will definitely order again.,positive,50.0,26.0,12.82,2024-10-26
+TI000073,ORD00030,C0061,Pizza Palace,Pepperoni Pizza,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,28.0,23.95,2024-07-25
+TI000074,ORD00030,C0061,Pizza Palace,Pepsi,Drink,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,28.0,23.95,2024-07-25
+TI000075,ORD00030,C0061,Pizza Palace,Garlic Bread,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,27.0,28.0,23.95,2024-07-25
+TI000076,ORD00030,C0061,Pizza Palace,Margherita Pizza,Main,,"Excellent taste and fast delivery, very satisfied!",positive,,28.0,23.95,2024-07-25
+TI000077,ORD00031,C0145,Pizza Palace,Margherita Pizza,Main,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,40.0,18.0,13.88,2024-09-24
+TI000078,ORD00031,C0145,Pizza Palace,Garlic Bread,Side,,"Amazing flavors, perfectly seasoned. Five stars!",positive,40.0,18.0,13.88,2024-09-24
+TI000079,ORD00031,C0145,Pizza Palace,Pepsi,Drink,5.0,"Amazing flavors, perfectly seasoned. Five stars!",,40.0,18.0,13.88,2024-09-24
+TI000080,ORD00032,C0077,Wrap World,Chicken Wrap,Main,1.0,"The worst delivery experience, food was inedible.",negative,40.0,34.0,13.84,2024-08-22
+TI000081,ORD00032,C0077,Wrap World,Coleslaw,Side,1.0,"The worst delivery experience, food was inedible.",negative,40.0,34.0,13.84,2024-08-22
+TI000082,ORD00032,C0077,Wrap World,Lemonade,Drink,1.0,"The worst delivery experience, food was inedible.",negative,40.0,34.0,13.84,2024-08-22
+TI000083,ORD00033,C0130,Pizza Palace,Margherita Pizza,Main,5.0,Great portion size and incredibly tasty.,positive,28.0,21.0,12.74,2024-05-15
+TI000084,ORD00033,C0130,Pizza Palace,Pepsi,Drink,5.0,Great portion size and incredibly tasty.,positive,28.0,21.0,12.74,2024-05-15
+TI000085,ORD00034,C0140,Wrap World,Falafel Wrap,Main,5.0,Perfect meal for a cozy evening at home.,positive,39.0,,11.45,2024-12-26
+TI000086,ORD00034,C0140,Wrap World,Coleslaw,Side,5.0,Perfect meal for a cozy evening at home.,positive,39.0,29.0,11.45,2024-12-26
+TI000087,ORD00035,C0077,Burger Barn,Double Burger,Main,5.0,,positive,26.0,,11.51,2024-12-05
+TI000088,ORD00035,C0077,Burger Barn,Fries,Side,5.0,Superb quality! The meal was warm and delicious.,positive,26.0,,11.51,2024-12-05
+TI000089,ORD00036,C0054,Sushi Spot,Dragon Roll,Main,3.0,"Arrived on time, food was mediocre.",neutral,33.0,31.0,17.25,2024-06-24
+TI000090,ORD00036,C0054,Sushi Spot,Miso Soup,Side,3.0,,neutral,33.0,31.0,17.25,2024-06-24
+TI000091,ORD00037,C0071,Wrap World,Chicken Wrap,Main,4.0,Quick delivery and the food tasted fantastic!,positive,20.0,20.0,13.51,2024-01-23
+TI000092,ORD00037,C0071,Wrap World,Fries,Side,4.0,Quick delivery and the food tasted fantastic!,,20.0,20.0,13.51,2024-01-23
+TI000093,ORD00037,C0071,Wrap World,Lemonade,Drink,4.0,Quick delivery and the food tasted fantastic!,positive,20.0,20.0,13.51,2024-01-23
+TI000094,ORD00038,C0110,Sushi Spot,Shrimp Tempura,Side,,"Wonderful experience, the food was restaurant-quality.",positive,20.0,13.0,25.12,2024-10-14
+TI000095,ORD00038,C0110,Sushi Spot,Salmon Sushi,Main,5.0,"Wonderful experience, the food was restaurant-quality.",positive,20.0,13.0,25.12,2024-10-14
+TI000096,ORD00038,C0110,Sushi Spot,Green Salad,Side,5.0,"Wonderful experience, the food was restaurant-quality.",positive,20.0,13.0,25.12,2024-10-14
+TI000097,ORD00039,C0150,Sushi Spot,Tuna Roll,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,29.0,23.0,35.21,2024-10-09
+TI000098,ORD00039,C0150,Sushi Spot,Dragon Roll,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,29.0,23.0,35.21,2024-10-09
+TI000099,ORD00039,C0150,Sushi Spot,Edamame,Side,4.0,"Wonderful experience, the food was restaurant-quality.",positive,29.0,23.0,35.21,2024-10-09
+TI000100,ORD00039,C0150,Sushi Spot,Shrimp Tempura,Side,4.0,"Wonderful experience, the food was restaurant-quality.",positive,29.0,23.0,35.21,2024-10-09
+TI000101,ORD00040,C0064,Burger Barn,Veggie Burger,Main,5.0,"Loved every bite, the quality is consistently excellent.",,,21.0,13.03,2024-12-07
+TI000102,ORD00040,C0064,Burger Barn,Onion Rings,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,26.0,21.0,13.03,2024-12-07
+TI000103,ORD00040,C0064,Burger Barn,Coke,Drink,5.0,"Loved every bite, the quality is consistently excellent.",positive,26.0,21.0,13.03,2024-12-07
+TI000104,ORD00041,C0046,Sushi Spot,Tuna Roll,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,21.0,15.0,17.94,2024-07-30
+TI000105,ORD00041,C0046,Sushi Spot,Edamame,Side,4.0,,positive,21.0,15.0,17.94,2024-07-30
+TI000106,ORD00041,C0046,Sushi Spot,Miso Soup,Side,,"Wonderful experience, the food was restaurant-quality.",positive,21.0,15.0,17.94,2024-07-30
+TI000107,ORD00042,C0028,Noodle Nest,Pad Thai,Main,3.0,"Arrived on time, food was mediocre.",neutral,75.0,11.0,17.7,2024-07-14
+TI000108,ORD00042,C0028,Noodle Nest,Dumpling,Side,3.0,"Arrived on time, food was mediocre.",,75.0,11.0,17.7,2024-07-14
+TI000109,ORD00043,C0059,Taco Town,Fish Taco,Main,,Highly satisfied with the taste and delivery speed.,positive,21.0,31.0,10.37,2024-04-24
+TI000110,ORD00043,C0059,Taco Town,Nachos,Side,4.0,,positive,21.0,31.0,10.37,2024-04-24
+TI000111,ORD00044,C0131,Pizza Palace,BBQ Chicken Pizza,Main,1.0,"Disappointing quality, not worth the price at all.",negative,63.0,27.0,16.64,2024-07-23
+TI000112,ORD00044,C0131,Pizza Palace,Caesar Salad,Side,1.0,,negative,63.0,27.0,16.64,2024-07-23
+TI000113,ORD00045,C0068,Sushi Spot,Tuna Roll,Main,5.0,Great portion size and incredibly tasty.,positive,26.0,29.0,26.84,2024-01-20
+TI000114,ORD00045,C0068,Sushi Spot,Dragon Roll,Main,5.0,Great portion size and incredibly tasty.,positive,26.0,29.0,26.84,2024-01-20
+TI000115,ORD00045,C0068,Sushi Spot,Edamame,Side,5.0,Great portion size and incredibly tasty.,positive,26.0,29.0,26.84,2024-01-20
+TI000116,ORD00046,C0030,Noodle Nest,Pad Thai,Main,5.0,Absolutely delicious! Will definitely order again.,positive,56.0,,15.99,2024-07-16
+TI000117,ORD00046,C0030,Noodle Nest,Spring Rolls,Side,5.0,Absolutely delicious! Will definitely order again.,,56.0,16.0,15.99,2024-07-16
+TI000118,ORD00047,C0085,Pasta Point,Fettuccine Alfredo,Main,,Quick delivery and the food tasted fantastic!,positive,40.0,31.0,16.17,2024-11-15
+TI000119,ORD00047,C0085,Pasta Point,Garlic Bread,Side,5.0,,positive,40.0,31.0,16.17,2024-11-15
+TI000120,ORD00047,C0085,Pasta Point,Coke,Drink,5.0,,positive,40.0,31.0,16.17,2024-11-15
+TI000121,ORD00048,C0076,Wrap World,Chicken Wrap,Main,5.0,"Fresh ingredients and great presentation, loved it.",positive,28.0,16.0,12.81,2024-10-10
+TI000122,ORD00048,C0076,Wrap World,Coleslaw,Side,5.0,"Fresh ingredients and great presentation, loved it.",positive,28.0,16.0,12.81,2024-10-10
+TI000123,ORD00048,C0076,Wrap World,Lemonade,Drink,5.0,"Fresh ingredients and great presentation, loved it.",positive,28.0,16.0,12.81,2024-10-10
+TI000124,ORD00049,C0104,Sushi Spot,Tuna Roll,Main,3.0,"Not bad, not great, just an ordinary meal.",neutral,73.0,10.0,26.58,2024-10-07
+TI000125,ORD00049,C0104,Sushi Spot,Dragon Roll,Main,3.0,"Not bad, not great, just an ordinary meal.",neutral,73.0,10.0,26.58,2024-10-07
+TI000126,ORD00049,C0104,Sushi Spot,Edamame,Side,3.0,"Not bad, not great, just an ordinary meal.",neutral,73.0,10.0,26.58,2024-10-07
+TI000127,ORD00050,C0055,Taco Town,Beef Taco,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,50.0,35.0,12.77,2024-09-18
+TI000128,ORD00050,C0055,Taco Town,Chicken Taco,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,50.0,35.0,12.77,2024-09-18
+TI000129,ORD00050,C0055,Taco Town,Guacamole,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,50.0,35.0,12.77,2024-09-18
+TI000130,ORD00051,C0086,Pizza Palace,BBQ Chicken Pizza,Main,4.0,So good I ordered again the next day!,positive,72.0,34.0,16.45,2024-02-17
+TI000131,ORD00051,C0086,Pizza Palace,Caesar Salad,Side,4.0,So good I ordered again the next day!,positive,72.0,34.0,16.45,2024-02-17
+TI000132,ORD00052,C0122,Pasta Point,Penne Arrabiata,Main,4.0,"Fresh ingredients and great presentation, loved it.",positive,74.0,34.0,14.13,2024-11-08
+TI000133,ORD00052,C0122,Pasta Point,Tiramisu,Dessert,4.0,"Fresh ingredients and great presentation, loved it.",positive,74.0,34.0,14.13,2024-11-08
+TI000134,ORD00053,C0063,Pasta Point,Spaghetti Carbonara,Main,5.0,So good I ordered again the next day!,positive,61.0,32.0,14.99,2024-03-16
+TI000135,ORD00053,C0063,Pasta Point,Caesar Salad,Side,5.0,So good I ordered again the next day!,positive,61.0,32.0,14.99,2024-03-16
+TI000136,ORD00054,C0133,Pizza Palace,Margherita Pizza,Main,5.0,"Outstanding food, the whole family enjoyed it.",positive,23.0,27.0,13.97,2024-08-25
+TI000137,ORD00054,C0133,Pizza Palace,Garlic Bread,Side,5.0,"Outstanding food, the whole family enjoyed it.",positive,23.0,27.0,13.97,2024-08-25
+TI000138,ORD00054,C0133,Pizza Palace,Pepsi,Drink,5.0,"Outstanding food, the whole family enjoyed it.",positive,23.0,27.0,13.97,2024-08-25
+TI000139,ORD00055,C0144,Sushi Spot,Shrimp Tempura,Side,4.0,Superb quality! The meal was warm and delicious.,positive,,34.0,26.75,2024-10-31
+TI000140,ORD00055,C0144,Sushi Spot,Salmon Sushi,Main,4.0,Superb quality! The meal was warm and delicious.,,40.0,34.0,26.75,2024-10-31
+TI000141,ORD00055,C0144,Sushi Spot,Green Salad,Side,4.0,Superb quality! The meal was warm and delicious.,positive,40.0,34.0,26.75,2024-10-31
+TI000142,ORD00056,C0041,Noodle Nest,Pad Thai,Main,5.0,Quick delivery and the food tasted fantastic!,positive,48.0,,16.98,2024-08-31
+TI000143,ORD00056,C0041,Noodle Nest,Spring Rolls,Side,5.0,,,48.0,18.0,16.98,2024-08-31
+TI000144,ORD00057,C0020,Salad Station,Caesar Salad,Side,4.0,,positive,38.0,17.0,12.52,2024-12-31
+TI000145,ORD00057,C0020,Salad Station,Avocado Toast,Main,4.0,Perfect meal for a cozy evening at home.,positive,38.0,17.0,12.52,2024-12-31
+TI000146,ORD00058,C0040,Pizza Palace,Pepperoni Pizza,Main,4.0,"Outstanding food, the whole family enjoyed it.",positive,33.0,12.0,15.3,2024-12-27
+TI000147,ORD00058,C0040,Pizza Palace,Pepsi,Drink,4.0,"Outstanding food, the whole family enjoyed it.",positive,33.0,12.0,15.3,2024-12-27
+TI000148,ORD00058,C0040,Pizza Palace,Garlic Bread,Side,4.0,"Outstanding food, the whole family enjoyed it.",positive,33.0,12.0,15.3,2024-12-27
+TI000149,ORD00059,C0108,Noodle Nest,Ramen,Main,1.0,"The worst delivery experience, food was inedible.",negative,69.0,28.0,20.36,2024-07-18
+TI000150,ORD00059,C0108,Noodle Nest,Spring Rolls,Side,,"The worst delivery experience, food was inedible.",negative,69.0,28.0,20.36,2024-07-18
+TI000151,ORD00059,C0108,Noodle Nest,Jasmine Tea,Drink,1.0,"The worst delivery experience, food was inedible.",negative,69.0,28.0,20.36,2024-07-18
+TI000152,ORD00060,C0077,Noodle Nest,Ramen,Main,5.0,So good I ordered again the next day!,positive,74.0,23.0,29.54,2024-07-18
+TI000153,ORD00060,C0077,Noodle Nest,Dumpling,Side,5.0,So good I ordered again the next day!,positive,74.0,23.0,29.54,2024-07-18
+TI000154,ORD00060,C0077,Noodle Nest,Jasmine Tea,Drink,5.0,So good I ordered again the next day!,positive,74.0,23.0,29.54,2024-07-18
+TI000155,ORD00060,C0077,Noodle Nest,Udon,Main,5.0,So good I ordered again the next day!,,74.0,23.0,29.54,2024-07-18
+TI000156,ORD00061,C0112,Pasta Point,Spaghetti Carbonara,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,21.0,22.0,15.65,2024-09-05
+TI000157,ORD00061,C0112,Pasta Point,Caesar Salad,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,21.0,22.0,15.65,2024-09-05
+TI000158,ORD00062,C0137,Sushi Spot,Shrimp Tempura,Side,1.0,Terrible! Food smelled off and delivery was over an hour late.,negative,45.0,28.0,26.1,2024-01-14
+TI000159,ORD00062,C0137,Sushi Spot,Salmon Sushi,Main,1.0,Terrible! Food smelled off and delivery was over an hour late.,negative,45.0,28.0,26.1,2024-01-14
+TI000160,ORD00062,C0137,Sushi Spot,Green Salad,Side,1.0,Terrible! Food smelled off and delivery was over an hour late.,negative,45.0,28.0,26.1,2024-01-14
+TI000161,ORD00063,C0047,Noodle Nest,Pad Thai,Main,4.0,Great portion size and incredibly tasty.,positive,36.0,22.0,16.63,2024-01-26
+TI000162,ORD00063,C0047,Noodle Nest,Dumpling,Side,4.0,Great portion size and incredibly tasty.,positive,,22.0,16.63,2024-01-26
+TI000163,ORD00064,C0108,Noodle Nest,Udon,Main,5.0,Absolutely delicious! Will definitely order again.,positive,73.0,12.0,17.91,2024-05-09
+TI000164,ORD00064,C0108,Noodle Nest,Spring Rolls,Side,5.0,Absolutely delicious! Will definitely order again.,,73.0,12.0,17.91,2024-05-09
+TI000165,ORD00064,C0108,Noodle Nest,Jasmine Tea,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,73.0,12.0,17.91,2024-05-09
+TI000166,ORD00065,C0011,Taco Town,Chicken Taco,Main,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,35.0,16.0,11.15,2024-01-16
+TI000167,ORD00065,C0011,Taco Town,Guacamole,Side,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,35.0,16.0,11.15,2024-01-16
+TI000168,ORD00065,C0011,Taco Town,Horchata,Drink,4.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,35.0,16.0,11.15,2024-01-16
+TI000169,ORD00066,C0145,Sushi Spot,Shrimp Tempura,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,49.0,32.0,25.48,2024-04-21
+TI000170,ORD00066,C0145,Sushi Spot,Salmon Sushi,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,49.0,,25.48,2024-04-21
+TI000171,ORD00066,C0145,Sushi Spot,Green Salad,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,49.0,,25.48,2024-04-21
+TI000172,ORD00067,C0028,Pizza Palace,Pepperoni Pizza,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,,19.0,15.62,2024-10-23
+TI000173,ORD00067,C0028,Pizza Palace,Pepsi,Drink,5.0,"Loved every bite, the quality is consistently excellent.",,,19.0,15.62,2024-10-23
+TI000174,ORD00067,C0028,Pizza Palace,Garlic Bread,Side,5.0,,positive,21.0,19.0,15.62,2024-10-23
+TI000175,ORD00068,C0063,Noodle Nest,Pad Thai,Main,5.0,So good I ordered again the next day!,positive,64.0,34.0,18.57,2024-02-22
+TI000176,ORD00068,C0063,Noodle Nest,Dumpling,Side,5.0,So good I ordered again the next day!,positive,64.0,34.0,18.57,2024-02-22
+TI000177,ORD00068,C0063,Noodle Nest,Jasmine Tea,Drink,5.0,So good I ordered again the next day!,,64.0,34.0,18.57,2024-02-22
+TI000178,ORD00069,C0089,Pizza Palace,Pepperoni Pizza,Main,4.0,Great portion size and incredibly tasty.,positive,47.0,31.0,17.71,2024-09-29
+TI000179,ORD00069,C0089,Pizza Palace,Caesar Salad,Side,4.0,Great portion size and incredibly tasty.,positive,47.0,,17.71,2024-09-29
+TI000180,ORD00069,C0089,Pizza Palace,Pepsi,Drink,4.0,Great portion size and incredibly tasty.,positive,47.0,31.0,17.71,2024-09-29
+TI000181,ORD00070,C0028,Burger Barn,Chicken Strips,Side,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,43.0,30.0,11.25,2024-08-09
+TI000182,ORD00070,C0028,Burger Barn,Fries,Side,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,30.0,11.25,2024-08-09
+TI000183,ORD00070,C0028,Burger Barn,Coke,Drink,4.0,"The food arrived hot and fresh, exceeded my expectations.",positive,43.0,30.0,11.25,2024-08-09
+TI000184,ORD00071,C0070,Noodle Nest,Pad Thai,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,71.0,27.0,17.53,2024-11-11
+TI000185,ORD00071,C0070,Noodle Nest,Dumpling,Side,4.0,Highly satisfied with the taste and delivery speed.,positive,71.0,,17.53,2024-11-11
+TI000186,ORD00072,C0023,Wrap World,Beef Wrap,Main,4.0,"Fresh ingredients and great presentation, loved it.",positive,48.0,17.0,13.47,2024-05-22
+TI000187,ORD00072,C0023,Wrap World,Fries,Side,4.0,"Fresh ingredients and great presentation, loved it.",positive,48.0,17.0,13.47,2024-05-22
+TI000188,ORD00072,C0023,Wrap World,Coke,Drink,4.0,"Fresh ingredients and great presentation, loved it.",positive,48.0,17.0,13.47,2024-05-22
+TI000189,ORD00073,C0047,Noodle Nest,Udon,Main,4.0,"Wonderful experience, the food was restaurant-quality.",positive,33.0,21.0,18.57,2024-09-06
+TI000190,ORD00073,C0047,Noodle Nest,Spring Rolls,Side,4.0,"Wonderful experience, the food was restaurant-quality.",positive,33.0,21.0,18.57,2024-09-06
+TI000191,ORD00073,C0047,Noodle Nest,Jasmine Tea,Drink,4.0,"Wonderful experience, the food was restaurant-quality.",positive,,21.0,18.57,2024-09-06
+TI000192,ORD00074,C0022,Wrap World,Falafel Wrap,Main,5.0,Superb quality! The meal was warm and delicious.,positive,66.0,23.0,10.46,2024-05-03
+TI000193,ORD00074,C0022,Wrap World,Fries,Side,5.0,Superb quality! The meal was warm and delicious.,positive,66.0,23.0,10.46,2024-05-03
+TI000194,ORD00075,C0005,Salad Station,Greek Salad,Side,3.0,"Typical food, delivery was on schedule.",neutral,38.0,17.0,16.78,2024-02-17
+TI000195,ORD00075,C0005,Salad Station,Avocado Toast,Main,3.0,"Typical food, delivery was on schedule.",neutral,38.0,17.0,16.78,2024-02-17
+TI000196,ORD00075,C0005,Salad Station,Smoothie,Drink,3.0,"Typical food, delivery was on schedule.",neutral,38.0,17.0,16.78,2024-02-17
+TI000197,ORD00076,C0089,Taco Town,Beef Taco,Main,5.0,Quick delivery and the food tasted fantastic!,positive,67.0,27.0,11.63,2024-08-05
+TI000198,ORD00076,C0089,Taco Town,Chicken Taco,Main,5.0,Quick delivery and the food tasted fantastic!,positive,67.0,27.0,11.63,2024-08-05
+TI000199,ORD00076,C0089,Taco Town,Guacamole,Side,5.0,Quick delivery and the food tasted fantastic!,positive,67.0,27.0,11.63,2024-08-05
+TI000200,ORD00077,C0050,Wrap World,Beef Wrap,Main,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,33.0,13.04,2024-06-10
+TI000201,ORD00077,C0050,Wrap World,Fries,Side,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,33.0,13.04,2024-06-10
+TI000202,ORD00077,C0050,Wrap World,Coke,Drink,5.0,"The food arrived hot and fresh, exceeded my expectations.",positive,,33.0,13.04,2024-06-10
+TI000203,ORD00078,C0071,Pasta Point,Penne Arrabiata,Main,5.0,Highly satisfied with the taste and delivery speed.,positive,68.0,26.0,15.17,2024-10-28
+TI000204,ORD00078,C0071,Pasta Point,Tiramisu,Dessert,5.0,Highly satisfied with the taste and delivery speed.,positive,68.0,26.0,15.17,2024-10-28
+TI000205,ORD00079,C0046,Pasta Point,Fettuccine Alfredo,Main,3.0,"Food was okay, nothing too special but decent.",neutral,20.0,32.0,15.54,2024-06-03
+TI000206,ORD00079,C0046,Pasta Point,Garlic Bread,Side,3.0,"Food was okay, nothing too special but decent.",neutral,20.0,32.0,15.54,2024-06-03
+TI000207,ORD00079,C0046,Pasta Point,Coke,Drink,3.0,"Food was okay, nothing too special but decent.",neutral,20.0,32.0,15.54,2024-06-03
+TI000208,ORD00080,C0126,Wrap World,Falafel Wrap,Main,4.0,"Outstanding food, the whole family enjoyed it.",positive,75.0,10.0,10.63,2024-02-22
+TI000209,ORD00080,C0126,Wrap World,Coleslaw,Side,4.0,"Outstanding food, the whole family enjoyed it.",positive,75.0,10.0,10.63,2024-02-22
+TI000210,ORD00081,C0065,Taco Town,Chicken Taco,Main,2.0,Terrible! Food smelled off and delivery was over an hour late.,negative,27.0,12.0,10.27,2024-09-01
+TI000211,ORD00081,C0065,Taco Town,Guacamole,Side,2.0,Terrible! Food smelled off and delivery was over an hour late.,,27.0,12.0,10.27,2024-09-01
+TI000212,ORD00081,C0065,Taco Town,Horchata,Drink,,Terrible! Food smelled off and delivery was over an hour late.,negative,27.0,,10.27,2024-09-01
+TI000213,ORD00082,C0022,Burger Barn,Double Burger,Main,4.0,So good I ordered again the next day!,positive,27.0,27.0,18.99,2024-05-07
+TI000214,ORD00082,C0022,Burger Barn,Fries,Side,4.0,So good I ordered again the next day!,positive,27.0,27.0,18.99,2024-05-07
+TI000215,ORD00082,C0022,Burger Barn,Milkshake,Drink,4.0,So good I ordered again the next day!,positive,,27.0,18.99,2024-05-07
+TI000216,ORD00082,C0022,Burger Barn,Onion Rings,Side,4.0,So good I ordered again the next day!,positive,27.0,27.0,18.99,2024-05-07
+TI000217,ORD00083,C0114,Pasta Point,Penne Arrabiata,Main,4.0,"Excellent taste and fast delivery, very satisfied!",positive,75.0,28.0,13.96,2024-06-01
+TI000218,ORD00083,C0114,Pasta Point,Garlic Bread,Side,4.0,"Excellent taste and fast delivery, very satisfied!",positive,75.0,28.0,13.96,2024-06-01
+TI000219,ORD00084,C0026,Burger Barn,Burger,Main,2.0,"Cold food and extremely late delivery, very unhappy.",negative,60.0,16.0,10.01,2024-04-16
+TI000220,ORD00084,C0026,Burger Barn,Onion Rings,Side,2.0,"Cold food and extremely late delivery, very unhappy.",negative,60.0,16.0,10.01,2024-04-16
+TI000221,ORD00085,C0105,Sushi Spot,Tuna Roll,Main,1.0,"Disappointing quality, not worth the price at all.",negative,64.0,29.0,38.9,2024-08-18
+TI000222,ORD00085,C0105,Sushi Spot,Dragon Roll,Main,1.0,"Disappointing quality, not worth the price at all.",negative,64.0,29.0,38.9,2024-08-18
+TI000223,ORD00085,C0105,Sushi Spot,Edamame,Side,1.0,"Disappointing quality, not worth the price at all.",negative,64.0,29.0,38.9,2024-08-18
+TI000224,ORD00085,C0105,Sushi Spot,Salmon Sushi,Main,1.0,"Disappointing quality, not worth the price at all.",negative,,29.0,38.9,2024-08-18
+TI000225,ORD00086,C0068,Wrap World,Chicken Wrap,Main,3.0,"Average meal, met my basic expectations.",neutral,57.0,31.0,20.07,2024-11-16
+TI000226,ORD00086,C0068,Wrap World,Coleslaw,Side,3.0,"Average meal, met my basic expectations.",neutral,57.0,31.0,20.07,2024-11-16
+TI000227,ORD00086,C0068,Wrap World,Lemonade,Drink,3.0,"Average meal, met my basic expectations.",neutral,,31.0,20.07,2024-11-16
+TI000228,ORD00086,C0068,Wrap World,Falafel Wrap,Main,3.0,"Average meal, met my basic expectations.",neutral,57.0,,20.07,2024-11-16
+TI000229,ORD00087,C0037,Pasta Point,Penne Arrabiata,Main,4.0,Highly satisfied with the taste and delivery speed.,positive,23.0,15.0,15.57,2024-02-06
+TI000230,ORD00087,C0037,Pasta Point,Tiramisu,Dessert,4.0,Highly satisfied with the taste and delivery speed.,positive,23.0,15.0,15.57,2024-02-06
+TI000231,ORD00088,C0078,Wrap World,Chicken Wrap,Main,4.0,"Best meal I've had in a long time, highly recommend!",positive,45.0,18.0,12.97,2024-12-24
+TI000232,ORD00088,C0078,Wrap World,Coleslaw,Side,4.0,"Best meal I've had in a long time, highly recommend!",positive,45.0,18.0,12.97,2024-12-24
+TI000233,ORD00088,C0078,Wrap World,Lemonade,Drink,4.0,"Best meal I've had in a long time, highly recommend!",positive,45.0,18.0,12.97,2024-12-24
+TI000234,ORD00089,C0065,Burger Barn,Chicken Strips,Side,5.0,"Excellent taste and fast delivery, very satisfied!",,25.0,17.0,11.39,2024-01-14
+TI000235,ORD00089,C0065,Burger Barn,Fries,Side,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,17.0,11.39,2024-01-14
+TI000236,ORD00089,C0065,Burger Barn,Coke,Drink,5.0,"Excellent taste and fast delivery, very satisfied!",positive,25.0,17.0,11.39,2024-01-14
+TI000237,ORD00090,C0148,Burger Barn,Double Burger,Main,4.0,"Outstanding food, the whole family enjoyed it.",positive,68.0,34.0,11.33,2024-01-21
+TI000238,ORD00090,C0148,Burger Barn,Fries,Side,,"Outstanding food, the whole family enjoyed it.",positive,68.0,34.0,11.33,2024-01-21
+TI000239,ORD00091,C0112,Wrap World,Falafel Wrap,Main,4.0,"Loved every bite, the quality is consistently excellent.",positive,72.0,25.0,11.42,2024-11-21
+TI000240,ORD00091,C0112,Wrap World,Coleslaw,Side,4.0,"Loved every bite, the quality is consistently excellent.",positive,72.0,25.0,11.42,2024-11-21
+TI000241,ORD00092,C0042,Taco Town,Fish Taco,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,46.0,32.0,10.97,2024-06-17
+TI000242,ORD00092,C0042,Taco Town,Nachos,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,46.0,32.0,10.97,2024-06-17
+TI000243,ORD00093,C0083,Burger Barn,Chicken Strips,Side,5.0,,positive,69.0,22.0,14.19,2024-02-29
+TI000244,ORD00093,C0083,Burger Barn,Fries,Side,5.0,Absolutely delicious! Will definitely order again.,positive,69.0,22.0,14.19,2024-02-29
+TI000245,ORD00093,C0083,Burger Barn,Coke,Drink,5.0,Absolutely delicious! Will definitely order again.,,69.0,22.0,14.19,2024-02-29
+TI000246,ORD00093,C0083,Burger Barn,Onion Rings,Side,5.0,Absolutely delicious! Will definitely order again.,positive,69.0,22.0,14.19,2024-02-29
+TI000247,ORD00094,C0093,Salad Station,Greek Salad,Side,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,68.0,25.0,17.22,2024-11-14
+TI000248,ORD00094,C0093,Salad Station,Avocado Toast,Main,5.0,"Amazing flavors, perfectly seasoned. Five stars!",,68.0,25.0,17.22,2024-11-14
+TI000249,ORD00094,C0093,Salad Station,Smoothie,Drink,5.0,"Amazing flavors, perfectly seasoned. Five stars!",positive,68.0,,17.22,2024-11-14
+TI000250,ORD00095,C0113,Wrap World,Falafel Wrap,Main,4.0,So good I ordered again the next day!,positive,51.0,,17.03,2024-12-23
+TI000251,ORD00095,C0113,Wrap World,Fries,Side,4.0,So good I ordered again the next day!,positive,51.0,13.0,17.03,2024-12-23
+TI000252,ORD00095,C0113,Wrap World,Beef Wrap,Main,4.0,So good I ordered again the next day!,positive,51.0,13.0,17.03,2024-12-23
+TI000253,ORD00096,C0004,Pasta Point,Penne Arrabiata,Main,5.0,"Best meal I've had in a long time, highly recommend!",positive,46.0,12.0,14.43,2024-10-09
+TI000254,ORD00096,C0004,Pasta Point,Tiramisu,Dessert,5.0,"Best meal I've had in a long time, highly recommend!",positive,46.0,12.0,14.43,2024-10-09
+TI000255,ORD00097,C0040,Salad Station,Greek Salad,Side,3.0,"Arrived on time, food was mediocre.",neutral,65.0,19.0,10.5,2024-09-12
+TI000256,ORD00097,C0040,Salad Station,Smoothie,Drink,3.0,,neutral,65.0,19.0,10.5,2024-09-12
+TI000257,ORD00098,C0038,Salad Station,Caesar Salad,Side,5.0,Highly satisfied with the taste and delivery speed.,positive,32.0,29.0,13.0,2024-07-15
+TI000258,ORD00098,C0038,Salad Station,Avocado Toast,Main,5.0,,positive,32.0,29.0,13.0,2024-07-15
+TI000259,ORD00099,C0107,Pizza Palace,BBQ Chicken Pizza,Main,1.0,"Not happy at all, low quality and rude service.",negative,70.0,26.0,16.51,2024-06-23
+TI000260,ORD00099,C0107,Pizza Palace,Caesar Salad,Side,1.0,"Not happy at all, low quality and rude service.",negative,70.0,26.0,16.51,2024-06-23
+TI000261,ORD00100,C0126,Wrap World,Falafel Wrap,Main,4.0,So good I ordered again the next day!,positive,48.0,27.0,10.45,2024-03-17
+TI000262,ORD00100,C0126,Wrap World,Fries,Side,4.0,So good I ordered again the next day!,positive,48.0,27.0,10.45,2024-03-17
+TI000263,ORD00101,C0049,Noodle Nest,Ramen,Main,5.0,"Loved every bite, the quality is consistently excellent.",positive,35.0,28.0,19.74,2024-12-23
+TI000264,ORD00101,C0049,Noodle Nest,Dumpling,Side,5.0,"Loved every bite, the quality is consistently excellent.",positive,35.0,28.0,19.74,2024-12-23
+TI000265,ORD00101,C0049,Noodle Nest,Jasmine Tea,Drink,5.0,"Loved every bite, the quality is consistently excellent.",positive,35.0,28.0,19.74,2024-12-23
+TI000266,ORD00102,C0098,Burger Barn,Veggie Burger,Main,5.0,"Outstanding food, the whole family enjoyed it.",positive,62.0,35.0,13.11,2024-07-16
+TI000267,ORD00102,C0098,Burger Barn,Onion Rings,Side,5.0,"Outstanding food, the whole family enjoyed it.",positive,62.0,35.0,13.11,2024-07-16
+TI000268,ORD00102,C0098,Burger Barn,Coke,Drink,5.0,"Outstanding food, the whole family enjoyed it.",positive,62.0,35.0,13.11,2024-07-16
+TI000269,ORD00103,C0085,Burger Barn,Double Burger,Main,5.0,Absolutely delicious! Will definitely order again.,positive,75.0,24.0,14.67,2024-02-21
+TI000270,ORD00103,C0085,Burger Barn,Fries,Side,5.0,Absolutely delicious! Will definitely order again.,positive,75.0,24.0,14.67,2024-02-21
+TI000271,ORD00103,C0085,Burger Barn,Milkshake,Drink,5.0,Absolutely delicious! Will definitely order again.,positive,75.0,24.0,14.67,2024-02-21
+TI000272,ORD00104,C0040,Sushi Spot,Shrimp Tempura,Side,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,35.0,26.91,2024-02-08
+TI000273,ORD00104,C0040,Sushi Spot,Salmon Sushi,Main,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,35.0,26.91,2024-02-08
+TI000274,ORD00104,C0040,Sushi Spot,Green Salad,Side,4.0,Superb quality! The meal was warm and delicious.,positive,50.0,,26.91,2024-02-08
+TI000275,ORD00105,C0137,Noodle Nest,Ramen,Main,5.0,,positive,,30.0,19.91,2024-07-13
+TI000276,ORD00105,C0137,Noodle Nest,Spring Rolls,Side,5.0,Highly satisfied with the taste and delivery speed.,,40.0,30.0,19.91,2024-07-13
+TI000277,ORD00105,C0137,Noodle Nest,Jasmine Tea,Drink,5.0,Highly satisfied with the taste and delivery speed.,positive,40.0,30.0,19.91,2024-07-13
+TI000278,ORD00106,C0059,Burger Barn,Burger,Main,5.0,"Best meal I've had in a long time, highly recommend!",positive,47.0,13.0,11.0,2024-02-16
+TI000279,ORD00106,C0059,Burger Barn,Onion Rings,Side,5.0,"Best meal I've had in a long time, highly recommend!",positive,47.0,13.0,11.0,2024-02-16
