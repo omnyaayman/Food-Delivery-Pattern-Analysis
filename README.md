@@ -1,75 +1,87 @@
 <div align="center">
 
-# 🍔 Food Delivery Pattern Analysis 🍟
+# 🍔 FOOD DELIVERY PATTERN ANALYSIS 🍟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Data+Mining+Project;Association+Rules+%7C+PageRank+%7C+BERT;Recommendation+System+for+Food+Delivery;Machine+Learning+%26+Graph+Analysis" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=2500&pause=1000&color=FF4B91&center=true&vCenter=true&width=1000&lines=Data+Mining+Project;Association+Rules+%7C+PageRank+%7C+BERT;Food+Recommendation+System;Machine+Learning+%26+Graph+Analysis" />
 
----
+<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/BERT-NLP-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NetworkX-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data-Mining-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data-Mining-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PageRank-FF6D00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recommendation-System-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
----
+<br><br>
 
-
-
-
-# 🌟 Project Overview
-
-This project focuses on analyzing customer food ordering behavior using advanced:
-
-✨ Data Mining Techniques  
-✨ Graph Analysis  
-✨ Deep Learning Models  
-✨ Recommendation Systems  
-
-The project simulates real-world food delivery platforms such as:
-
-🍕 Talabat  
-🍔 Uber Eats  
-🥙 Deliveroo  
-
-The main objective is to discover hidden ordering patterns, analyze customer reviews, and generate intelligent meal recommendations.
-
----
-
-# 🎯 Main Objectives
-
-<div align="center">
-
-| Objective | Description |
-|---|---|
-| 🍟 Frequent Itemsets | Discover meals frequently ordered together |
-| 📊 Association Rules | Analyze customer ordering patterns |
-| ⭐ PageRank Analysis | Rank the most popular meals |
-| 🤖 BERT Sentiment Analysis | Analyze customer reviews |
-| 🍔 Recommendation System | Suggest meal combinations |
-| 📈 Visualization | Generate insights using charts and graphs |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=220&section=header&text=Food%20Delivery%20Analytics&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
 ---
 
-# 🧠 Algorithms & Techniques
+# 🌟 PROJECT OVERVIEW
+
+This project focuses on analyzing customer food ordering behavior using advanced:
+
+✨ Data Mining Techniques  
+✨ Association Rule Mining  
+✨ Graph-Based Analysis  
+✨ Deep Learning Models  
+✨ Recommendation Systems  
+
+The project simulates real-world food delivery platforms such as:
+
+🍔 Uber Eats  
+🍕 Talabat  
+🌯 Deliveroo  
+
+The main goal is to discover hidden customer ordering patterns and generate intelligent meal recommendations using machine learning and graph analysis techniques.
+
+---
+
+# 🎯 PROJECT OBJECTIVES
+
+<div align="center">
+
+| 🎯 Objective | 📌 Description |
+|---|---|
+| 🍟 Frequent Itemsets | Discover meals ordered together |
+| 📊 Association Rules | Analyze customer ordering patterns |
+| ⭐ PageRank Analysis | Rank the most popular meals |
+| 🤖 BERT Sentiment Analysis | Analyze customer reviews |
+| 🍔 Recommendation System | Suggest meal combinations |
+| 📈 Data Visualization | Generate insights and charts |
+
+</div>
+
+---
+
+# 🧠 ALGORITHMS & TECHNIQUES
+
+---
 
 ## 🔹 Association Rule Mining
-Used to discover relationships between meals frequently ordered together.
 
-### Algorithms Used:
+Association Rule Mining was used to discover hidden relationships between meals frequently ordered together.
+
+### ✅ Algorithms Used:
 - Apriori Algorithm
 - FP-Growth Algorithm
 
-### Example Rules:
-✅ Burger ➜ Fries  
-✅ Pizza ➜ Cola  
-✅ Shawarma ➜ Pepsi  
-✅ Pasta ➜ Garlic Bread  
+### 📌 Example Rules:
+✔ Burger ➜ Fries  
+✔ Pizza ➜ Cola  
+✔ Shawarma ➜ Pepsi  
+✔ Pasta ➜ Garlic Bread  
+
+### 🎯 Purpose:
+- Discover customer behavior patterns
+- Generate meal recommendations
+- Identify popular combinations
 
 ---
 
@@ -80,49 +92,55 @@ A graph network was created where:
 - Nodes → Meals
 - Edges → Meal Relationships
 
-### Purpose:
-✔ Rank important meals  
-✔ Discover highly connected meals  
-✔ Analyze customer behavior patterns  
+The PageRank algorithm was applied to rank the most influential meals.
+
+### 🎯 Goals:
+✔ Detect highly connected meals  
+✔ Analyze customer interactions  
+✔ Identify best-selling meals  
 
 ---
 
 ## 🔹 BERT Sentiment Analysis
 
-BERT was applied to analyze customer reviews and classify sentiments into:
+BERT was used to analyze customer reviews and classify sentiments into:
 
 😊 Positive  
 😐 Neutral  
 😡 Negative  
 
-### Purpose:
-- Analyze customer satisfaction
-- Understand review sentiment
+### 🎯 Goals:
+- Understand customer satisfaction
+- Analyze customer feedback
 - Improve recommendation quality
 
 ---
 
-# 🚀 Technologies Used
+# 🚀 TECHNOLOGIES USED
 
 <div align="center">
 
-| Technology | Purpose |
-|---|---|
-| Python | Programming Language |
-| Pandas | Data Analysis |
-| NumPy | Numerical Computing |
-| NetworkX | Graph Analysis |
-| mlxtend | Association Rule Mining |
-| Transformers (BERT) | NLP & Sentiment Analysis |
-| Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
-| Jupyter Notebook | Development Environment |
+<table>
+<tr>
+<td align="center">🐍 Python</td>
+<td align="center">📊 Pandas</td>
+<td align="center">🔢 NumPy</td>
+<td align="center">📈 Matplotlib</td>
+</tr>
+
+<tr>
+<td align="center">🧠 BERT</td>
+<td align="center">🕸 NetworkX</td>
+<td align="center">🤖 Machine Learning</td>
+<td align="center">📓 Jupyter</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 📂 Project Structure
+# 📂 PROJECT STRUCTURE
 
 ```bash
 Project Final DM/
@@ -141,7 +159,7 @@ Project Final DM/
 
 ---
 
-# 📊 Dataset Description
+# 📊 DATASET DESCRIPTION
 
 The dataset contains:
 
@@ -153,29 +171,30 @@ The dataset contains:
 
 Each transaction represents meals ordered together by customers.
 
-The dataset was cleaned and processed before applying data mining techniques.
+The dataset was cleaned and processed before applying machine learning and data mining algorithms.
 
 ---
 
-# 🔄 Project Workflow
+# 🔄 PROJECT WORKFLOW
 
 <div align="center">
 
 ```mermaid
-graph LR;
-A[Data Collection] --> B[Data Cleaning];
-B --> C[Association Rule Mining];
-C --> D[Graph Analysis];
-D --> E[BERT Sentiment Analysis];
-E --> F[Recommendation System];
-F --> G[Visualization & Insights];
+graph TD;
+
+A[📥 Data Collection] --> B[🧹 Data Cleaning]
+B --> C[📊 Association Rule Mining]
+C --> D[🕸 Graph Analysis]
+D --> E[🧠 BERT Sentiment Analysis]
+E --> F[🤖 Recommendation System]
+F --> G[📈 Visualization & Insights]
 ```
 
 </div>
 
 ---
 
-# 📈 Data Visualization
+# 📈 DATA VISUALIZATION
 
 The project generates multiple visualizations including:
 
@@ -187,27 +206,30 @@ The project generates multiple visualizations including:
 
 ---
 
-# 📌 Key Insights
+# 📌 KEY INSIGHTS
 
 ✅ Customers frequently order fast-food combinations together  
 ✅ Positive reviews increase meal popularity  
 ✅ Some meals dominate the ordering network  
 ✅ Recommendation systems improve customer experience  
+✅ Graph analysis helps identify influential meals  
 
 ---
 
-# 🤖 Recommendation System
+# 🤖 RECOMMENDATION SYSTEM
 
 The recommendation system suggests meals based on:
 
-✔ Frequently ordered combinations  
+✔ Frequent itemsets  
 ✔ Popular meal rankings  
-✔ Customer ordering behavior  
+✔ Customer behavior  
 ✔ Graph relationships  
+
+The system improves customer experience by generating intelligent meal suggestions.
 
 ---
 
-# 🚀 How To Run The Project
+# 🚀 HOW TO RUN THE PROJECT
 
 ## 1️⃣ Clone Repository
 
@@ -239,9 +261,9 @@ Project__Finall_Data_Mining_ipynb.ipynb
 
 ---
 
-# 📄 Files Description
+# 📄 FILES DESCRIPTION
 
-| File | Description |
+| 📂 File | 📌 Description |
 |---|---|
 | Project__Finall_Data_Mining_ipynb.ipynb | Main Notebook |
 | app.py | Main Application |
@@ -253,37 +275,11 @@ Project__Finall_Data_Mining_ipynb.ipynb
 
 ---
 
-# 🔮 Future Improvements
-
-✨ Real-time recommendation systems  
-✨ Web application deployment  
-✨ Live API integration  
-✨ Advanced deep learning recommendation models  
-✨ Personalized customer recommendations  
-
----
-
-# 👨‍💻 Team Members
+# 🏆 PROJECT RESULTS
 
 <div align="center">
 
-| Name | Role |
-|---|---|
-| 🌟 Yasmin Ramadan | Team Leader |
-| 💻 Omnia Ayman | Team Member |
-| 📊 Ibrahim Galal | Team Member |
-| 🤖 Youssef Saeed | Team Member |
-| 🚀 Mazen Reda | Team Member |
-
-</div>
-
----
-
-# 🏆 Project Results
-
-<div align="center">
-
-| Achievement | Status |
+| ✅ Achievement | 🚀 Status |
 |---|---|
 | Frequent Pattern Mining | ✅ Completed |
 | PageRank Analysis | ✅ Completed |
@@ -295,7 +291,33 @@ Project__Finall_Data_Mining_ipynb.ipynb
 
 ---
 
-# 🏁 Conclusion
+# 🔮 FUTURE IMPROVEMENTS
+
+✨ Real-time recommendation systems  
+✨ Web application deployment  
+✨ Live API integration  
+✨ Personalized recommendations  
+✨ Advanced deep learning models  
+
+---
+
+# 👨‍💻 TEAM MEMBERS
+
+<div align="center">
+
+| 🌟 Name | 💼 Role |
+|---|---|
+| Yasmin Ramadan | Team Leader |
+| Omnia Ayman | Team Member |
+| Ibrahim Galal | Team Member |
+| Youssef Saeed | Team Member |
+| Mazen Reda | Team Member |
+
+</div>
+
+---
+
+# 🏁 CONCLUSION
 
 This project demonstrates how:
 
@@ -306,12 +328,25 @@ This project demonstrates how:
 
 can work together to generate meaningful insights from food delivery platforms and improve customer experience.
 
+The combination of:
+- Association Rule Mining
+- PageRank
+- BERT Sentiment Analysis
+
+allowed the project to generate intelligent recommendations and valuable business insights.
+
 ---
 
 <div align="center">
 
-# ⭐ Thank You For Visiting Our Project ⭐
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+Our+Project+💖;Made+With+Love+By+Our+Team+🚀;Data+Mining+%7C+Machine+Learning+%7C+BERT" />
 
----
+<br><br>
 
-### 💖 Don't Forget To Star The Repository 💖
+# ⭐ DON'T FORGET TO STAR THE REPOSITORY ⭐
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F5EFB,100:FC466B&height=150&section=footer"/>
+
+</div>
