@@ -17,6 +17,11 @@
 
 ---
 
+<img src="https://github-profile-trophy.vercel.app/?username=github&theme=radical&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
 
 # 🌟 Project Overview
 
@@ -303,6 +308,12 @@ This project demonstrates how:
 ✨ Recommendation Systems  
 
 can work together to generate meaningful insights from food delivery platforms and improve customer experience.
+
+---
+
+<div align="center">
+
+# ⭐ Thank You For Visiting Our Project ⭐
 
 ---
 
